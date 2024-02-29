@@ -2,6 +2,7 @@
 import re
 import html
 import requests
+from urllib.parse import urljoin, urlparse
 from bs4 import BeautifulSoup
 
 
@@ -47,11 +48,7 @@ def extract_company_name(url):
     Output:
         "playlistpush"
     """
-    match = re.search(r'[\w]+://(?:www.)?(.+?).[\w]+/', url)
-    if match:
-        return match.group(1)
-    else:
-        return ""
+    return re.search(r"(?:www\.)?(.*?)\.\w+$", urlparse(url).netloc).group(1)
     
 
 def extract_company_name_batch(url_list):

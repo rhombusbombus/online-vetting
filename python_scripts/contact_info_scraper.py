@@ -86,8 +86,8 @@ def trustpilot_contact_scraper(url):
 
 
 def google_contact_scraper(url):
-    name = re.findall(r'[\w]+://(?:www.)?(.+?).[\w]+/',  url)[0]
-    
+    #name = re.findall(r'[\w]+://(?:www.)?(.+?).[\w]+/',  url)[0]
+    name = extract_company_name(url)
     params = {
         'q': name,
         'hl': 'en'
@@ -135,7 +135,7 @@ def extract_soup(soup):
 
 def site_scraper(url): 
     # Extract the HTML 
-    #print(f"Currently scraping: {url}")
+    print(f"Currently scraping: {url}")
     soup = get_website(url)
     emails, phones = extract_soup(soup)
     return emails, phones
@@ -154,7 +154,7 @@ async def get_website_async(url):
 
 
 async def site_scraper_async(url): 
-    #print(f"Currently scraping dynamic HTML: {url}")
+    print(f"Currently scraping dynamic HTML: {url}")
     soup = await get_website_async(url)
     emails, phones = extract_soup(soup)
     return emails, phones
@@ -185,6 +185,7 @@ async def pipeline(urls):
     with alive_bar(total=len(urls), spinner=None) as bar:
         for url in urls:
             # Scraping TrustPilot profile
+            print("debug1")
             emails_list, phones_list, address_list = trustpilot_contact_scraper(url)
             emails_list = [emails_list]
             phones_list = [phones_list]
@@ -194,6 +195,7 @@ async def pipeline(urls):
             address_dict.update({url:address_list})
 
             # Scraping Google listings
+            print("debug2")
             phones_list, address_list = google_contact_scraper(url)
             if phone_dict[url]:
                 phone_dict[url].extend(phones_list)
@@ -205,6 +207,7 @@ async def pipeline(urls):
                 address_dict[url] = address_list
 
             # Scraping the root directory
+            print("debug3")
             emails_list, phones_list = site_scraper(url)
             if phone_dict[url]:
                 phone_dict[url].extend(phones_list)
@@ -216,6 +219,7 @@ async def pipeline(urls):
                 email_dict[url] = emails_list
             
             # Scraping the sub directories
+            print("debug4")
             if all(x is None or x == "" for x in email_dict[url]):
                 subdirs = get_first_level_directories(url)
                 subdirs = [link for link in subdirs if any(keyword in link for keyword in keywords)]
@@ -233,6 +237,7 @@ async def pipeline(urls):
                         email_dict[url] = emails_list
 
             # If no emails found, fallback to slower scraping method
+            print("debug5")
             if all(x is None or x == "" for x in email_dict[url]):
                 emails_list, phones_list = await site_scraper_async(url)
                 if phone_dict[url]:
