@@ -53,11 +53,12 @@ def extract_company_name(url):
 
 def extract_company_name_batch(url_list):
     """Extract the company names from a list of urls."""
-    extracted_names = []
+    """extracted_names = []
     for url in url_list:
         name = extract_company_name(url)
         extracted_names.append(name)
-    return extracted_names
+    return extracted_names"""
+    return [extract_company_name(url) for url in url_list]
 
 
 def extract_domain(url):

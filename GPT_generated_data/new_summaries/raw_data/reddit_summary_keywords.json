@@ -1,0 +1,175 @@
+[
+    {
+        "summary_id": "chatcmpl-8xfur7hT7gvlpeu9LocSWoBTY63eM",
+        "model": "gpt-4-0125-preview",
+        "created": 1709620844,
+        "total_tokens_used": 56651,
+        "cost": 0.41,
+        "company": "playlistpush",
+        "summary": "Customers share a mixed array of experiences and opinions concerning PlaylistPush, ranging from high appreciation for its potential to boost streams and the legitimacy of its curators to criticisms over the service\u2019s pricing and campaign effectiveness. Positive testimonials highlight successful campaigns that significantly increased streams and followers, praising the company for its ability to facilitate real, organic engagement and high-quality curator reviews that suggest real listening took place. Contrarily, some users criticize the service for the high cost relative to the perceived value return, with particular note on experiences where the increase in streams or followers did not meet expectations, and concerns over inactive or bot followers in affiliated playlists. Customers value clear evidence of PlaylistPush\u2019s active quality control measures, like banning underperforming curators, but they also express a desire for more control over the process and better targeting options to improve match between songs and playlists.",
+        "positive_keywords": [
+            "Organic engagement",
+            "Quality control",
+            "Successful campaigns"
+        ],
+        "negative_keywords": [
+            "High cost",
+            "Inconsistent results",
+            "Inactive followers",
+            "Limited control",
+            "Targeting options"
+        ],
+        "neutral_keywords": [
+            "Curator reviews",
+            "Campaign analytics"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zM27w3ZxhgdLtxNMJmwhNhCtkURW",
+        "model": "gpt-4-0125-preview",
+        "created": 1709633395,
+        "total_tokens_used": 21955,
+        "cost": 0.22387,
+        "company": "groover",
+        "summary": "Across the board, users share mixed experiences with Groover, highlighting both its strengths and weaknesses in music promotion. Positive remarks often emphasize the platform's effectiveness in securing playlist placements, and the opportunities for networking and relationship-building. However, criticisms surface regarding the perception of non-genuine interactions from curators, issues with genre misrepresentation, and a general sentiment that the cost of using Groover may not always justify the results obtained. Some users express frustration over receiving generic feedback or facing curators' lack of engagement, questioning the value of the service. Despite these grievances, others find Groover to be a worthwhile tool when combined with targeted research and realistic expectations, echoing the complex and varied nature of music promotion.",
+        "positive_keywords": [
+            "Playlist placements",
+            "Networking opportunities"
+        ],
+        "negative_keywords": [
+            "Cost concerns",
+            "Generic feedback",
+            "Curator disinterest",
+            "Genre misrepresentation"
+        ],
+        "neutral_keywords": [
+            "N/A"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zMBApSQnBbvywDroCMa3kugeCjfM",
+        "model": "gpt-4-0125-preview",
+        "created": 1709633956,
+        "total_tokens_used": 8034,
+        "cost": 0.08538,
+        "company": "soundcamps",
+        "summary": "Customer opinions, concerns, and experiences with SoundCamps/SoundCampaign are diverse and show a polarized view of their services. Some users have praised the service for increasing their exposure, helping influence the Spotify algorithm in their favor, and successfully placing their music on a number of playlists, signaling a satisfactory return on investment for those cases. However, a substantial number of reviews express significant dissatisfaction, highlighting concerns such as perceived fraudulence, the mismanagement and non-payment of curators, campaigns resulting in minimal to no stream gains despite significant financial outlays, and the promotion of tracks on playlists that do not match the artist's genre. Customers have also reported difficulties with customer service, lacking responses to complaints about the quality of playlist placements, and issues with playlist followers appearing fake or inactive. The breadth of negative experiences shared indicates a need for cautious consideration before using SoundCamps/SoundCampaign services.",
+        "positive_keywords": [
+            "Exposure increase",
+            "Algorithm influence",
+            "Playlist placements"
+        ],
+        "negative_keywords": [
+            "Fraudulent activities",
+            "Curator payment issues",
+            "Low streams",
+            "Genre mismatch",
+            "Customer service",
+            "Fake followers",
+            "High cost"
+        ],
+        "neutral_keywords": [
+            "N/A"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zMDgYukvtQpiZsOWuIRbwF7HqPNp",
+        "model": "gpt-4-0125-preview",
+        "created": 1709634112,
+        "total_tokens_used": 3092,
+        "cost": 0.03532,
+        "company": "indiemusicacademy",
+        "summary": "Customers report mixed experiences with Indie Music Academy, valuing its tailored approach to music marketing and emphasizing the quality of playlist placements that lead to tangible stream growth and even follower increases. However, concerns are raised about the lack of a money-back guarantee, the high cost of entry and maintenance (including an extra charge for payment plans and ongoing costs for software), and the significant delays in securing playlist placements. While some have seen substantial benefits, including being added to active, high-quality playlists that continue to generate streams over time, others critique the service for its slow turnaround and the uncertainty of placement for all submitted songs. The highlighting of quality over quantity in their playlist placements aligns with the desired outcome of triggering Spotify's algorithms for natural listener growth.",
+        "positive_keywords": [
+            "Tailored approach",
+            "Stream growth",
+            "Quality playlists",
+            "Follower increase"
+        ],
+        "negative_keywords": [
+            "No money-back guarantee",
+            "High costs",
+            "Extra charges",
+            "Slow turnaround",
+            "Placement uncertainty"
+        ],
+        "neutral_keywords": [
+            "Marketing course",
+            "Software required"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zMLHn3h6nOtHT6PesHX3vrKiP0GZ",
+        "model": "gpt-4-0125-preview",
+        "created": 1709634583,
+        "total_tokens_used": 4850,
+        "cost": 0.05354,
+        "company": "omarimc",
+        "summary": "Customer opinions on Omari MC vary significantly, ranging from some acknowledgment of delivery on promised outcomes to substantial concerns about the authenticity and efficacy of their services. A common initial sentiment is that while Omari MC appears to deliver on their promises, for instance, generating a specific number of plays, there's skepticism regarding the authenticity of these plays, with suspicions of bot usage. Discontent grows with their advertising services, where claims of targeted audience engagement do not align with the actual low viewer retention rates experienced, leading to dissatisfaction and a feeling of misrepresentation. Further, specific interactions reveal concerns with the company's transparency and customer service response, noting a lack of reply when questioned about service effectiveness. Moreover, there's mention of misleading practices related to playlist placements, where the promised exposure does not lead to genuine follower growth or meaningful engagement, amplifying doubts about the legitimacy and value of investing in Omari MC's promotional strategies.",
+        "positive_keywords": [
+            "N/A"
+        ],
+        "negative_keywords": [
+            "Authenticity",
+            "Viewer retention",
+            "Transparency",
+            "Customer service",
+            "Misleading practices",
+            "Engagement"
+        ],
+        "neutral_keywords": [
+            "Bot suspicions",
+            "Promised exposure"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zMTV9oWLfME5iYd0wmfZ4aAiwBhn",
+        "model": "gpt-4-0125-preview",
+        "created": 1709635093,
+        "total_tokens_used": 122576,
+        "cost": 1.2304,
+        "company": "submithub",
+        "summary": "Customer experiences with SubmitHub vary widely, from gaining traction through playlist placements and useful feedback to facing frequent rejections and unhelpful critiques. Many users report a steep learning curve in effectively targeting pitches to suitable playlists or outlets, highlighting the importance of genre alignment and playlist research. Criticism centers on the perceived low value of some curators, transparency issues, and the challenge of standing out in a saturated market. Despite mixed reviews, some artists find submithub a cost-effective part of their promotion strategy, acknowledging its potential for exposure while advising caution and diligence in submissions.",
+        "positive_keywords": [
+            "Exposure",
+            "Cost-effective"
+        ],
+        "negative_keywords": [
+            "Frequent rejections",
+            "Steep learning curve",
+            "Low curator value",
+            "Transparency issues",
+            "Market saturation"
+        ],
+        "neutral_keywords": [
+            "Playlist placements",
+            "Feedback",
+            "Genre alignment",
+            "Promotion strategy"
+        ]
+    },
+    {
+        "summary_id": "chatcmpl-8zMc2qrJf5dUDH4UQM7jL7Py9EeyD",
+        "model": "gpt-4-0125-preview",
+        "created": 1709635622,
+        "total_tokens_used": 44836,
+        "cost": 0.45242000000000004,
+        "company": "soundbetter",
+        "summary": "SoundBetter tends to receive mixed feedback from customers. While some users praise the platform for its functionality and the opportunities it offers for connection and collaboration with professionals, others express frustration with various aspects of the service. Issues cited include difficulties with the platform's user interface, lack of development or updates over the years, and challenges in the communication process between clients and service providers. Users also discuss the pricing, with opinions divided on whether the costs are justified by the benefits received. Despite these concerns, many still regard Soundbetter as a valuable resource for finding quality session musicians, producers, and engineers, highlighting its role in supporting projects ranging from single tracks to entire albums.",
+        "positive_keywords": [
+            "Professional connections",
+            "High-quality service",
+            "Functionality"
+        ],
+        "negative_keywords": [
+            "User interface",
+            "Outdated platform",
+            "Communication",
+            "Pricing"
+        ],
+        "neutral_keywords": [
+            "Service variety",
+            "Global reach"
+        ]
+    }
+]
