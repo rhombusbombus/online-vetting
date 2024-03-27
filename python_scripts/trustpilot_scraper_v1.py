@@ -1,6 +1,13 @@
 
 """
 TrustPilot Review scraper script.
+
+To run this script, simply run 'trustpilot_scraper.py' and respond to the prompts.
+
+The extracted data is saved as CSV files at scraping/scraped_data/trustpilot_data.
+
+
+Author: Joanna Lee
 """
 
 import sys
@@ -10,10 +17,6 @@ import time
 import pandas as pd
 import numpy as np
 from random import randint
-import requests
-from bs4 import BeautifulSoup
-from alive_progress import alive_bar
-from typing import ContextManager, Optional
 from utils import *
 
 
@@ -22,60 +25,11 @@ parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # Import necessary data files
 filepath = os.path.join(parent_dir, "scraped_data", "company_data", "music_services.csv")
-print(f"filepath: {filepath}")
 if os.path.exists(filepath):
     music_services = pd.read_csv(filepath)
     music_services = music_services['music_services'].tolist()
 else:
     raise ValueError("Missing music_services.csv")
-
-headers = {
-    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
-    'accept-language': 'de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,fr;q=0.5,de-CH;q=0.4,es;q=0.3',
-    'cache-control': 'no-cache',
-    'dnt': '1',
-    'pragma': 'no-cache',
-    'sec-ch-ua': '"Not_A Brand";v="99", "Microsoft Edge";v="109", "Chromium";v="109"',
-    'sec-ch-ua-arch': '"x86"',
-    'sec-ch-ua-bitness': '"64"',
-    'sec-ch-ua-full-version': '"109.0.1518.78"',
-    'sec-ch-ua-full-version-list': '"Not_A Brand";v="99.0.0.0", "Microsoft Edge";v="109.0.1518.78", "Chromium";v="109.0.5414.120"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-model': '""',
-    'sec-ch-ua-platform': '"Windows"',
-    'sec-ch-ua-platform-version': '"10.0.0"',
-    'sec-ch-ua-wow64': '?0',
-    'sec-fetch-dest': 'document',
-    'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
-    'sec-fetch-user': '?1',
-    'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78',
-}
-
-
-def spinner(title: Optional[str] = None) -> ContextManager:
-    """
-    Context manager to display a spinner while a long-running process is running.
-
-    Usage:
-        with spinner("Fetching data..."):
-            fetch_data()
-
-    Args:
-        title: The title of the spinner. If None, no title will be displayed.
-    """
-    return alive_bar(monitor=None, stats=None, title=title, elapsed=False, 
-                     bar=None, spinner='classic', enrich_print=False)
-
-
-def get_website(url):
-    """Fetches HTML content of site and returns it as a BeautifulSoup object.
-    """
-    response = requests.get(url, headers=headers)
-    html_text = response.content
-    soup = BeautifulSoup(html_text, 'lxml')
-    return soup
 
 
 def extract_review_info(soup):
@@ -140,8 +94,7 @@ def collect_reviews(website_list, pages_to_scrape):
         start_time = time.time()
         total_collected = 0
         company_name = extract_company_name(site)
-        print('\n')
-        print(f"Starting scraping of {company_name}'s TrustPilot Reviews.")
+        print(f"\nStarting scraping of {company_name}'s TrustPilot Reviews.")
         filepath = os.path.join(parent_dir, "scraped_data", "trustpilot_data", "reviews", f"{company_name}.csv")
         
         if os.path.exists(filepath):
@@ -179,8 +132,7 @@ def collect_reviews(website_list, pages_to_scrape):
         duration_requests = end_time - start_time
         print(f"Finished scraping {company_name}.")
         print(f"Collected {total_collected} new reviews.")
-        print(f"Total time: {round(duration_requests, 2)} seconds.\n")
-        print('\n')  
+        print(f"Total time: {round(duration_requests, 2)} seconds.\n\n")
         all_reviews = pd.concat([all_reviews, df])
     return all_reviews
 

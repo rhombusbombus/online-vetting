@@ -1,9 +1,13 @@
 
+import os
 import re
 import html
 import requests
-from urllib.parse import urljoin, urlparse
+import pandas as pd
+from urllib.parse import urlparse
 from bs4 import BeautifulSoup
+from alive_progress import alive_bar
+from typing import ContextManager, Optional
 
 
 headers = {
@@ -31,8 +35,37 @@ headers = {
 }
 
 
-def get_website(url):
-    """Fetches HTML content of site and returns it as a BeautifulSoup object.
+def spinner(title: Optional[str] = None) -> ContextManager:
+    """ Context manager to display a spinner while a long-running process is running.
+
+    Usage:
+        with spinner("Fetching data..."):
+            fetch_data()
+
+    Args:
+        title: The title of the spinner. If None, no title will be displayed.
+    """
+    return alive_bar(monitor=None, stats=None, title=title, elapsed=False, 
+                     bar=None, spinner='classic', enrich_print=False)
+
+
+def load_csv_list(filepath: str, column: str) -> list:
+    """ Reads in a list from specified column in a CSV file.
+
+    Args:
+        filepath: Path to the CSV file.
+        column: Name of the column that will be converted to a list.
+    """
+    if os.path.exists(filepath):
+        csv_list = pd.read_csv(filepath)
+        csv_list = csv_list[column].tolist()
+    else:
+        raise ValueError(f"Missing file: {filepath}")
+    return csv_list
+
+
+def get_website(url: str) -> BeautifulSoup:
+    """ Fetches HTML content of site and returns it as a BeautifulSoup object.
     """
     response = requests.get(url, headers=headers)
     html_text = response.content
@@ -43,7 +76,7 @@ def get_website(url):
 def extract_company_name(url):
     """ Extract the company name from the website URL.
 
-    Usage: 
+    Example Usage: 
         extract_company_name_batch("https://playlistpush.com/")
     Output:
         "playlistpush"
@@ -53,18 +86,13 @@ def extract_company_name(url):
 
 def extract_company_name_batch(url_list):
     """Extract the company names from a list of urls."""
-    """extracted_names = []
-    for url in url_list:
-        name = extract_company_name(url)
-        extracted_names.append(name)
-    return extracted_names"""
     return [extract_company_name(url) for url in url_list]
 
 
 def extract_domain(url):
     """ Extract the company domain from the website URL.
 
-    Usage: 
+    Example Usage: 
         extract_company_name_batch("https://playlistpush.com/")
     Output:
         "playlistpush.com"
