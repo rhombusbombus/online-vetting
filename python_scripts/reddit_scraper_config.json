@@ -1,0 +1,9 @@
+{
+    "names_path": "scraped_data/company_data/music_services2.csv",
+    "column_name": "music_services",
+    "comments_output_folder": "scraped_data/reddit_data/comments/original",
+    "submissions_output_folder": "scraped_data/reddit_data/submissions/original",
+    "fetch_newest": false,
+    "n_stop": 1000,
+    "choice": 2
+}

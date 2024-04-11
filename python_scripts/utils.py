@@ -34,6 +34,53 @@ headers = {
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78',
 }
 
+google_headers = {
+    'authority': 'www.google.com',
+    'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+    'accept-language': 'de,de-DE;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6,fr;q=0.5,de-CH;q=0.4,es;q=0.3',
+    'cache-control': 'no-cache',
+    'dnt': '1',
+    'pragma': 'no-cache',
+    'sec-ch-ua': '"Not_A Brand";v="99", "Microsoft Edge";v="109", "Chromium";v="109"',
+    'sec-ch-ua-arch': '"x86"',
+    'sec-ch-ua-bitness': '"64"',
+    'sec-ch-ua-full-version': '"109.0.1518.78"',
+    'sec-ch-ua-full-version-list': '"Not_A Brand";v="99.0.0.0", "Microsoft Edge";v="109.0.1518.78", "Chromium";v="109.0.5414.120"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-model': '""',
+    'sec-ch-ua-platform': '"Windows"',
+    'sec-ch-ua-platform-version': '"10.0.0"',
+    'sec-ch-ua-wow64': '?0',
+    'sec-fetch-dest': 'document',
+    'sec-fetch-mode': 'navigate',
+    'sec-fetch-site': 'none',
+    'sec-fetch-user': '?1',
+    'upgrade-insecure-requests': '1',
+    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78',
+}
+
+
+def get_user_input(prompt, valid_choices, error_message):
+    """
+    Prompts the user for input and validates against a set of valid choices.
+
+    Args:
+        prompt (str): The prompt message displayed to the user.
+        valid_choices (list): A list of valid input choices.
+        error_message (str): The message displayed for an invalid input.
+
+    Returns:
+        The validated user input.
+    """
+    while True:
+        try:
+            user_input = int(input(prompt))
+            if user_input not in valid_choices:
+                raise ValueError(error_message)
+            return user_input
+        except ValueError as e:
+            print(f"{e} Please try again.")
+
 
 def spinner(title: Optional[str] = None) -> ContextManager:
     """ Context manager to display a spinner while a long-running process is running.
@@ -120,6 +167,12 @@ def get_name_variations(name):
             variations += ['submit hub']
         elif name == 'soundcamps':
             variations += ['soundcampaign']
+        elif name == 'playlistbooker':
+            variations += ['playlist booker']
+        elif name == 'moonstrivemedia':
+            variations += ['moonstrive media']
+        elif name == 'damiankeyes':
+            variations += ['damian keyes']
         return list(set(variations)) # Remove duplicates
     else:
         return list(name)

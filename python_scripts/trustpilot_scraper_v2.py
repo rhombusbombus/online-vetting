@@ -2,7 +2,8 @@
 """
 TrustPilot Review scraper script.
 
-To run this script, simply run 'trustpilot_scraper.py' and respond to the prompts.
+To run this script, create a new configuration file (.json) and then run the command
+'python trustpilot_scraper.py <config path>'. If no path is provided, default settings will be used.
 
 The extracted data is saved as CSV files at scraping/scraped_data/trustpilot_data.
 
@@ -14,26 +15,53 @@ import sys
 import os
 import re
 import time
+import json
 import pandas as pd
 import numpy as np
 from random import randint
 from utils import *
 
-
-# Get absolute path of script
 parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-# Import necessary data files
-filepath = os.path.join(parent_dir, "scraped_data", "company_data", "music_services.csv")
-if os.path.exists(filepath):
-    music_services = pd.read_csv(filepath)
-    music_services = music_services['music_services'].tolist()
-else:
-    raise ValueError("Missing music_services.csv")
+
+class Config:
+    """Loads in configuration settings for TrustPilot scraping setup.
+    
+    Attributes:
+        column_name (str): Default column name in CSV for names list.
+        names_path (str): Path to the CSV file containing names to scrape.
+        output_folder (str): Directory path for saving scraped data.
+        n_pages (int): Number of pages to scrape per site.
+    """
+    def __init__(self, config_path):
+        with open(config_path, 'r') as file:
+            config = json.load(file)
+
+        self.validate_config(config)
+
+        self.names_path = os.path.join(parent_dir, config['names_path'])
+        self.column_name = config['column_name']
+        self.names_list = load_csv_list(self.names_path, self.column_name)
+        self.output_folder = os.path.join(parent_dir, config['output_folder'])
+        self.n_pages = config['n_pages']
+
+    @staticmethod
+    def validate_config(config):
+        """Validates required fields in the configuration."""
+        required_fields = ['names_path', 'column_name', 'output_folder', 'n_pages']
+        for field in required_fields:
+            if field not in config:
+                raise ValueError(f"Missing required config field: {field}")
 
 
 def extract_review_info(soup):
-    """Returns review attributes extracted from HTML tags.
+    """Extracts TrustPilot review data from a BeautifulSoup object.
+
+    Args:
+        soup (BeautifulSoup): BeautifulSoup object containing HTML of the current page.
+
+    Returns:
+        DataFrame containing extracted review data.
     """
     review_cards = soup.find_all('div', class_="styles_reviewCardInner__EwDq2")
     dict = {}
@@ -87,27 +115,35 @@ def extract_review_info(soup):
     return pd.DataFrame.from_dict(dict, orient='index', columns=cols)
     
 
-def collect_reviews(website_list, pages_to_scrape):
+def collect_reviews(config):
+    """Collects reviews based on the configuration provided.
+
+    Args:
+        config (Config): Configuration object containing scraping settings.
+
+    Returns:
+        DataFrame of all collected reviews.
+    """
     all_reviews = pd.DataFrame()
         
-    for site in website_list:
-        start_time = time.time()
-        total_collected = 0
+    for site in config.names_list:
         company_name = extract_company_name(site)
         print(f"\nStarting scraping of {company_name}'s TrustPilot Reviews.")
-        filepath = os.path.join(parent_dir, "scraped_data", "trustpilot_data", "reviews", f"{company_name}.csv")
+
+        start_time = time.time()
+        total_collected = 0
+        output_filepath = os.path.join(config.output_folder, f"{company_name}.csv")
         
-        if os.path.exists(filepath):
-            df = pd.read_csv(filepath, index_col=0)  
+        if os.path.exists(output_filepath):
+            df = pd.read_csv(output_filepath, index_col=0)
         else:
             df = pd.DataFrame()
             
-        for curr_page in range(1, pages_to_scrape):
-            domain = extract_domain(site)
-            base_url = f'https://www.trustpilot.com/review/{domain}?page={curr_page}&sort=recency'
+        for curr_page in range(1, config.n_pages + 1):
+            base_url = f'https://www.trustpilot.com/review/{extract_domain(site)}?page={curr_page}&sort=recency'
             soup = get_website(base_url)
 
-            # Checking if page exists or if we land on a 404 page
+            # Exit loop if page does not exist
             if soup.find('div', class_="errors_error404__tUqzU"):
                 break
     
@@ -125,7 +161,7 @@ def collect_reviews(website_list, pages_to_scrape):
                 break
 
             total_collected += len(new_reviews)
-            df.to_csv(filepath)
+            df.to_csv(output_filepath)
             time.sleep(randint(2, 5))
                 
         end_time = time.time()
@@ -137,17 +173,30 @@ def collect_reviews(website_list, pages_to_scrape):
     return all_reviews
 
 
-def main():
-    with spinner(title='In progress...'):
-        collect_reviews(music_services, 200)
-
-
-if __name__ == "__main__":
+def main(config_file):
     try:
-        main()
-        print("[✓] Execution successful without any errors.")
+        config = Config(config_file)
+
+        with spinner(title='In progress...'):
+            collect_reviews(config)
+
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
     finally:
-        print("[✓] Execution complete, performing cleanup.")
+        print("[✓] Execution complete.")
+
+
+if __name__ == "__main__":
+    # Default configuration file path
+    default_config_path = os.path.join(parent_dir, "python_scripts", "trustpilot_scraper_config.json")
+    
+    # Check if the user has provided a custom config file
+    if len(sys.argv) >= 2:
+        config_file_path = sys.argv[1]
+    else:
+        print(f"No configuration file provided. Using default configuration: {default_config_path}")
+        config_file_path = default_config_path
+
+    main(config_file_path)
+    
         

@@ -12,7 +12,8 @@ most popular subreddits. Thus, data from smaller subreddits must be manually scr
 Be extremely careful of rate-limiting (depending on how much data it retrieves, you can get 
 blocked after making just 1 request!! In that case, your only option is to wait it out...)
 
-To run this script, simply run 'reddit_scraper.py' and respond to the prompts.
+To run this script, create a new configuration file (.json) and then run the command
+'python reddit_scraper.py <config path>'. If no path is provided, default settings will be used.
 
 The extracted data is saved as CSV files at scraping/scraped_data/reddit_data.
 
@@ -24,44 +25,49 @@ Author: Joanna Lee
 import sys
 import os
 import time
+import json
 import requests
 import pandas as pd
 from random import randint
 from typing import List
 from utils import *
 
+parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
 
 class Config:
-    def __init__(self, args):
-        self.parent_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-        self.names_path = os.path.join(self.parent_dir, "scraped_data", "company_data", "music_services.csv")
-        self.comments_output_folder = os.path.join(self.parent_dir, "scraped_data", "reddit_data", "comments")
-        self.submissions_output_folder = os.path.join(self.parent_dir, "scraped_data", "reddit_data", "submissions")
-        self.fetch_newest = False
-        self.n_stop = 1000 
-        self.column_name = 'music_services'
-        self.names_list = load_csv_list(self.names_path, 'music_services')
+    """Loads in configuration settings for Reddit scraping setup.
+    
+    Attributes:
+        column_name (str): Default column name in CSV for names list.
+        names_path (str): Path to the CSV file containing names to scrape.
+        comments_output_folder (str): Directory path for saving scraped comment data.
+        submissions_output_folder (str): Directory path for saving scraped post data.
+        fetch_newest (bool): Indicate which direction in time to start scraping.
+        n_stop (int): Max number of comments/posts to scrape per site.
+    """
+    def __init__(self, config_path):
+        with open(config_path, 'r') as file:
+            config = json.load(file)
 
-        self.choice = None
+        self.validate_config(config)
 
+        self.names_path = os.path.join(parent_dir, config['names_path'])
+        self.column_name = config['column_name']
+        self.names_list = extract_company_name_batch(load_csv_list(self.names_path, self.column_name))
+        self.comments_output_folder = os.path.join(parent_dir, config['comments_output_folder'])
+        self.submissions_output_folder = os.path.join(parent_dir, config['submissions_output_folder'])
+        self.fetch_newest = config['fetch_newest']
+        self.n_stop = config['n_stop']
+        self.choice = config['choice']
 
-    def set_choice(self, choice: int):
-        self.choice = choice
-
-    def update_list_path(self, names_path: str, column_name: str):
-        self.names_list = load_csv_list(names_path, column_name)
-
-    def update_comments_path(self, comments_folder: str):
-        self.comments_output_folder = comments_folder
-
-    def update_submissions_path(self, submissions_folder: str):
-        self.submissions_output_folder = submissions_folder
-
-    def update_fetch_newest(self, fetch_newest: bool):
-        self.fetch_newest = fetch_newest
-
-    def update_n_stop(self, n_stop: int):
-        self.n_stop = n_stop
+    @staticmethod
+    def validate_config(config):
+        """Validates required fields in the configuration."""
+        required_fields = ['names_path', 'column_name', 'comments_output_folder', 'submissions_output_folder', 'fetch_newest', 'n_stop', 'choice']
+        for field in required_fields:
+            if field not in config:
+                raise ValueError(f"Missing required config field: {field}")
 
 
 def scrape_data(names_list: List[str], output_folder: str, n_stop: int, fetch_newest: bool, data_type: str):
@@ -117,76 +123,20 @@ def prepare_request(df, name_variation, fetch_newest, data_type):
         bookmark = int(time.time())
     else:
         bookmark = df[df['search_term'] == name_variation]['created_utc'].astype(int)
-
-    if fetch_newest:
-        bookmark = bookmark.sort_values(ascending=False).iloc[0]
-    else:
-        bookmark = bookmark.sort_values(ascending=True).iloc[0]
+        if fetch_newest:
+            bookmark = bookmark.sort_values(ascending=False).iloc[0]
+        else:
+            bookmark = bookmark.sort_values(ascending=True).iloc[0]
 
     endpoint = "comment" if data_type == "comments" else "submission"
     direction = "after" if fetch_newest else "before"
     request_url = f"https://api.pullpush.io/reddit/search/{endpoint}/?q={name_variation}&{direction}={bookmark}&size=100"
-    return bookmark, request_url
+    return request_url
 
 
-def get_user_input(prompt, valid_choices, error_message):
-    """
-    Prompts the user for input and validates against a set of valid choices.
-
-    Args:
-        prompt (str): The prompt message displayed to the user.
-        valid_choices (list): A list of valid input choices.
-        error_message (str): The message displayed for an invalid input.
-
-    Returns:
-        The validated user input.
-    """
-    while True:
-        try:
-            user_input = int(input(prompt))
-            if user_input not in valid_choices:
-                raise ValueError(error_message)
-            return user_input
-        except ValueError as e:
-            print(f"{e} Please try again.")
-
-
-def main(args):
+def main(config_file):
     try:
-        config = Config(args)
-
-        choice = get_user_input(prompt="Enter 0 for comment data, 1 for post data, or 2 for both: ", 
-                                valid_choices=[0, 1, 2], 
-                                error_message="Please enter 0, 1, or 2.")
-        config.set_choice(choice)
-
-        use_defaults = get_user_input(prompt="Enter 0 to proceed with default configuration or 1 to customize configuration: ", 
-                                      valid_choices=[0, 1], 
-                                      error_message="Please enter 0 or 1.")
-
-        if use_defaults == 1:
-            n_stop = get_user_input(prompt="Max number of posts/comments to collect: ", 
-                                    valid_choices=range(1, 100000), 
-                                    error_message="Please enter a valid number.")
-            config.update_n_stop(n_stop)
-
-            names_path = input("Enter path of names list (.CSV): ")
-            column_name = input("Enter name of column that will be extracted: ")
-            config.update_list_path(names_path, column_name)
-
-            if config.choice in [0, 2]:
-                comments_output_folder = input("Desired output folder for comment data: ")
-                config.update_comments_path(comments_output_folder)
-            
-            if config.choice in [1, 2]:
-                submissions_output_folder = input("Desired output folder for post data: ")
-                config.update_submissions_path(submissions_output_folder)
-
-            fetch_choice = get_user_input(prompt="Enter 0 to only fetch newest data, otherwise enter 1: ", 
-                                          valid_choices=[0, 1], 
-                                          error_message="Please enter 0 or 1.")
-            fetch_newest = True if fetch_choice == 0 else False
-            config.update_fetch_newest(fetch_newest)
+        config = Config(config_file)
 
         with spinner(title='In progress...'):
             if config.choice in [0, 2]:
@@ -205,4 +155,14 @@ def main(args):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    # Default configuration file path
+    default_config_path = os.path.join(parent_dir, "python_scripts", "reddit_scraper_config.json")
+    
+    # Check if the user has provided a custom config file
+    if len(sys.argv) >= 2:
+        config_file_path = sys.argv[1]
+    else:
+        print(f"No configuration file provided. Using default configuration: {default_config_path}")
+        config_file_path = default_config_path
+    
+    main(config_file_path)
