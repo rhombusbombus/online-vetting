@@ -6,7 +6,7 @@ The scraped data folder will eventually be moved to an Azure SQL database.
 
 ---
 
-## Main directory structure:
+## Main folders:
 
 - Vetting project\
     - GPT generated data\
