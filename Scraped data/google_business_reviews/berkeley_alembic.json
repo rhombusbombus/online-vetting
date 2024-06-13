@@ -1,0 +1,182 @@
+[
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1715067486223,
+        "ReviewContent": "Alembic is so great but it is also so far from the BART",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"427de23d88a7c0f1e2ab94e70563efb7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 62.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1713256686231,
+        "ReviewContent": "The coolest",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"ea22490bf45ee9e1a721a45ab327f049\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1713256686233,
+        "ReviewContent": "I love how this space creates community. The events are very touching and fulfilling to the soul. The space is very clean and heartwarming to be at. I always look forward to my return <3",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"2cdac1aa3d2637448e4ea08d7cea8cce\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1712479086237,
+        "ReviewContent": "Great place to meditate, meet new people, and learn about somatic movement",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"ac9efbdf563d0517c9599754d7eedf6a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 87.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1712479086242,
+        "ReviewContent": "Nice studio!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"73ef3fc06b53b22920418c76f0cebd52\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 141.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1709800686832,
+        "ReviewContent": "Nice and updated. Plenty of parking in front. Free tea (why no coffee)?  Interesting workshops and events. Great space.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"d807d10179992a31603687c6743d6533\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 640.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1709800686835,
+        "ReviewContent": "Only attending zoom meetings from home beats this place for comfort and ease of use. No shoes and subdued lighting. Mellow vibe and lots of parking",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"042c24f7a99d87184e338a113d32e53e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 1, \"TotalReviews\": 51.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1704616686841,
+        "ReviewContent": "meditation center",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"9272d29f9869cb27e16978fe507413a8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 1517.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1704616686843,
+        "ReviewContent": "Great place for meditation and spiritual events",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"68fa0a5033b6cb16288025e544859a0b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 25.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1691397486850,
+        "ReviewContent": "I attended a weekend meditation retreat here. It is such a beautiful serene space. I am highly motivated to move to this community so I can access such a space regularly.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"8a9c9736d5adf182f4f5b92ff9a5c17b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 1, \"TotalReviews\": 227.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1688719087390,
+        "ReviewContent": "Creating a new micro-culture of any kind is highly valuable and, statistically, it usually fails so I wish them success and hope it continues. Going for them is a terrific space, incredibly friendly and helpful volunteers and staff that made me feel welcome. The events are quite hard to find on local searches on social and somatic groups so I found out about it from someone attending my Biodanza class, who suggested it. Kati, one of the founders was interested in hearing that it had not shown up on my searches and said she would very much enjoy getting help on making the events more visible. I have one of the best assistants in search that Ive come across so I hired him to make a 30 minute screenshot video and e-mailed it to Kati. Ive not heard any reply. I dont feel that respects the time/money spent responding. I went to a Tai Chi class with one other person who was a volunteer. I didnt know what to expect and although I would not do it again, it was probably fine for a Tai Chi class. This evening I attended a relatefulness class which was a negative 5 on a 1-10 scale. I left after fifteen minutes of it getting steadily worse and another gentleman  who was having trouble with the format left as well. The people were great, but the format is one of the worst Ive seen for building relationships. It consists of a circle for 2.5 hours where anyone can talk about anything and anyone and everyone can interrupt and react. This creates a dynamic free-for-all in which the dominant energy in the room (in this case on of the facilitators) will influence the circle the most and prevail: Think traffic jam with honking horns and no stop signs, lane-dividers and agreements about who has the right of way. Everything is a relationship and this is going to be more dynamic than most, but its hit or miss, very uncomfortable for newcomers such as myself and after being interrupted, having my questions unanswered and being told how the leaders felt about it, it was  clear that a night at home cuddling my wife would be a three times more rewarding and ten times less triggering experience. There were so many fun and interesting things to do with a group of great people to do in that room that Im surprised this won out over all other protocols available. Formats like this that profess freedom, authenticity and spontaneity end up with high degrees of chaos, reactivity, discomfort and inefficiency in which a few dominant personalities feel at home and others feel entertained but the depth of empathy is hit or miss and its not at all consistent with the mission Kati spoke to me about of bringing meditation, integration and somatic work in various flavors to people wishing to integrate and heal trauma or psychedelic experiences. As someone with PTSD and high sensitivity I would definitely warn someone similar to avoid this group. I had a headache and stress and mild nausea for four hours after only fifteen minutes and it was clear that there was no format for responding to any of that within the group without escalating the energy, which is a design flaw. I also believe it is damaging to an infant to be in that energy field of free experimentation. Every infant internalizes the facial expressions and voices and energy around them as something about them, and no one in the group was given any guidance about moderating what could be screams or stamping in that setting. I would suggest that most highly sensitive people, all infants, and anyone dealing with attachment disorder or PTSD avoid this group as my estimate is that it would be more destructive than constructive 70% of the time for that demographic. Since relatefulness is a very endearing and I think misleading (it lead me there and I would have preferred being in most groups or home instead of this) title, I think it should be re-titled circle experimenting: explore you and others triggers and how you show up with unstructured feedback. This way no one would be surprised and it would remain available for those looking for what they will likely experience.",
+        "StarRating": 2,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"13482a3ec56562bee12f03b602e790ec\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 4, \"TotalReviews\": 21.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687400,
+        "ReviewContent": "Amazing community!!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"13a6d2a3a0a11067c740b83952320c57\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687402,
+        "ReviewContent": "This is a place where mind and matter meet to transform. Come on Thursdays for Michael Tafts deconstructing yourself meditations! If that doesnt vibe with you there is something for everyone here.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"10a45a20efbac512a757eee37ce83b71\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 1, \"TotalReviews\": 63.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687405,
+        "ReviewContent": "Beautiful movement space, suitable for hosting larger classes and groups. They often hold interesting workshops (dance, yoga, somatic movement) and classes. The space is beautiful and inviting, and the staff are kind and friendly. Ive been to a few workshops now, and found all of the practitioners were both knowledgeable and kind. Highly recommended to both hosts and attendees!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"6054678c648cff5c7cd8a2cc10a4245d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 2, \"TotalReviews\": 87.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687952,
+        "ReviewContent": "Unsure of why there is a new place with the same name as a Berkeley community staple. Was trying to refer family in need of healing work and they could not find the original Alembique and instead were taken here. Was pretty disappointed to hear that a new store a couple blocks away had taken the same name.",
+        "StarRating": 2,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"751ba868e65823149b2c5f40bd2e1f7e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687954,
+        "ReviewContent": "Community magic is happening at The Berkeley Alembic. Choose your own adventure, and go deep in meditation, movement practices, neuroscience, self-development. It has a sense of becoming, and I am so excited to evolve with it.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"dce36cd96c4f47ac1ad4cc22c9776190\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 3, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687957,
+        "ReviewContent": "Just a beautiful contemplative space. Awesome meditation teachings, many movement practice sessions, and amazing company.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"422736a1eac673949fe0577d5c065c5a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 3, \"TotalReviews\": 33.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687959,
+        "ReviewContent": "Wonderful center with terrific events going on almost every day",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"353931c204de0ff9e227001d42c13983\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 2, \"TotalReviews\": 41.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1683448687961,
+        "ReviewContent": "Lovely space",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"c179a248cb94067ef103999d7f3b1a7e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 2, \"TotalReviews\": 54.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 22,
+        "VenueName": "Berkeley Alembic",
+        "ReviewDate": 1651912687965,
+        "ReviewContent": "What a beautiful community space. The Alembic hosts a variety of activities and events (meditation, dance, reading groups, ...), so there is a breadth of interests and expertise that converges here. Very much a living space, still getting set up and with a lot of potential. I look forward to spending time here.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Berkeley Alembic\", \"PlaceID\": \"ChIJhzuS-Kd_hYARIjpFVZB474Y\", \"ReviewIDHash\": \"c4a6fa94dd015012e44041fa5722b8ff\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 4, \"TotalReviews\": 123.0, \"LocalGuide\": 1.0}"
+    }
+]

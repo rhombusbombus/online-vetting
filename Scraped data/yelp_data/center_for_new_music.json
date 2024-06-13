@@ -1,0 +1,56 @@
+[
+    {
+        "ReviewDate": 1708992000000,
+        "ReviewContent": "The Ambiance here is supremely Ambient. My review needs at least 85 characters. Add a",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"Douglas B.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    },
+    {
+        "ReviewDate": 1683504000000,
+        "ReviewContent": "It is a small venue for experimental music. They have a good system and the concerts are amazing.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"Nisa N.\", \"AuthorLocation\": \"Albany, CA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    },
+    {
+        "ReviewDate": 1481760000000,
+        "ReviewContent": "I went here for a piano concert put on by a family friend, and although the venue is a little hidden, it has a quaint feel about it. I can't imagine coming back often, but I did enjoy the vibes, the small and intimate community feel, and the obscure music listings.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"Ross S.\", \"AuthorLocation\": \"Los Angeles, CA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    },
+    {
+        "ReviewDate": 1438819200000,
+        "ReviewContent": "I went to this group after being referred from the San Francisco Arts Commission who said they were looking for visual artists in the Tenderloin/Market area, where I applied to submit to a few galleries for an opening or group show, should they know of opportunities for artist's living in the neighborhood.  At this time I lived in the Tenderloin neighborhood.  When I spoke to Adam at the center, they said they would love to have me and actually had an upcoming show they could include me in within a month or so.  The downside was that it was a 1-night show and would be combined with someone else's performance, no lighting or anything for artwork and very loose like volunteer-style parameters.  I was cool with this and down to do whatever as I wanted to support and be part of the community with this non-profit.  When it came down to the final day for the decision before launching the setup, Adam came to me and told me that the rental fee would run $500 for just the one night (3 hours) and I would need to install and take down the art myself, basically within a 2-3 hour window based around someone else's performance.  At that point I sort of felt tricked, because this was a referral from the arts commission to another non-profit.  So, I didn't understand why they wanted to charge $500 and said that we could not even do drinks or refreshments or really even invite our own people.  On top of it all, it was strange that I had responded to a SF arts commission poster to get sent here. I was like, what's the point.  Just a tip for any artist working with this group, they are going to come for your wallet.",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"Adam N.\", \"AuthorLocation\": \"Palo Alto, CA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    },
+    {
+        "ReviewDate": 1397433600000,
+        "ReviewContent": "An excellent place to both see shows and be a part of a community. I don't know of any other major cities that have locations precisely like this one, and I'm proud to be a member! I highly encourage folks to see performances and check out the calendar.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"N B.\", \"AuthorLocation\": \"Signal Hill, CA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    },
+    {
+        "ReviewDate": 1364083200000,
+        "ReviewContent": "At last a venue dedicate to music outside the other musics! This nonprofit offers a lot of promise as a spot to check out innovative, contemporary stuff. I saw NYC's susperstar upright bass player William Parker there, and I look forward to countless future shows. Their structure as a home for arts nonprofits by day, and a venue where the whole cover charge goes to the musicians at night, is a fabulous idea.HURRAY!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Center For New Music\", \"AuthorName\": \"Kathy W.\", \"AuthorLocation\": \"Athens, GA\"}",
+        "VenueName": "Center for New Music",
+        "venue_id": 15
+    }
+]

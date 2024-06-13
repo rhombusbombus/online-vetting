@@ -1,9 +1,9 @@
 # Python scripts
 
 ## General info:
-- This folder contains all of the scraping scripts. Included are scrapers specifically written for Reddit, TrustPilot, and Yelp. A 3rd party scraper was used to collect the Google business reviews because those were pretty difficult to extract without an API.
+- This folder contains most of the scraping scripts. Included are scrapers specifically written for Reddit, TrustPilot, and Yelp. A 3rd party scraper was used to collect the Google business reviews because those were pretty difficult to extract without an API.
 - The scripts are constantly improved/updated so there is a small chance something might break that previously worked before (lol). These are usually small mistakes such as different file paths or filenames (which also change constantly) so feel free to directly edit the ```.py``` files as needed.
-- I completely reworked the scripts so that they read from a configuration file instead of taking in user-inputted arguments. If the configuration files are missing or renamed, the scripts might not work.
+- The scripts read input parameters from a configuration file instead of taking in user-inputted arguments. If the configuration files are missing or renamed, the scripts might not work.
 
 ---
 

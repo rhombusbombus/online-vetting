@@ -1,0 +1,161 @@
+[
+    {
+        "summary_id": "chatcmpl-9IMgiNUmlWVPoqe0du0lxfQUNTy29",
+        "model": "gpt-4",
+        "created": 1714164144,
+        "total_tokens_used": 19936,
+        "cost": 0.20266000000000003,
+        "company": "broadjam",
+        "summary": "Broadjam elicits mixed reactions among its users. Many independent artists appreciate the platform for its music licensing opportunities, including successful placements. However, others criticize it as costly, questioning the effectiveness of its offerings due to limited success rates and the competitive nature of the submissions process. The debate over its cost-effectiveness and the demoralizing impact of frequent rejections are key concerns for many users.",
+        "positive_keywords": [
+            "Music licensing",
+            "Placements"
+        ],
+        "negative_keywords": [
+            "Costly submissions",
+            "Limited success",
+            "Frequent rejections",
+            "Contest skepticism"
+        ],
+        "neutral_keywords": [
+            "User demographics",
+            "Competitive nature",
+            "Licensing libraries"
+        ]
+    },  
+    {
+        "summary_id": "chatcmpl-9IMiYKfUXdN4OXTtYMJESXgXCJ9RD",
+        "model": "gpt-4",
+        "created": 1714164258,
+        "total_tokens_used": 44366,
+        "cost": 0.4472,
+        "company": "kwork",
+        "summary": "Customers share mixed experiences with Kwork, detailing interactions and outcomes from the company's services. Many express satisfaction with project execution and client relationships, while others highlight issues such as problematic products, inadequate support, and technical challenges. Discussions also consider the impact of external factors like COVID-19 on the professional landscape and Kwork's performance.",
+        "positive_keywords": [
+            "Client relations",
+            "Project satisfaction"
+        ],
+        "negative_keywords": [
+            "Product issues",
+            "Technical problems",
+            "Inadequate support"
+        ],
+        "neutral_keywords": [
+            "COVID-19 impact",
+            "Service performance"
+        ]
+        },
+    {
+        "summary_id": "chatcmpl-9IMism3gqKcjXOwwL3ljkqrQbt2WP",
+        "model": "gpt-4",
+        "created": 1714164278,
+        "total_tokens_used": 4538,
+        "cost": 0.050800000000000005,
+        "company": "playlistbooker",
+        "summary": "Customer opinions on Playlist Booker show a divided landscape: while many users commend the platform for its convenience, effectiveness of campaigns, and substantial boosts in streams and followers, others voice serious concerns. Positive aspects noted include the platform's user-friendliness and professionalism. However, negative feedback revolves around a lack of communication regarding campaign results, allegations of artificial streams, and the use of bots leading to track removals and Spotify flagging fake followers. Despite some users experiencing consistent positive results, the issues of fraud, insufficient support, and unmet expectations paint a complex picture of the company's reliability.",
+        "positive_keywords": [
+            "Convenience",
+            "Effectiveness",
+            "Stream boost",
+            "Platform friendliness",
+            "Professionalism"
+        ],
+        "negative_keywords": [
+            "Communication",
+            "Artificial streams",
+            "Bots",
+            "Track removal",
+            "Inadequate support",
+            "Campaign results",
+            "Fake followers"
+        ],
+        "neutral_keywords": [
+            "Email responsiveness",
+            "Resolution time",
+            "Follower engagement"
+        ]
+        },
+    {
+        "summary_id": "chatcmpl-9IMj6rJQaQyX2N1g6UkEcGuUWYlTp",
+        "model": "gpt-4",
+        "created": 1714164292,
+        "total_tokens_used": 3372,
+        "cost": 0.03774,
+        "company": "dk-mba",
+        "summary": "Customers highly rate dk-mba, praising its comprehensive marketing courses, the practical and in-depth content, and the supportive community. Users find the educational material empowering, providing valuable insights into music marketing strategies and continuous, up-to-date advice from Damian. The service's affordability is often noted, with many mentioning excellent value for money. Overall, dk-mba is seen as a transformative resource for musicians aiming to enhance their marketing skills and achieve personal growth, with notable improvements in marketing capabilities as a key benefit of using the platform.",
+        "positive_keywords": [
+            "Comprehensive courses",
+            "Practicality",
+            "Community support",
+            "Affordable"
+        ],
+        "negative_keywords": [],
+        "neutral_keywords": [
+            "Course diversity",
+            "Content updates",
+            "Value"
+        ]
+        },
+    {
+        "summary_id": "chatcmpl-9IMjJm1lARuY4r0TD7YeMRNLprcoJ",
+        "model": "gpt-4",
+        "created": 1714164305,
+        "total_tokens_used": 14981,
+        "cost": 0.15394999999999998,
+        "company": "famegrowers",
+        "summary": "Social media users generally express strong approval of FameGrowers, commending their effectiveness in generating real traffic and audience engagement, particularly for YouTube and music promotions. The service has notably aided users in enhancing their social media profiles, entering creator programs, and initiating channel monetization. Highlights include acquiring quality reviews, boosting TikTok followers, and benefiting from an advantageous affiliate program. Some concerns were noted about longer-than-expected delivery times, though satisfaction with the final results was high.",
+        "positive_keywords": [
+            "Real traffic",
+            "Social media boost",
+            "Monetization",
+            "TikTok followers",
+            "Quality reviews",
+            "Affiliate program"
+        ],
+        "negative_keywords": [
+            "Slow delivery",
+            "Cost"
+        ],
+        "neutral_keywords": []
+        },
+    {
+        "summary_id": "chatcmpl-9IMjWcEnL2GOXUi7p21t0gJyT602D",
+        "model": "gpt-4",
+        "created": 1714164318,
+        "total_tokens_used": 21804,
+        "cost": 0.22210000000000002,
+        "company": "moonstrivemedia",
+        "summary": "Customers generally view Moonstrive Media positively, appreciating its success in boosting listener counts, achieving global reach, and providing genuine streams. The company is also commended for its responsive customer service and professionalism. However, some artists report issues with genre targeting, resulting in streams from mismatched playlists, which sometimes leads to dissatisfaction with stream counts and overall campaign results. Despite these challenges, many customers are willing to continue using Moonstrive’s services, indicating strong loyalty due to previous successes.",
+        "positive_keywords": [
+            "Global reach",
+            "Genuine streams",
+            "Responsiveness",
+            "Professionalism",
+            "Customer loyalty"
+        ],
+        "negative_keywords": [
+            "Genre targeting",
+            "Stream counts",
+            "Mismatched playlists",
+            "Campaign results"
+        ],
+        "neutral_keywords": []
+        },
+    {
+        "summary_id": "chatcmpl-9IMjq8FQr0AqSfqe7NP5SkufTPvyi",
+        "model": "gpt-4",
+        "created": 1714164338,
+        "total_tokens_used": 736,
+        "cost": 0.00952,
+        "company": "damiankeyes",
+        "summary": "Customers view damiankeyes as a valuable resource in music marketing, offering practical and actionable advice through its YouTube content and courses. The content is highly regarded for its openness and usefulness, providing significant insights and guidance for individuals aiming to market their music effectively.",
+        "positive_keywords": [
+            "Valuable resource",
+            "Practical advice",
+            "Actionable insights",
+            "Marketing"
+        ],
+        "negative_keywords": [],
+        "neutral_keywords": []
+        }
+]

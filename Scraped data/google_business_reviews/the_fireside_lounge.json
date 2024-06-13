@@ -1,0 +1,1847 @@
+[
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1714950298723,
+        "ReviewContent": "Lovely staff",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e77a9a855c9e91076bec007631048899\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 168.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1714518298726,
+        "ReviewContent": "This bar rocks! Rock n Roll that is. The environment is a little tight but cozy. They have some nice guitars hanging high up on the walls. Bartenders are the best. The Wednesday open mike is fun because the crowd that hangs out there is non-judgmentally enthusiastically warm and inspiring to do your thing. I loved the place. Had a great time.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"346407b47a1e24c964804c4b7a0b347f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 34.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1712617498732,
+        "ReviewContent": "Open mic night is very nice",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"379926c897b7e262063bb6c442085338\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1712444698734,
+        "ReviewContent": "Fireside Lounge in Alameda is pretty cool. DJ heats up Fridays, and while they might not have every drink under the sun, the vibes solid. Dance floor s always lit, plus open mic and art stuff keep it interesting. Not just a bar but a real gem in Alameda. Solid 4 stars from me!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e872c1492099587737cba1c17631277e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 64.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1709766299222,
+        "ReviewContent": "I come here for Prince parties from time to time. Even did a set here for Halloween 2022. One of my favorite spots in the last 10 years! Will be back soon",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"a802cc8490ac0c2cd946028b2c707ab8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 14.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1709766299227,
+        "ReviewContent": "Solid local. Often good bands, more often just ok bands. Always a good beer list. Bar service sucks, though. You could sit at the bar but theyll ignore you and serve the people who line up at the server station in the middle.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"4f261b212793074fba4ecdea4ca49917\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 528.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1707260699230,
+        "ReviewContent": "I enjoy myself Immensely. Dj Pope is my favorite. Everything here is quite cozy and comfortable.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2b4770420779d5e6ad4bdbdc65ec9d50\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 43.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1704582299235,
+        "ReviewContent": "This place is a Vibe",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6dff5bdf4e5974538fb4bcc13ef46c86\", \"OwnerResponseText\": \"Thanks Stellaaahhh! Come back and see us real soon.  Happy Holidays!  Sandy Fireside\", \"OwnerResponseDate\": \"2024-01-06 23:04:59.235707\", \"ReviewLikes\": 0, \"TotalReviews\": 342.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1701903899238,
+        "ReviewContent": "Best bar in Alameda, hands down.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"51d703cb399656a0734903cd44aa1c22\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 17.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1701903899784,
+        "ReviewContent": "Picked a night with nothing happening,  but well be back for comedy,  trivia and/or drag show soon!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"155ea23fbbd455b6c2c77beec29bf2f0\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 44.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1701903899789,
+        "ReviewContent": "The locals hangout",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"0bef3e643ed67de6a9876022686e20e7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 16.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1699311899794,
+        "ReviewContent": "Nice place, terrible opening band.  Service was prompt and friendly, food was decent (margherita pizza had a lovely crispy crust but was a bit too salty).  Halloween decorations were creative and fun, almost everyone was in costume, which was super fun. However, a very disappointing opening band - Ledbetter and His Best Bets.  They bragged about not having rehearsed, which felt like a slap in the face after we paid a cover for the live music. And their lack of effort really showed in their performance.  The band used the same arrangement and rhythm for every song - i.e., all six musicians played together at medium-high volume throughout every song, creating a monotonous similarity.  Only one person sang, which added to the monotony, and he forgot the words several times, even on songs he himself wrote.  Their cover of Joe Cockers Feelin All Right was competent, but all the other covers sounded the same, and the original songs were uninspiring.  We had to leave before the second band played so no comment on them.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"4bac4d7c413257dabc03668c15fd9522\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 233.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1699311899796,
+        "ReviewContent": "Its not my favorite place, but they have trivia on Tuesdays!",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"77014a07da50e6051e20f15aaae9be99\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1696633499800,
+        "ReviewContent": "Excellent beer selection and friendly service.   I was there for trivia night recently which was a lot of fun.   The food was just OK but you can bring in food from another restaurant.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"215df233a7421c46fd539319ef3d5ec9\", \"OwnerResponseText\": \"Thanks!  Come back soon.\", \"OwnerResponseDate\": \"2023-10-06 23:04:59.800822\", \"ReviewLikes\": 0, \"TotalReviews\": 58.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1696633499804,
+        "ReviewContent": "New and improved: flatbreads are excellent and drinks/bartending skills have gone way up. Becoming the bar that the West Side needs and wants. Nice!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"72933a21dda72d1b1256d81d5c65cbb5\", \"OwnerResponseText\": \"Hey Thanks!  I appreciate the feedback!  Sandy\", \"OwnerResponseDate\": \"2023-10-06 23:04:59.804511\", \"ReviewLikes\": 0, \"TotalReviews\": 174.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1694041500306,
+        "ReviewContent": "Just an awesome neighborhood bar, pure awesome. Everyone should have a chance to stop over at the Fireside Lounge!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"97c6f7390b53f82d813163c8a3c92052\", \"OwnerResponseText\": \"Thanks, Robert!  That s music to our ears and we hope you come back soon! Sandy\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.306796\", \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1694041500310,
+        "ReviewContent": "Lowish rating because I didnt spend much time here, but I enjoyed it and I plan to return! Kid-friendliness: 21+ only",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"59d50bc8454a5aab147d265138b4f5eb\", \"OwnerResponseText\": \"We look forward to your return!\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.310647\", \"ReviewLikes\": 1, \"TotalReviews\": 29.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1694041500315,
+        "ReviewContent": "Donna is the BEST",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"1399d4f461f62279976b497597b315e8\", \"OwnerResponseText\": \"Thanks, Gabby!  So glad you liked it.  We think it s pretty fantastic too!  Spread the word.\", \"OwnerResponseDate\": \"2023-05-06 23:05:00.315933\", \"ReviewLikes\": 0, \"TotalReviews\": 102.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1694041500318,
+        "ReviewContent": "Great selection of beers.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"ee0feaa51757f34af950a5a910d6aa0d\", \"OwnerResponseText\": \"Thanks, Tony!  We think our beer buyer, Mitchell, does a great job too!\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.318895\", \"ReviewLikes\": 0, \"TotalReviews\": 81.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1694041500321,
+        "ReviewContent": "Meet up with friends. We had an amazing time. Food was delicious. Drinks were yummy.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7cf32d7f6879005452c1c39e3c14a6ee\", \"OwnerResponseText\": \"Glad you had a great time!  Come back and see us soon.\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.321444\", \"ReviewLikes\": 0, \"TotalReviews\": 95.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1691363100328,
+        "ReviewContent": "They DJ was awesome and he interacted with everyone.  Just wish he played more a variety of music, including Hispanic hits",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"17f036454511289accd3663157aa382e\", \"OwnerResponseText\": \"Thanks for the feedback.  We will look into that with our DJ Team.\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.328278\", \"ReviewLikes\": 0, \"TotalReviews\": 19.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1691363100855,
+        "ReviewContent": "What a cute vibe",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"78cac082f9d63e6965442ec134f65754\", \"OwnerResponseText\": \"Thanks!  Come back and see us again soon.\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.855988\", \"ReviewLikes\": 0, \"TotalReviews\": 210.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1691363100858,
+        "ReviewContent": "The bartender was very nice and the drinks were great, cozy atmosphere and outdoor seating",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c8359e445aafcbd93c65f34de99d8ff2\", \"OwnerResponseText\": \"We are glad you had a nice time, Kim!\", \"OwnerResponseDate\": \"2023-09-06 23:05:00.858940\", \"ReviewLikes\": 0, \"TotalReviews\": 97.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1688684700861,
+        "ReviewContent": "Best neighborhood bar!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"876df87434d8f440af6c690810562900\", \"OwnerResponseText\": \"Thanks Kristen!\", \"OwnerResponseDate\": \"2023-07-06 23:05:00.861195\", \"ReviewLikes\": 0, \"TotalReviews\": 17.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1688684700865,
+        "ReviewContent": "Cozy beach with great wildlife!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"549aca7c869710d51d5b9451a1831362\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 99.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1686092700866,
+        "ReviewContent": "Great bands,great music and great food too! Wow! Quite a tri-feats!!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c0f7e7f263bc3fc9d8a862a9f5f9479e\", \"OwnerResponseText\": \"Thanks, Dewey!  Come visit us again soon!\", \"OwnerResponseDate\": \"2023-07-06 23:05:00.866989\", \"ReviewLikes\": 1, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414300872,
+        "ReviewContent": "Their ads claim they have music on certain nights. Ive been by twice on such nights and NO MUSIC. ALSO, YOU CANT CALL as everything goes straight to voicemail. I guess you need to be clairvoyant to know whats going on there. Ridiculously unprofessional..... ANSWER YOUR PHONES!!!!!",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"38ed7e475ea033efa2e4a7c3e3bd057e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301347,
+        "ReviewContent": "Fun place!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"162321039fa4372dad4ab3259110eaec\", \"OwnerResponseText\": \"Thanks, Martha!  Come see us again soon.\", \"OwnerResponseDate\": \"2023-07-06 23:05:01.347047\", \"ReviewLikes\": 0, \"TotalReviews\": 35.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301358,
+        "ReviewContent": "Excellent cocktails, great supporter of community.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"47292249042ffdbb971367e2f4f6849a\", \"OwnerResponseText\": \"Being a good community member is our top priority!\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.358998\", \"ReviewLikes\": 0, \"TotalReviews\": 45.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301363,
+        "ReviewContent": "Get ready for awesome.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"46223f605229058def04eb0eb2bab5fe\", \"OwnerResponseText\": \"We think you re awesome!\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.363337\", \"ReviewLikes\": 0, \"TotalReviews\": 42.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301365,
+        "ReviewContent": "Great neighborhood bar",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"62ce7607d0089ae2cc37811067fd71ff\", \"OwnerResponseText\": \"Its good neighbors like you that make us great!\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.365452\", \"ReviewLikes\": 0, \"TotalReviews\": 47.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301367,
+        "ReviewContent": "A friend held a birthday party here. She provided munchies and we got happy hour prices.  Seems like a fun place, they had games and puzzles in the back as well as a karaoke set up.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"03d97d4c3a82908997b8581bfd058582\", \"OwnerResponseText\": \"Thanks Kathleen glad you had fun! We also do Trivia, open mic and music. Check out out socials for all the deets!\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.367548\", \"ReviewLikes\": 0, \"TotalReviews\": 167.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301369,
+        "ReviewContent": "First time here.  It was open mic night.  Lots of good talent.  No drink minimum.  Good vibes all around.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c06ae261106d5f01ff76ddde55820d2a\", \"OwnerResponseText\": \"We love the good vibes! The talent just keeps getting better! Come on by this week!\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.369635\", \"ReviewLikes\": 1, \"TotalReviews\": 228.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301902,
+        "ReviewContent": "A great bar. Friendly folks, a small stage for events, and a back area where we meet monthly as a big group.  Try the pretzel bites! Its a limited menu, but who can argue with pretzel bites as bar food?",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"ed438dcaf77ea03fab2d14c0032074ff\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 111.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301905,
+        "ReviewContent": "4 visit, will come back",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"12b6d316bf67b84c7b6be11e8e4013c6\", \"OwnerResponseText\": \"Frederick we hope to see you soon! Well have some drink specials for you or as always we have happy hour specials Mon-Fri\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.905200\", \"ReviewLikes\": 1, \"TotalReviews\": 130.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414301913,
+        "ReviewContent": "Great place for drinks and live music.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"628abccdedf8c3def5bdad9def0b910e\", \"OwnerResponseText\": \"Thank you Douglas! We cant wait to see you again too\", \"OwnerResponseDate\": \"2023-05-06 23:05:01.913369\", \"ReviewLikes\": 0, \"TotalReviews\": 68.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302489,
+        "ReviewContent": "Beautiful, serene atmosphere!l",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"cdb2a4385a001c89bf9017a91fe0054d\", \"OwnerResponseText\": \"Haqq thank you for the review!\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.489149\", \"ReviewLikes\": 0, \"TotalReviews\": 253.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302491,
+        "ReviewContent": "Donna is awesome .... Go there for a daytime cocktail when u need a smile and pick me up from donna...Donna.... U can thank me later",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6b90e780ac178c2ca59fc91a9966b941\", \"OwnerResponseText\": \"we love her too!\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.491905\", \"ReviewLikes\": 1, \"TotalReviews\": 50.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302494,
+        "ReviewContent": "The cocktails are the best, was knocked out by the long island      but the music was a no for me hence im giving 4 stars",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"bef769ea9a3d5441b18ceaab253db112\", \"OwnerResponseText\": \"Hi!  Thanks for the feedback!  Can you tell me when you were in?  I would like to determine what music was playing?\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.494203\", \"ReviewLikes\": 0, \"TotalReviews\": 64.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302496,
+        "ReviewContent": "Pretty good local pub.  The cigarette smoke is annoying. Staff nice and patrons seem to keep to each other.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"4b9f111e8c1b025d9e2f082e1f4aac52\", \"OwnerResponseText\": \"Thanks for the feedback.  We will try to keep smoke away from the building as it should be.  Staff is generally friendly,  I m sorry the was your experience.  We d love another opportunity to earn your business.  Sandy\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.496434\", \"ReviewLikes\": 1, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302500,
+        "ReviewContent": "Really fun place nice ice cold beer, lots of monitors for watching football! And basketball and listening to the DJ",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c6bd98163d89f8b1b7349757d33aa7be\", \"OwnerResponseText\": \"We cant wait for football to come back but we are ready for baseball! Thanks Patrick!\", \"OwnerResponseDate\": \"2022-05-06 23:05:02.500505\", \"ReviewLikes\": 1, \"TotalReviews\": 109.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1683414302504,
+        "ReviewContent": "Place went down hill. Worst mistake ever was hiring the bartender Donna.  Rude, disrespectful, and absolutely atrocious behavior towards customers, especially female customers. Ive witnessed her curse customers out for no reasons at all. Too bad for the Fireside. Oh well, many locals have left to go elsewhere anyways.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6a39d179a98aa5c5e1361f9c3f377407\", \"OwnerResponseText\": \"JJ can you let us know when this happened, would like to look into it.\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.504273\", \"ReviewLikes\": 2, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878302506,
+        "ReviewContent": "Ahhhh..to misbehave with Prince music as ur soundtrack? Hellz yes! Oowwwaahh!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"fe44ebc03358e0933e2bec0ac5ae6192\", \"OwnerResponseText\": \"Dance floor is never empty with Prince and DJ DePope!\", \"OwnerResponseDate\": \"2023-05-06 23:05:02.506020\", \"ReviewLikes\": 1, \"TotalReviews\": 69.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303030,
+        "ReviewContent": "The drinks are amazing.  The bartenders are cool as hell.  The flat bread is amazing.  They have live music, comedy, a DJ.  Friday and Saturdays you can dance the night away.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"49a210195c324a385a13cc1c3c6f4e33\", \"OwnerResponseText\": \"You rock!  Thanks Jennifer.\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.030882\", \"ReviewLikes\": 0, \"TotalReviews\": 35.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303033,
+        "ReviewContent": "Worse bloody mary I have ever tasted.  You are better off asking for just beer.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d94815e1e4f09da1a750154c592d1598\", \"OwnerResponseText\": \"GV give us another chance, Donnas bloodies are to be said the best on the island. They are available every Sunday from 12 till they run out.\", \"OwnerResponseDate\": \"2023-05-06 23:05:03.033859\", \"ReviewLikes\": 2, \"TotalReviews\": 45.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303036,
+        "ReviewContent": "A really chill place to drink and hang out with friends. Bartenders were cool and the patrons were pretty laid back. Would definitely go there again if Ive ever in Alameda again.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5b6c191ef2508e52868b3aa3f0f149e5\", \"OwnerResponseText\": \"Thanks, Enrique!  We hope to see you soon! Cheers! Team Fireside\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.036402\", \"ReviewLikes\": 0, \"TotalReviews\": 34.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303038,
+        "ReviewContent": "Have always liked this place but on my visit tonight staff was unhelpful and bordered on rude. Getting a beer took forever (despite being no line) and when I returned for a second beer (again no line) I waited for at least 10 minutes before I was acknowledged  and then admonished   for not waiting in the newly formed line a few bar stools down. I ended up giving up. Bummer.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"da767c38f713c53e356054902cb31f84\", \"OwnerResponseText\": \"Hi Doug!  Can you give me more info. Please?  Please email me: sandy@thefiresidelounge.com? This is not the experience we want you to have and I d like the opportunity to address this with my team. Thank you! Sandy\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.038984\", \"ReviewLikes\": 1, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303041,
+        "ReviewContent": "Had started coming here right before the pandemic hit. Great atmosphere!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5775ead7eb3385701db572f0592328ab\", \"OwnerResponseText\": \"We have a menu now! We would love to have you in for some eats!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.041304\", \"ReviewLikes\": 0, \"TotalReviews\": 170.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303043,
+        "ReviewContent": "I love this place to relax listen to music and enjoy the lovely bar. They are so nice staff and DJ.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"efe68552412fa67c75f9ee709fc1eabe\", \"OwnerResponseText\": \"Thank you Shanti! We love you too!!!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.043458\", \"ReviewLikes\": 3, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303045,
+        "ReviewContent": "Great local bar. DJ on weekends",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c99a3a01f3910616d58fde2a2a8d363a\", \"OwnerResponseText\": \"Live shows are starting again too! Thanks for the review Pedro\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.045572\", \"ReviewLikes\": 1, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303047,
+        "ReviewContent": "I had the most amazing night ever!!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2cddf7d1508dbbfdb28667997a8d1819\", \"OwnerResponseText\": \"Awe we love hearing that!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.047581\", \"ReviewLikes\": 0, \"TotalReviews\": 34.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303049,
+        "ReviewContent": "Such amazing ppl, always makes ya feel at home. Just a wonderful place where good vibes are welcome. Pics during the knew repaint they are having done.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"487f51b008ff47b3f5970b13aeac8d4c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 539.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303051,
+        "ReviewContent": "Caprese sandwich   lose the spicy chipotle aioli. It overpowers all the flavors/textures and all I remember is my mouth burning. The bread is delicious and, combined with the other ingredients, would be perfect without the aioli. Hot salted pretzels bites are fabu.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c549b184e2b7a76249daf2a54a84a400\", \"OwnerResponseText\": \"Thanks for the feedback Matt! We let you customize all our food. We want you to have it your way!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.051159\", \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303527,
+        "ReviewContent": "Sunday funday margaritas and tacos",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"368c0d55837b3505c41dd587c6fb83f3\", \"OwnerResponseText\": \"Bucket of beers and bloody Marys too!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.527504\", \"ReviewLikes\": 0, \"TotalReviews\": 138.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303532,
+        "ReviewContent": "Best flatbread in Alameda! Great atmosphere",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"83b84da64f2ac2888ea73f82f2a73883\", \"OwnerResponseText\": \"Game recognizes game Alameda Grocery Outlet! Your prices and selection are amazing!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.532230\", \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303534,
+        "ReviewContent": "Good neighborhood bar.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"0eb8a9e39674c7c5183d88b13fa4876c\", \"OwnerResponseText\": \"Good beers make good neighbors! Appreciate the review Karen\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.534515\", \"ReviewLikes\": 0, \"TotalReviews\": 87.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303536,
+        "ReviewContent": "I enjoy how friendly the bartender was, and she is very knowledgeable.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e7bc1c8049d541e405ee0059ed26d00b\", \"OwnerResponseText\": \"Thanks for the feedback!  We love Sarah too!\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.536606\", \"ReviewLikes\": 0, \"TotalReviews\": 182.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878303540,
+        "ReviewContent": "Great neighborhood bar!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"dbe33852ed6b9da6cecfea0ca75520a3\", \"OwnerResponseText\": \"Its easy with neighbors like you Clair! Thanks for the review.\", \"OwnerResponseDate\": \"2022-05-06 23:05:03.540549\", \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304046,
+        "ReviewContent": "Cool spot for a nice drink and some jukebox music. Nice bartenders too.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5baa154b592a4bc6fc391b656132f72e\", \"OwnerResponseText\": \"Hey Bob, we got rid of the jukebox but the music is still great. We have live shows starting this month too!\", \"OwnerResponseDate\": \"2022-05-06 23:05:04.046762\", \"ReviewLikes\": 1, \"TotalReviews\": 839.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304054,
+        "ReviewContent": "Good bar to hang out! Nice people and staff!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"97f5659715104fff6b4a9e4c53c923b3\", \"OwnerResponseText\": \"We like hanging with you too, Guillaume! Come hang with us and try some of our delicious bar bites.\", \"OwnerResponseDate\": \"2023-05-06 23:05:04.054059\", \"ReviewLikes\": 1, \"TotalReviews\": 32.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304058,
+        "ReviewContent": "Went to the outdoor Fleetwood Macromae show for Halloween. It was soo fun!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"01d896f9d74536662883c95a051e60ac\", \"OwnerResponseText\": \"We cant wait till they come back again!\", \"OwnerResponseDate\": \"2023-05-06 23:05:04.058369\", \"ReviewLikes\": 1, \"TotalReviews\": 24.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304547,
+        "ReviewContent": "Fantasticly festive fun. Plentiful people playing the part.. Sandra was cool, she handled my dyslexia on the bill with professional patience. The DJ transition to live band was a treat.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d5339f8ea2300e32480a53a251bc7980\", \"OwnerResponseText\": \"Glad you had fun!\", \"OwnerResponseDate\": \"2022-05-06 23:05:04.547125\", \"ReviewLikes\": 0, \"TotalReviews\": 51.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304553,
+        "ReviewContent": "Requires medical records for entry",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f271ae7686f5235c22d7330c730123c1\", \"OwnerResponseText\": \"Our staff have children who can not choose to get vaccinated or not.  In an effort to make sure they are not putting their families at risk, we have chosen to request your cooperation.  Thank you,.\", \"OwnerResponseDate\": \"2022-05-06 23:05:04.553106\", \"ReviewLikes\": 1, \"TotalReviews\": 20.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304555,
+        "ReviewContent": "Neighborhood bar.  Attended a live concert staged outdoors in the parking lot.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e1550a5a8c598389d98dfa34374f5235\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 274.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878304561,
+        "ReviewContent": "Cool Atmosphere . Great customer service every time. In a great location",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"abe585166935f8daecd91db5e3fc978c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 53.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878305070,
+        "ReviewContent": "Phenomenal sandwiches!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"9893aaa50682ef4162e147961c46de50\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 89.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878305075,
+        "ReviewContent": "Awesome outdoor venue for music. Complete with food trucks and beer and wine!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3b114d5ad56f5855262abb5f07065329\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 47.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1651878305079,
+        "ReviewContent": "True Alameda hang out",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"b7c8eb26af0f80dad5be4dc50a9bec11\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 75.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305085,
+        "ReviewContent": "Awesome owner and staff",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"794d9fdb4eaf84860892777bef195449\", \"OwnerResponseText\": \"Thanks, Zack!  Your support keeps the dream alive!  Cheers!  Sandy\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.085878\", \"ReviewLikes\": 0, \"TotalReviews\": 19.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305087,
+        "ReviewContent": "Gift boxes for cocktails at home, great social distancing in the outdoor seating and one patron at a time allowed inside. Last time I went, a DJ was set up in the front window, playing 80s hits.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e6667b98841ad8f91aae93f6b76a39b0\", \"OwnerResponseText\": \"Thank you so much for all of the support!  It means the world to us. <3 Team Fireside\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.087900\", \"ReviewLikes\": 1, \"TotalReviews\": 190.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305722,
+        "ReviewContent": "Great place. Well planned seating arrangement so patrons are distanced.  Owner and staff are so welcoming.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c670a28904cbbca0d2f9252eaf474b2c\", \"OwnerResponseText\": \"Thanks for all of your support!  <3\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.722767\", \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305727,
+        "ReviewContent": "A pretty fun experience with a live dj on the weekends",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"0c9d5730284819d9914bc146eaa02942\", \"OwnerResponseText\": \"Thanks, Shruthi!   <3\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.727937\", \"ReviewLikes\": 0, \"TotalReviews\": 52.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305732,
+        "ReviewContent": "All good..friendly...great to go cocktails",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2704f89385d368e69f01f8c04c003466\", \"OwnerResponseText\": \"Thanks, Craig!  <3\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.732691\", \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305734,
+        "ReviewContent": "Horrible horrible service. The Busboy/man with the red beard was rude as hell and acted like we were the most rude customers in the world because the Enter and Exit signs weren t made clear. Also the Lady with the Blue Hair acted like she was going out of her way to get our party a table when we were literally the LAST customers that even showed up. Probably because their joke of what they call service. Then they had the audacity to ask for a  Big Tip.  Would never come back, except for maybe to tell them off to there face.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"00299002ba9220ba5674cb878a198a7e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305736,
+        "ReviewContent": "Lively spot with a DJ playing music. Outdoor tables physically distanced. They clear and wipe/sanitize them down. Safely able to order drinks from bartender inside one at a time. Courteous crew.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"b9bf04fab5c1fea876393faa36138080\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 55.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305739,
+        "ReviewContent": "The best pandemic car park beer garden on Alameda island.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6177e11e291b82b97fd026136a89f84c\", \"OwnerResponseText\": \"Woot!  Thanks, Leo! <3\", \"OwnerResponseDate\": \"2021-05-06 23:05:05.739879\", \"ReviewLikes\": 0, \"TotalReviews\": 16.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342305741,
+        "ReviewContent": "Really cool outdoor cubicals to keep everyone safe.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e649469d55fde059ab2fb0699be628f2\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 160.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1620342306254,
+        "ReviewContent": "Definitely worth your time and money, great people and excellent drinks",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"46b4c48be8fd8b7caee384c60d7ae65a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 71.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306271,
+        "ReviewContent": "Was there for a drag show. The place was ill equipped and under staffed",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c7de3611cb67281556456dd0b54b6bec\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306755,
+        "ReviewContent": "Friendly staff, clean establishment. They have live music some nights and have an area in the back where groups can meet. All-in-all a great place to grab a drink. You can also bring in food, which is a nice option. Oh...and The Office was on one night, since thats an extra bonus.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d32fc5dcd664eb5af6dc151970fbcb5f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 226.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306760,
+        "ReviewContent": "Fun love band and the bartenders were friendly.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"829e8b850e4ec86dc2c04b7576d01a55\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 20.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306765,
+        "ReviewContent": "Very cool place to see the super bowl!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"550ea3814e95c497b5a1cc4a80b7b6cc\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 97.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306771,
+        "ReviewContent": "Cant come to the island and not go to Fireside",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"9697f76bc9d1393e7ae5c6ca9d9f604c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 200.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306773,
+        "ReviewContent": "Nice place on Webster st, heading back to watch superbowl couple weeks",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"406a24b846c559dedd5dbba854f3b5c8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 69.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806306775,
+        "ReviewContent": "Charming live music like Penny Opry.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e8143feb620f4438fdb059ae35b96d60\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 80.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307309,
+        "ReviewContent": "Its a bar.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2cdf84c783f588c6fc9646da6ac0c3eb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 49.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307312,
+        "ReviewContent": "Nice bar with some live music. Across the street from the pinball museum, even had a couple machines in it. Wish I had been able to spend more time there.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2383a1bd7027f177a757ad1fc6d706a6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 55.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307315,
+        "ReviewContent": "Nice neighborhood bar",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"66a0487dfe6bc51969e5bf1c9626e0e1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 153.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307325,
+        "ReviewContent": "Great place to come and have a drink.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f55a8fd69788ac7b251a1d4f263d6984\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307328,
+        "ReviewContent": "Fun bartenders who serve tasty drinks. Awesome atmosphere.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"264dd643051f9816f11878c69b22cd4d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 127.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307875,
+        "ReviewContent": "Cool locals hang",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"78d12e448aa25d393004ba321c12875c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 60.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307877,
+        "ReviewContent": "I love this place. Its always a nice drama free time. They work very hard to have fun events and the staff is friendly. Drinks are excellent without the crazy prices like other bars.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"735f8ac65005071c8d45c9ced837b15b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 45.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307882,
+        "ReviewContent": "I was walking by with a friend and saw a ghost flying back and forth and had to go in. Also had a live band, amazing atmosphere, friendly employees, and pinball machine. The best part was Chris though. Not only did they decorate the bar, but are also a great bar tender, so friendly and handled the busyness so well. Ill be back tomorrow for the costume contest.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"80c13b20278805f31e36c74322bcb85d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 49.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806307888,
+        "ReviewContent": "This is a pretty chill spot. Nice place to grab a drink. Catch one of the events for some good entertainment.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"744cb43c20b16f83e0eeb8f3f35b72b6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 48.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308420,
+        "ReviewContent": "This place has a great open mic on Wednesdays.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"603bea9662608cac0446a7724b7ccf4c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 63.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308424,
+        "ReviewContent": "It is a Spa with cabins that is located a little more than 20 miles from the entrance to Yosemite Park, close to all the lakes in the Mammoth region. The spa is very good, however the mattresses on the beds in the cabin we had, 109, are expired making the night uncomfortable. In addition, the restaurant inside the Spa closes at 9 pm, limiting the possibility of eating when it gets late on the days walks. If you visit in summer, with nightfall starting at 8 pm, it becomes difficult to get to eat after spending all day in the park. The good thing is that since it has a kitchen, if you expect to leave the park late, you can cook in the cabin. The recommendation is to be attentive with the food.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5e13dff04ae0defb28eeab83f0e55201\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 76.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308429,
+        "ReviewContent": "Great place and has a wonderful trivia night!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3357e9392ce1c8ab2c153ad51e3778c3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308431,
+        "ReviewContent": "Cannot say enough good about it",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"566fb743fbb56bb445be8ae61d30313c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 107.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308432,
+        "ReviewContent": "Really fun and inviting place.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2ca7ab39ca0b14c241f145cc634f25f2\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308936,
+        "ReviewContent": "Favorite place ever!!!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6c6b9776a36a49feeba2478e5dc2f57f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308941,
+        "ReviewContent": "Fun trivia night",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"58571a5ab08fa2f0ca5a21c5fba32eb9\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 362.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308943,
+        "ReviewContent": "Great atmosphere and selection at the bar. Nice patrons and good vibes.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"122fa430f7fe1857436a574daec50fa6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308945,
+        "ReviewContent": "Awesome Window Seats!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"9940ad814ab201e5244266515c63bdc8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 66.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308947,
+        "ReviewContent": "Fun friendly place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3ed98fc144edf5035b60277c20ca2988\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806308951,
+        "ReviewContent": "Whats not to love lol",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2040a144f319f65195f9a23475d42db8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 39.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309462,
+        "ReviewContent": "Friendly and fun.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"cb71f55cc6dbd218f9aaff60b1ac1c86\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 49.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309464,
+        "ReviewContent": "My favorite place to walk over and grab a drink at the end of the week. Best spirits on the island and always fresh juice for my salty dogs.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f10bf3a3c735b59e3f0aaffba6f15630\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309466,
+        "ReviewContent": "Chill. Very neighborhood.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"1253ac0fea0f8cefff6352b28ee78c42\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 268.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309472,
+        "ReviewContent": "This bar is great. The drinks are good and the drag shows that are there every 2nd Thursday of the month are awesome. Idalis Houston and Tatiana am the Mc Sondra is comical: a must see show",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"a09f196ab919bb1a5f0527763e7e467b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 38.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309474,
+        "ReviewContent": "Great selection of beers and the open mic nights are actually really great :) heard some Wonderful artists and meet some great people",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"21ea89ef433459430aedf337c4c90a6e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309476,
+        "ReviewContent": "A little pricier than some of the other bars on the island. That said they have fun events happening all the time, good service, and a cozy ambiance. I do wish they had more options for beer on tap though",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7d9eceaabdb329ed4ec071469935b4fa\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 26.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1588806309478,
+        "ReviewContent": "Was that a pill briefly floating in my drink? Ill never know cause its too dark. When the street is brighter at midnight than the bar at 9 pm, place a small lamp here and there. Nice, comfy, town bar feel. A little loud, even for a Gen Xer like myself.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"94295064f1154e0f1af27461c4ddb370\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 193.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183909993,
+        "ReviewContent": "Live music and drinks",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7b5ede2fcf162d7d474b3443b4521c85\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 304.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183909996,
+        "ReviewContent": "Decent beer selection and live bands.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"039c512b646a227fc0c9f6412afeb204\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 206.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183909998,
+        "ReviewContent": "Cold beer, good music, and awesome people.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e38f9c32971060a8bcd02cea3332be2c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 19.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910000,
+        "ReviewContent": "Nice environment. Live music. Not super crowded like most. Drinks reasonable for the area.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d910b0d3849461d115fda68fecae2d45\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 86.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910002,
+        "ReviewContent": "Delightful beers on tap; loved the art for sale, and the drag king show. Friendly, warm feel.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d4fdc70a2247a1ec7268dc06b3cc440e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 35.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910008,
+        "ReviewContent": "First time visiting. Bartenders didnt look like they wanted to be there. Must be a Monday thing.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"ba2ca4d0196f42bef36116c229a21ce4\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 177.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910010,
+        "ReviewContent": "Good, stiff drinks, fun staff, great guests. Whats not to love?!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"8c4cb940387098c08654d3a6201b8f3d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 206.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910544,
+        "ReviewContent": "Good place, lots of events, but without anything to eat, and a relatively short list of beers, makes this place very standard. Gave it 4 star for the beautiful ambiance and the local feel to it, clearly a lot of the clientele knows the staff.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5bb5b67b6abbb3b429bf476ada39a48f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 247.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910547,
+        "ReviewContent": "Amazing bartender Matty!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"61c5d76595c9aa414db568ca7ff95973\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 140.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910551,
+        "ReviewContent": "Giant Jenga every night PLEASE",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"e07b02f2345afd73df1157bce6ebf737\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910557,
+        "ReviewContent": "Divey bar.  Decent beer selection.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"8623579b5b9239f4ebf67bf9d4486747\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 330.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183910560,
+        "ReviewContent": "Nice place to stop and socialize.  Seating for live music could be a little tight/cozy but more of a request for additional tables or wall seating than a complaint.  Fireplace takes up a lot of space but adds to the ambiance not sure I would get rid of it.  Nice friendly staff and bartenders working there...Check it out for yourself.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"db44885cdc4b190a21a83c138efaf9a6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 36.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911075,
+        "ReviewContent": "Warm and friendly staff. Nice cocktails. They host special nights here and there and music bands which actually make it the life of the neighborhood. Im a neighbor and sometimes, in the summer, when my window is opened, I can hear them. I think if they werent there, my neighborhood soundscape would be missing something.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7ef32e643e7523a63059bf7ff4d1b73a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 63.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911082,
+        "ReviewContent": "Cool neighborhood bar.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"8b2d39d8ad49811ea234dc6c410826c1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 1158.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911086,
+        "ReviewContent": "Monday Comedy with Annie is excellent. Wonderful hostess...inviting the crowd and enjoying the drinks and Food Next Door is good.. Discount on Tap beer. Gender neutral bathrooms...Ummm Thats only reason for not greeting 5 stars.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3e7d34ac4e9d2745aef68430ba288be9\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 32.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911093,
+        "ReviewContent": "Nice joint with live music",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"cfd153f405980f7da833ad82e00a5d69\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 31.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911618,
+        "ReviewContent": "I mostly go to the Fireside Lounge for Shenanigans, a really fun drag king variety show on the 4th Sundays of the month. The bar has a nice atmosphere. The drinks are strong enough. The folks that work there are cool. All in all a cool spot to hang out.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"b9ecc80028b58d8d2bca0079c0c4d1a0\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 32.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911620,
+        "ReviewContent": "Nice atmosphere, has live music, good drinks",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"dbe629101805a0c961eab41125f89429\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 45.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911623,
+        "ReviewContent": "Relaxing",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"03b0dbccaf494f7e891fc9c670cb6b74\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 9.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911625,
+        "ReviewContent": "Great atmosphere,  friendly bartender!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"700859a0dbfba1a96e39706e152e32e5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 51.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911631,
+        "ReviewContent": "Very friendly staff made my friend and I feel very welcomed. On this particular night they had a blues band which sounded wonderful. The ambiance was nice and the drinks were good!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"158e3b9ba97b3d39ae0f6f1e40845b60\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 30.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183911633,
+        "ReviewContent": "Great beers on tap and quaint place with friendly staff",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7fcc892ae95858f32cdd9e04b2b05f11\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912098,
+        "ReviewContent": "Love the place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"215bedfb971e8f30c30e126d98e0b5ec\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 98.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912104,
+        "ReviewContent": "The vodka grapefruits are delicious. Fresh grapefruit, new favorite drink.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"9878a29891e62240227e8af72736cbdb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912110,
+        "ReviewContent": "My favorite local bar.  Unassuming, live music, shows, trivia night, great local craft beers on tap.  Cant go wrong.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7b0cf111a884fbf7bd118387ef3f8a14\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 31.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912111,
+        "ReviewContent": "Great calendar featuring local music venue, themed dj nigjts, fun crowd. Wednesday night open mic is welcoming with a good mix of talent.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"af7d3a360df64674fb2a738fce57e697\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 119.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912113,
+        "ReviewContent": "Fun, friendly, and great drinks",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"bba4f457e8be1f5fed0be1413ea2e492\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 102.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912613,
+        "ReviewContent": "1st Sunday Karaoke and Fresh Salty Dogs. Best time ever.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f5e00a73c0b8182a4105acb269b3340f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183912626,
+        "ReviewContent": "I love it nice place and friendly Bar.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"0312e09e168c8757fd7e68f0c3dbaf78\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913158,
+        "ReviewContent": "Not the same crowd",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"735d59af06a6a075b37e3643ca01ed8d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 38.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913163,
+        "ReviewContent": "The Hyperdrive Kittens had their musical memorial for Lee Nails Sanders there.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"492364018793786edd31f645bea994e7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 212.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913167,
+        "ReviewContent": "Damn fine selection",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"506989c090b730d3ac1fe8533b212309\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 149.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913171,
+        "ReviewContent": "Bourbon, beer, pinball, and good enough musical acts to keep me rarely leaving the island to see shows anymore",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"84aed008e3e0fe14d4a8e4f937edb0d8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 17.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913173,
+        "ReviewContent": "The lounge location is great near resturants and the crowd is easy to socialize with. And freshly squeezed fruit for my Greyhound. The bartenders are very helpful .",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"806a0582bb3adf0d8f7a7e3c974e6f53\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913741,
+        "ReviewContent": "Great selection of brews on tap. Excellent live music featured often.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"692a217ed491811e15e1b03b4bd706f6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 13.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913744,
+        "ReviewContent": "The perfect meld of unassuming diviness mixed with fresh authenticity--also a damn fine cocktail. Yaaas again and again.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"02d7dce4f200d86ab46a4fb59ccea296\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 13.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183913748,
+        "ReviewContent": "Always a great selection of beer and delicious hand-crafted cocktails. I really like the variety of nightly entertainment too.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"1d1073e7062f17bc88c0ed15bfa6a4e5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 49.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183914254,
+        "ReviewContent": "Love coming here.  If not for their themed parties, Ill come on Saturdays for their Endless drink special from 2-5. And Marie!!!! I freaking love her. The best bartender in Alameda. Super friendly. They always show the important games.I constantly bring different people here just for the atmosphere. Plus the drinks are bomb!!!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"648a6f6ed2396d182b4b8e9a2a563414\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 18.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1557183914256,
+        "ReviewContent": "I love this place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"9dacb9ed1f091b040d4c5fadc77d394e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 48.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914260,
+        "ReviewContent": "Charged cover. Dont understand why. Maybe it was band nite. Hate paying covers. Why charge us to spend money at the establishment.",
+        "StarRating": 2,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2c267d4eb5c653e80756b0848c187b7f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914263,
+        "ReviewContent": "I love this place! They always have great prices and a rotating stock of local beer and liquor so Im never bored. They have events from live music, trivia, drag shows, Harry Potter night, endless mimosas on the weekends, open mic, and karaoke. There are two pinball machines, local art on the walls (changes every month with the art walk), and plenty of seating! They also do food pop ups. What more could you want?!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"17e1eebf2f6e5101c557a17c6c273f71\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 30.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914264,
+        "ReviewContent": "Awesome hosts! If you play music, just go there and bring your music (and instrument of course).",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2fae978a4f6c30bd4fbe7cfc130139d4\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914266,
+        "ReviewContent": "Good cocktails for s local bar",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"48144bcaa89b01bf2bb906dc1c875dc7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 304.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914270,
+        "ReviewContent": "Favorite dive bar in Alameda. Sarah makes a noteworthy Old Fashion. Music on the weekends.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"238916a26fa7b293eddc6832fbb52656\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 48.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914741,
+        "ReviewContent": "Fun local bar. Can get loud. Great selection of beers. One of the only local places to see live music.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"cb1c5a8e389c55c0843024dbe4c62b9f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 40.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914743,
+        "ReviewContent": "This is a great bar to see live music.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3bb6b101b90c7ed6b30d33f4ccbfb63c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914746,
+        "ReviewContent": "Fun happy neighborhood bar, great booze selection. Friendly Alameda!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5a468ff2611c18360bfa561778302327\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 220.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647914750,
+        "ReviewContent": "Okay dive, fun Sunday drag show but not very talented performers.  Prices are reasonable.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3afb6ae038e202c311ec5e583c91bbdc\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 62.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915246,
+        "ReviewContent": "Live Music",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"26cd64ff0264e1801974b2c847c35008\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915248,
+        "ReviewContent": "Typical dive bar. Friend of mine rock band plays here occasionally. Not much Dance Floor area.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2c880b38109b5af8ac3190731c38a56f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 113.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915255,
+        "ReviewContent": "Awesome vibe with live music occasionally. Good tap selection.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"572613ed3b7b5eb77ecf38e7ac5fa38b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915261,
+        "ReviewContent": "Always adventurous and friendly !",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"79083e41c44e5a47dee9c456a387cd4c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915767,
+        "ReviewContent": "Fun friendly place live music on Fridays not sure about Saturdays...Nice decor. and Art Work from Local People...",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3770c573e3f1440961bf0d0d05e87923\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 228.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915769,
+        "ReviewContent": "Nice place to grab a beer or cocktail. Small area in the back for bands to play.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d4cfe8c5f36a5c503215fcff2cdbf369\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 96.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915771,
+        "ReviewContent": "Great dive bar with atmosphere.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"145f681387e76afb3d54708036a4b2bb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 81.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915773,
+        "ReviewContent": "Go for the events! It was never crowded when I came for the ukulele nights.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"8db91758b84d0ec324983cadcfb27506\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 261.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915775,
+        "ReviewContent": "Great service, great drinks, open late, good music and fun theme nights. My favorite area bar.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"5152ce9720351408eefc5c78286af0cc\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 96.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647915779,
+        "ReviewContent": "Yummy, decently priced cocktails and live music. Plus board games!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"260faa868304e2fd2d18303bdca97e83\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 63.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916292,
+        "ReviewContent": "Liquid paradise!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"4b284a5236c84d5dceae5954ee3bd37c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 126.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916299,
+        "ReviewContent": "Nice place - came to watch a friends band play The Rev tones they were awesome as usual! Place is nice a little cozy and the drinks are great a little pricey but, very good!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"a9e710aef112f4d80c4a4930a6a022da\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916301,
+        "ReviewContent": "The open mic night is great, especially for younger and newer musicians who want to play their songs and get feedback.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"a26175c7d1b273b2ac51d5f1eb23374d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 93.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916305,
+        "ReviewContent": "Theres is often a live performance here. The performance is typically extremely loud which makes it difficult to have conversation with anyone. The staff is friendly. They have the same drinks common to any bar. The croud is over their late 40s. Maybe thats why the volume is way too high...",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"ddc3be4d08ff571239a201b401fc3f32\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 90.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916827,
+        "ReviewContent": "Casual and local",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c3354e02e4f1fd2bb41089748a311d48\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 133.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916832,
+        "ReviewContent": "Nice spot with live music, attentive and cheerfull bartenders. Even when packed seemed easy to get around. Nice chill bar to hang your hat up at.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"1cd55acf605437cbf0ef39e62a3b89c0\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 45.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916836,
+        "ReviewContent": "One of my all-time favorite places to have a well-made cocktail; every single bartender is knowledgeable, courteous and on-point.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c0ffe3856d2d98c5e2de011c95839862\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647916842,
+        "ReviewContent": "Cool bartender. She was into hockey which I liked",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"be73f30d4af47cdd931fc329b681478e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 37.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917364,
+        "ReviewContent": "Having a great time,  nothing trivial about this action!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"442ae447830bc05a2bb63aba0633bb4c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917371,
+        "ReviewContent": "Been here a couple times on Tuesdays they have trivia nights and a great drag show on the 1st Thursday if the month.  Staff is great. Drinks are a bit expensive but the place has a great vibe n everybody gets along.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"8cedc8f206ba7287fb2277d3cd77b0c4\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 36.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917375,
+        "ReviewContent": "Laidback friendly and a good selection of brews.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"6e8150becded621de21894de29c78e00\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 203.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917380,
+        "ReviewContent": "Good food, drinks, music, open late. My go-to bar in Alameda.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"58890798f615b6a488f26eb10144d233\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 133.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917382,
+        "ReviewContent": "Great place to hang out.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"dcc976910da0170dd05f7299e859fe00\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917886,
+        "ReviewContent": "Best spot for open mic Wednesday nights.  Best night Wednesday is the 1st of the month.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"47dc05e17a3548a9760ddd53167944d5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 32.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917889,
+        "ReviewContent": "Mixed clientele. Gay & straight. Older & younger. People mind their manners and their own business. Great variety of drinks. Pinball machines. Dance floor. Live music. Clean ladies room! If food is required after a few drinks, a Nations Hamburger is across the street or Mexican restaurant next door. A walk at Crab Cove two blocks down wouldnt hurt to clear ones head!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"599cffcde42a6206139a6d4d765832c3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917891,
+        "ReviewContent": "Very cool staff, the place just had agood vibe",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d6e14dd68c114ddec085fc01c7a0d8d8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 38.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917893,
+        "ReviewContent": "They always take care of their Customers. Drinks are great fairly priced.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"b3097ad12e12d0e7f1f7f76ddb532cd7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 38.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917898,
+        "ReviewContent": "It is the perfect neighborhood bar",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d2b65d9d6400916ceab8503daeabd7fa\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 255.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1525647917903,
+        "ReviewContent": "Great locals bar.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f578af874283f7410c6b22951629dcdb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 213.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918431,
+        "ReviewContent": "Nice beer selection.  Good atmosphere.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"d5b08f9da77fd4eb84745dba651ae889\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 337.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918437,
+        "ReviewContent": "Fireside is a great fixture on webster. Fun trivia nights, good beer, awesome bartenders, and where else are you going to see live music on the island? 5 stars!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"145de534ed0286cc48114b93edc72ab8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 20.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918447,
+        "ReviewContent": "Divey but nice.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f80a99810c8b35fd5cd5bf4ce6fa8d63\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 123.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918923,
+        "ReviewContent": "Small lounge but quaint, has dance floor, sounds quality of music could be better",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7c53a7c326fabd2c2b8ad08329fa7c44\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 86.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918925,
+        "ReviewContent": "Sarah mixes a great old fashioned! Pinball machines and live music. Done.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"f1a4815782d5447aab5b71c8efa4710e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 110.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111918928,
+        "ReviewContent": "Remember I was born here and the Fireside has changed hands repeatedly, yet they do often have decent live music. .....its a nice quiet place but it is a bar so with groups as always it can get boisterous, again it is a bar, there is a great Mexican Calafia next door and the bar encourages ppl who are hungry to go next door, buy or order from bar, and eat it there in the bar....across the street is the famous NATIONS BURGER joint, either or is fine inside Fireside. ......still one pool table, but cant recall if a fireplace is still intact, I dont frequent bars anymore but about ten months ago I didnt see one....",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"70ee7109bba861e80309db2d043058d1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 102.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111919445,
+        "ReviewContent": "Gypsy fire was on fire and I danced my ass off I had the best time",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"71c05378aca080817ce92a47a0961cab\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 261.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111919448,
+        "ReviewContent": "Im having a great time with this Jazz band.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7365d068a4145fefb33f1dcb422849e8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 112.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1494111919454,
+        "ReviewContent": "Great local bar!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7f3c5c1e511c023c4bbf0db079b1ef56\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 93.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1462575919457,
+        "ReviewContent": "Trivia Tuesdays is the main draw of this Alameda gem.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"c3bce0f9b75416736d4d5cf5f7c1087f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 74.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1430953519459,
+        "ReviewContent": "Great atmosphere. Excellent beverage selection. Good bands and other fun events.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"bd327ed56f8616277d2551217a015194\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1430953519935,
+        "ReviewContent": "The only bar in town as far as Im concerned!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"2b6f2cfcd3b679c7f47a2d261899aa12\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1399417519940,
+        "ReviewContent": "This is a great local bar. The staff is friendly and there are weekly events, such as trivia and live bands.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"7e3f24b9501ab8db5b5d67489559d5e3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 12.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1367881519943,
+        "ReviewContent": "Always safe. Courteous service. OK for single women alone. Bartender owner women are awesome!",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"3d53e00d5a59f0e2ec6bb3d6a5797fe6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1367881519948,
+        "ReviewContent": "Im not someone who usually hangs out in bars, so the fact that I like this one is already saying a lot. Its just such a comfortable atmosphere. You almost feel like youre just kicking it in a living room. They have board games you can pull out and play, and theres almost always a good movie on the TVs. The bar staff is friendly, and great drink selection.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"ea5a43404c7078c18bb41effde6fb98f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 28.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 7,
+        "VenueName": "The Fireside Lounge",
+        "ReviewDate": 1367881519950,
+        "ReviewContent": "I went into Fireside on a Wednesday night and I enjoyed the atmosphere! I was greeted as I walked in by the friendly bar tender and she quickly invited me in. I loved the array of locally brewed beers that they had on tap. Prices were reasonable as well. Also enjoyed to open mic night they had. A+ in my book. Will be going back for more!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"The Fireside Lounge\", \"PlaceID\": \"ChIJVWtAACaBj4ARjXWP3-AXugM\", \"ReviewIDHash\": \"dd4eef144c0fc198e9665f703ee11623\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    }
+]

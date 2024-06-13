@@ -54,7 +54,7 @@ class Config:
                 raise ValueError(f"Missing required config field: {field}")
 
 
-def extract_review_info(soup):
+def extract_review_info(soup, company_name):
     """Extracts TrustPilot review data from a BeautifulSoup object.
 
     Args:
@@ -69,7 +69,7 @@ def extract_review_info(soup):
     for card in review_cards:
         # Extract full name of user
         find_tag = card.find('span', class_="typography_heading-xxs__QKBS8 typography_appearance-default__AAY17", attrs={"data-consumer-name-typography": "true"})
-        reviewer_name = find_tag.text if find_tag else np.nan
+        reviewer_name = find_tag.text if find_tag else ""
 
         # Extract users' total number of posts
         find_tag = card.find('span', class_="typography_body-m__xgxZ_ typography_appearance-subtle__8_H2l", attrs={"data-consumer-reviews-count-typography": "true"})
@@ -77,11 +77,11 @@ def extract_review_info(soup):
     
         # Extract users' profile links
         find_tag = card.find('a', class_="link_internal__7XN06 link_wrapper__5ZJEx styles_consumerDetails__ZFieb", attrs={'name': "consumer-profile", 'data-consumer-profile-link':'true'})
-        profile_link = ('https://www.trustpilot.com' + find_tag['href']) if find_tag else np.nan
+        profile_link = ('https://www.trustpilot.com' + find_tag['href']) if find_tag else ""
         
         # Extract users' countries
         find_tag = card.find('div', class_="typography_body-m__xgxZ_ typography_appearance-subtle__8_H2l styles_detailsIcon__Fo_ua")
-        country = find_tag.text if find_tag else np.nan
+        country = find_tag.text if find_tag else ""
         
         # Extract users' ratings
         find_tag = card.find('div', class_="styles_reviewHeader__iU9Px")
@@ -89,15 +89,22 @@ def extract_review_info(soup):
         
         # Extract review titles
         find_tag = card.find('h2', class_="typography_heading-s__f7029 typography_appearance-default__AAY17")
-        review_title = find_tag.text if find_tag else np.nan
+        review_title = find_tag.text if find_tag else ""
         
         # Extract review text bodies
         find_tag = card.find('p', class_="typography_body-l__KUYFJ typography_appearance-default__AAY17 typography_color-black__5LYEn")
-        review_content = find_tag.text if find_tag else np.nan
+        review_content = find_tag.text if find_tag else ""
+
+        if (review_title != "") and (review_content != ""):
+            review_content = review_title + ': ' + review_content
+        elif (review_title != ""):
+            review_content = review_title
+
         
         # Extract date of ratings
         find_tag = card.find('time', attrs={'data-service-review-date-time-ago':'true'})
         date_of_rating = find_tag['datetime'] if find_tag else np.nan
+        #print(date_of_rating)
         
         # Extract date of experience
         find_tag = card.find('p', class_="typography_body-m__xgxZ_ typography_appearance-default__AAY17", attrs={'data-service-review-date-of-experience-typography':'true'})
@@ -108,11 +115,28 @@ def extract_review_info(soup):
         review_link = 'https://www.trustpilot.com' + link_obj['href']
         review_id = re.sub('/reviews/', '', link_obj['href'])
 
-        attributes = [star_rating, review_title, review_content, date_of_rating, date_of_experience, reviewer_name, num_reviews, country, review_link, profile_link]
+        
+        metadata = {
+            "ExperienceDate": date_of_experience,
+            "AuthorName": reviewer_name,
+            "AuthorCountry": country,
+            "AuthorReviews": num_reviews,
+            "ProfileLink": profile_link,
+            "ReviewLink": review_link
+        }
+        attributes = [company_name, date_of_rating, review_content, star_rating, 'Trustpilot', metadata]
         dict[review_id] = attributes
-        cols = ['star_rating', 'review_title', 'review_content', 'date_of_rating', 'date_of_experience', 'reviewer_name', 'num_reviews', 'country', 'review_link', 'profile_link']
+    
+    # Creating dataframe
+    main_columns = ['CompanyName', 'ReviewDate', 'ReviewContent', 'StarRating', 'ReviewType', 'Metadata']
+    df = pd.DataFrame.from_dict(dict, orient='index', columns=main_columns)
 
-    return pd.DataFrame.from_dict(dict, orient='index', columns=cols)
+    # Reformatting/cleaning dataframe
+    df = df[df["ReviewContent"] != '']
+    df = df.dropna(subset=['ReviewContent'])
+    df['ReviewDate'] = pd.to_datetime(df['ReviewDate'], utc=True).dt.tz_convert(None)
+
+    return df
     
 
 def collect_reviews(config):
@@ -147,7 +171,7 @@ def collect_reviews(config):
             if soup.find('div', class_="errors_error404__tUqzU"):
                 break
     
-            new_reviews = extract_review_info(soup)
+            new_reviews = extract_review_info(soup, company_name)
 
             # Check if any review in new_reviews is already in all_reviews
             if df.empty:
@@ -188,7 +212,7 @@ def main(config_file):
 
 if __name__ == "__main__":
     # Default configuration file path
-    default_config_path = os.path.join(parent_dir, "python_scripts", "trustpilot_scraper_config.json")
+    default_config_path = os.path.join(parent_dir, "Python scripts", "trustpilot_scraper_config.json")
     
     # Check if the user has provided a custom config file
     if len(sys.argv) >= 2:

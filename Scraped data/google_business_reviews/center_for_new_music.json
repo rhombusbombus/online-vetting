@@ -1,0 +1,128 @@
+[
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1683427365337,
+        "ReviewContent": "Great space to hear exciting and challenging music.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"7dc69d357623a6cd9a4e336b17460ad6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 13.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1651891365341,
+        "ReviewContent": "An intimate performing space to listen to musicians.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"baf1670c3a165fd8526e9478c189e89c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1651891365343,
+        "ReviewContent": "Fabulous venue to see and hear live music with choices of styles. Dont miss the window display of one-of-kind musical instruments! The inside is very clean and they kept the brick walls of the old building at the back. Plenty of bathroom stalls and good style there, too. Friendly staff.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"7ef4dd7f64940e2d70f940f4e8a92785\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 208.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1651891365345,
+        "ReviewContent": "Adventurous music happening more often than any other venue in SF.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"525830eda11270a2d49bb1701f33cdaa\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 88.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1588819365828,
+        "ReviewContent": "Whats not to like with the New and ephemeral nature of the Center for New Music!Educational design projects &sounds of deconstructed innovation. Come immerse yourself in a World of Sounds/Instruments/Compositions of NEW Brilliance at THE CENTER FOR NEW MUSIC!BRING YOUR BEAUTIFUL EARS IN FOR A COMPOSERS  FANTASY! A TREASURE TROVE OF EXPERIENCES& SOUND EXPLORATION!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"10dabdeac9e3e74156e75536a86331c8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 4, \"TotalReviews\": 44.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1557196965837,
+        "ReviewContent": "Wonderful place to discover sounds, instruments and people",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"e12a1a6872336bfd87fe24791fb4c3d3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1557196965842,
+        "ReviewContent": "Excellent place...space for different forms of sound expression and its dissemination",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"1207027310308cb094994921195dafca\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 22.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1557196966368,
+        "ReviewContent": "Great intimate space for a small show.  The organization has a great mission of providing emerging artists a space to perform and access to resources.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"7f96e9ad5a005bd2e8fe5e02def65882\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1525660966370,
+        "ReviewContent": "Wonderful music and film performances by night, co-working by day.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"a23f3beba772fdf1f8f5571506220da1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 12.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1525660966884,
+        "ReviewContent": "A fantastic venue to hear something new and interesting!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"65a0632129c4296fa71965124b94092f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 479.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1494124966887,
+        "ReviewContent": "Wonderful intimate performance space for experimental music!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"22ed958321e334cf76fb847c16aad513\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1494124966889,
+        "ReviewContent": "Small Intimate Music Space  Will Get More information about this Place ASAP!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"065a591b0d2b02f41f82f54239d2806d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 54.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1494124966891,
+        "ReviewContent": "Nice venue, a little small",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"1d9f9f73a5e46ecd34e9f866b3b8c042\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 15,
+        "VenueName": "Center for New Music",
+        "ReviewDate": 1494124966893,
+        "ReviewContent": "Loved my music  class",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Center for New Music\", \"PlaceID\": \"ChIJITWHE4WAhYAR5zNX3Er5D6c\", \"ReviewIDHash\": \"aca344ab976e03cef28ee6fe9a91d5d1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": NaN, \"ReviewLikes\": 0, \"TotalReviews\": 51.0, \"LocalGuide\": 1.0}"
+    }
+]

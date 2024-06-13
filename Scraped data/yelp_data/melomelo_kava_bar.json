@@ -1,0 +1,290 @@
+[
+    {
+        "ReviewDate": 1706832000000,
+        "ReviewContent": "Weird vibes. Not particularly welcoming. Trying way too hard to be hipster. Won't be back.",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Sara R.\", \"AuthorLocation\": \"CA, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1703721600000,
+        "ReviewContent": "What a lovely place! Came here today with 2 friends to try kava for the first time. We told the (kavista?) it was our first time to try kava. She was wonderful and informative! She explained everything, invited us to ask questions, and made some recommendations. We felt so welcome!In addition to the incredible welcoming staff, the space is gorgeous. One wall is covered in live, growing plants that are all healthy & well tended. It gives a great vibe to the indoor seating space. One of us loves indoor plants & admired their plant wall so much that the tenders let us take home 2 small clippings (plant babies), to grow at home.The lighting & music are thoughtful & pleasant as well.We enjoyed our visit, would recommend highly to newcomers to kava like ourselves!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Niketa R.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1697241600000,
+        "ReviewContent": "A friend had her birthday party here and it was my first time trying kava. I really enjoyed sampling the drink selection that was offered and the atmosphere was refreshingly laid back and friendly.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Jos S.\", \"AuthorLocation\": \"CA, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1695513600000,
+        "ReviewContent": "Amazing staff and yummy drink menu. Always has cool music and laidback atmosphere. Grateful for an alternative to alcohol! Gorgeous charming gem in oakland. Must try!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Erica I.\", \"AuthorLocation\": \"New York, NY\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1693353600000,
+        "ReviewContent": "This place was really cool, I think it's a great alternative for cocktails or beer. If you're trying to give yourself a break broom drinking alcohol, come here. The service was awesome and people nice. I recommend the pi\u00f1a colada cava, that was the best one!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Gerardo T.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1690675200000,
+        "ReviewContent": "I've been asking my friends that live in Oakland to bring me here for a while and we finally did. This place has very relaxed vibes and we came on a Sunday evening so it wasn't packed. Right when we walked in we were welcomed by the super friendly staff and we took a look at the menu. This was my first time having Kava so I wasn't sure what to get but I went with the Melo Chai which is chai spices, raw agave, almond milk and kava. It was delicious, the second the kava hits your tongue it's a cool numbing sensation. I would definitely come again and try other flavors. They also have what's called a riptide you can add which is an instant kava boost and they didn't have it today so I'd want to come back and try that.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Lety G.\", \"AuthorLocation\": \"San Jose, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1690070400000,
+        "ReviewContent": "I LOVE this place for so many reasons.  They have great open mics on Monday, live music on Thursdays and an awesome Dj spinning over the weekend.  I tend to go for the Kava which I always enjoy. I don't drink alcohol so for me it's a great alternative if I'm looking for an overall calming, yet enjoyable effect without any negative consequences.  All of the staff is great, but there is a star in there who truly shines and gives all of herself to make sure the customers are happy.  Sarah is truly top notch in every way - so much so, that she is the reason I felt compelled to write this review.  I couldn't help but sit back in awe and watch how she worked her magic managing to make every customer she engaged with smile and have an enjoyable time.  She's on top of it - between engaging with the customers ( & that night, open mic artists), refilling glasses without having to wait ( & this was on a packed night), explaining the history of Kava in a quick, yet super informative way & most importantly, delivering nonstop genuine AMAZING energy.  Crossing paths with people like Sarah is a blessing - she will leave a lasting, super positive effect on you.  You'll just have to go to see what I mean.  And for those of you who own businesses, this is the type of person you'd want at the very top - no understatement.  She's exceptional.  Melo Melo is a great vibe & definitely worth checking out!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Elizabeth T.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1686528000000,
+        "ReviewContent": "This place has a great ambiance and selection of drinks. The lava is always interesting, the hot cocoa is amazing, and they have great kombucha. Happy hour is generous, and it's a nice touch that you can get some fresh fruit with your kava just because. This is my new favorite way to unwind.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Karl L.\", \"AuthorLocation\": \"CA, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1682985600000,
+        "ReviewContent": "A friend and I were exploring the area when we stumbled upon Melo Melo. I had been to the one in Berkeley but did not know one had opened in Oakland during the pandemic. What a nice surprise!I am quite familiar with kava, but my friend had never tried it and was interested, so we headed in. The space is long and narrow with a very chill lounge vibe. There's a long bar on one side and some colorful couches along the other side, and lots of lush plants for a relaxing atmosphere.As it was my friend's first time with kava, we had the staff explain a little bit about the kava ritual. The staff was very friendly, knowledgeable and attentive. We were feeling pretty good after our first kava. They have a pretty decent selection of kava mocktails and other drinks, and they all sounded good, so it was difficult to choose, but we followed up that first kava with a kava chai drink with just a little bit of agave (we were able to customize the sweetness level since the drink was being made in front of us). The drink was delicious! I could have easily had another, but we didn't want to fall asleep at the kava bar! We'll be back to try their other mocktails, sipping chocolates, and teas, and more!Did I mention they also have an open mic night, a DJ, and a daily happy hour from noon to 6 p.m. when drinks are buy 2 get 1 free? All of the good things in one place.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Suzie A.\", \"AuthorLocation\": \"Emeryville, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1682208000000,
+        "ReviewContent": "So my first time here and my first time using kava was not very enjoyable due to the bar tender. He was unfriendly and mildly rude, rushing my friend and I out around closing time. Pretty sure he was on something too. I remember his name being Dave. I returned to meet my friend the proceeding night and the service was great from Andrew.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Jerry H.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1681516800000,
+        "ReviewContent": "Staff is very friendly and introduced us to Kava for the first time with a ritual. The Kava Mocktails are quite delicious and me and my partner tried them all! The second time we came back there was fun music and a silent film.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Todd H.\", \"AuthorLocation\": \"West Edmonton, Edmonton, Canada\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1678924800000,
+        "ReviewContent": "Yes--I cross a bridge for the kava and it is worth. it. Love the late hours and catching open mics and other events. There's so many good people that come through and interesting conversations to be had that getting solo computer work done can be a little challenging and sometimes there's a shortage of places to sit. But these are good problems to have. I'm so glad to see this place thriving!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"S S.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1664409600000,
+        "ReviewContent": "I thank the powers that be that we live in 2022 on the crest of a first wave of kava bars on the west coast. Melo Melo is more than just a place for good vibe, great service, and quality product. Do yourself a favor and pay it a visit sometime! Bulah!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Paul B.\", \"AuthorLocation\": \"Danville, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1655078400000,
+        "ReviewContent": "Cool spot! I come once every few years to soak up the chill ambience and brainstorm for lessons and blog posts. The servers are very friendly in a genuine way. The space has a decent amount of seats for socializing or working alone. I appreciate the vibe here, and the drinks are a plus! They use almond milk, which is great for a dairy-free guy like me!",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Darius W.\", \"AuthorLocation\": \"Lake Merritt, Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1654819200000,
+        "ReviewContent": "I recently stopped drinking and have been looking for alternatives! I tried Kava some years ago and a friend suggested I get back into it. I started going to the Kava bar a few weeks ago! I love the chill vibe and all of the different people I've met. They have an open mic night on Monday - it's amazing ... all kinds of talent - singers, poets, authors, etc. It's a hub of artistic talent and I feel honored to be there.Their drinks are awesome. You can do traditional kava or get something flavored; if you're familiar with the taste of Kava then traditional would be fine! If you're new to Kava or don't like the taste - try one of the infused drinks. They're delicious and you cannot taste the Kava.Please give this place a chance; come contribute to the great vibes!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Yvette M.\", \"AuthorLocation\": \"SoMa, San Francisco, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1654646400000,
+        "ReviewContent": "Just visited for the first time, what a fun experience! The bartender was very knowledgeable about Kava and went to lengths to explain benefits and use. Great, friendly vibes. Will be back.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Sara S.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1654560000000,
+        "ReviewContent": "curators of amazing vibe. from the furniture to the lil DJ sets to the chill \"bring your own food\" policy to the magical community, this is one of my favorite places in the bay.thank you, fam, for keeping the love alive.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Mick K.\", \"AuthorLocation\": \"Los Angeles, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1653004800000,
+        "ReviewContent": "I've been coming here for 3 years, but have been so grateful for this spot after the pandemic. Always a chill vibe, great bartenders, folks who really care about creating a sweet experience and community vibe. The DJ on Weds and Friday nights totally kicks it off. Great spot.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Ayden W.\", \"AuthorLocation\": \"Napa, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1649376000000,
+        "ReviewContent": "This place was interesting. We passed by this place hoping to get a new experience. We ordered two kava cocktail drink and received a third free which was nice. I recommend the melo colada and melo dreams as a first timer.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Chabeli H.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1642550400000,
+        "ReviewContent": "Delicious kava drinks and relaxing ambiance. Staff is super friendly. Beautiful living art wall.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Natasha T.\", \"AuthorLocation\": \"Hayward, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1639699200000,
+        "ReviewContent": "Glad I went for the new experience but you're supposed to chug 5 drinks to feel the kava effect and otherwise it's just dirt taste and if you do chug five you might be vomiting during your dinner reservation. Also the bartender had an opportunity to engage with their customers past explaining the ceremony and he had the personality of a wet noodle.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Shannon D.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1638057600000,
+        "ReviewContent": "This place was so good an the person behind the counter (owner?) was so nice and helpful in explaining the drinks.  While I didn't try the kava, I hope to next time.  I tried the sipping chocolate instead and it was delicious!  The area inside was also very spacious and cute with plants on the wall.  Great drinks and decor!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Abby F.\", \"AuthorLocation\": \"West Sacramento, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1634688000000,
+        "ReviewContent": "There isn't a obvious outdoor sign for Melo Melo right now, so go slow when you approach otherwise you might stroll past it if you're walking too fast like I did the first time lol. I've come here twice now. It's designed very similarly to the Berkeley location, love the (real) plant wall and mood lights at night. And like the Berkeley location, the service is great! Definitely sit at the bar for more interaction and to learn more about kava (how to drink, \"bula\", samples!), otherwise you can sit on the couches for more private conversations. There is outdoor seating at this location, which is great especially if you're not comfortable being indoors. Outside food is allowed. I've heard that fatty foods can intensify the effects, so do with that info as you will. I think there's truth to it! Some folks have reverse tolerance when they have kava, so to feel the effects you may need a lot. They had a Halloween kava drink, I think called Midnight? Or Midnight something, something Midnight? But it tasted like sunshine lol (lemon-lime). So far I've tried the purist, pina colada, ginger, chocolate, and kava dreams (orange creamsicle), the global warrior sipping chocolate and the chameleon kombucha. The colada and kava dreams are my favorite! If you don't like the kava taste you might like these. But for me, the kava isn't all that bad. It does get more earthy/bitter as you get to the bottom of the shell though. You may get a slight tingle/numbness on your tongue. Maybe I'm too used to milk chocolate and sweetened chocolate, but the chocolate drinks I've had didn't taste like much to my taste buds. Lakeshore can be a little tough when it comes to street parking but on a Saturday evening I actually found parking pretty easily!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Connie C.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1629676800000,
+        "ReviewContent": "This is a new location by the Grand Lake Theater.   They have a cool parklet out front and live djs on Fridays.  I especially love their kombocha on draft.  Say hello to Dave when you're there!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Michelle R.\", \"AuthorLocation\": \"Emeryville, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1628812800000,
+        "ReviewContent": "Absolutely satisfied with my experience and will be returning as much as possible. I'm impressed with everything. No issues whatsoever.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Jeremy H.\", \"AuthorLocation\": \"Shoreview, San Mateo, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1626134400000,
+        "ReviewContent": "The only reason I haven't left a review until now is that I selfishly don't want it to get to popular here! THAT is how much I appreciate this community/kava bar. Please bring the good vibes and an open mind. You might find live dj's, dancing, chess, or maybe even a community. Aloha.(Oh, get to know the \"kavatenders.\" They're all amazing folk who keep us all doing in line!)",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Derek S.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1624320000000,
+        "ReviewContent": "a welcoming lounge space; inclusive, warm, communal, utterly beautiful in every waydrinks are good too",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Mike A.\", \"AuthorLocation\": \"ASTORIA, NY\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1607904000000,
+        "ReviewContent": "Tina was so chill and knowledgeable! We did a bula ceremony and it was the perfect end to an otherwise dreary pandemic day. Tina, you rock! Friendly, helpful, NOT PRETENTIOUS!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Nya T.\", \"AuthorLocation\": \"Aspen Hill, MD\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1606867200000,
+        "ReviewContent": "Stopped in this place out of curiosity and it was a wonderful way to spend a little time. The gent at the counter was incredibly friendly and knowledgeable, poured me a shell of kava gratis and drank one with me. Gave me a full-blown briefing on kava, how to drink it, the science of it and what to expect... as well as how committed this establishment is to paying homage to the cultures and peoples at kava's origins. The space is also lovely and the other customers were super friendly, too.  From previous reviews, it looks like experienced kava folx love this place, but if you're a beginner rest assured you will feel very warmly welcomed here.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Tara-Nicholle N.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1605398400000,
+        "ReviewContent": "A near copy of the University Ave location, Melo Melo has the movies, the collection of kombucha and kava drinks that you see in Berkeley, and some great drinking chocolates. It's great to see such a good place brought south. The staff is fabulous. Welcome to Oakland Melo Melo.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Matt B.\", \"AuthorLocation\": \"San Jose, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1580169600000,
+        "ReviewContent": "Melo Melo, having been a Berkeley institution since 2015 has finally expanded to Oakland. Their #1 asset--their employees. Among the friendliest, most interesting people you'll meet. A truly positive community of people who want to be your new friends. The kava is always strong and a quality, gotten directly from their sources in various Pacific Islands like Fiji, Samoa, and Vanuatu. For those that don't like the peppery taste of pure kava, they have some delicious kava cocktails to sip on. The kombucha is among the best I've ever had, and the creator behind the magic is often hanging out at the bar here or Berkeley (or the Grand Lake farmers market). Quality CBD drinks, sipping chocolate, and tea provide many options for people who want a local hang without the alcohol and barflies. If it's your first time, they'll hand you a free shell and tell you all about kava. Talk to the manager, Dave, a friendly joker who's always down to have a shell and chat you up. If you're nervous about kava, don't be--they can answer all your questions and are extremely friendly and patient. My favorite spot on Grand to unwind and read, roll some dice with friends, or just enjoy the vibe.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Sean B.\", \"AuthorLocation\": \"Corvallis, OR\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    },
+    {
+        "ReviewDate": 1579478400000,
+        "ReviewContent": "I've been OBSESSED with their Berkeley location, and I'm super juiced (pun intended) to see them open near Lake Merit. This place is the chillest place for groups and 1:1 conversation, like a bar but without the hangover. I can't get blackout drunk anymore, it's just not fun. At MeloMelo, I can have a drink or two or five and be chill and remember what  my friends say. This place is exactly what I want in a chill spot: quiet enough to talk, plenty of couch space, and bartenders who remember my name. They're actually the best part of this place: Even if I don't come with my friends, the bartenders make me feel like I'm in someone's living room. They're engaging and know their product, and they'll sit and chat for a hot minute. I can tell they're genuinely happy to be there, which dramatically increases the chillness factor. Logistics: Dogs are allowed, and there's a bunch of them every time I come. Outside food is allowed - they don't serve food here. 18+",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Melo Melo Kava Bar\", \"AuthorName\": \"Vanessa C.\", \"AuthorLocation\": \"Berkeley, CA\"}",
+        "VenueName": "MeloMelo Kava Bar",
+        "venue_id": 10
+    }
+]

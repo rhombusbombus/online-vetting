@@ -1,0 +1,938 @@
+[
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1701916913066,
+        "ReviewContent": "The bartender was so sweet to me, even though i was a bit tipsy and talking like a fool   a very lovely experience! Will definitely be back!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"4e2a49029b2733ccaf2bf315f7d7ce78\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 41.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1691376113070,
+        "ReviewContent": "Love the family vibe here! Best of the best!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"b641db6d085c90eef4091f453c8bbd48\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 18.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1686105713076,
+        "ReviewContent": "Great bar with great owners!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"1b762b6539caf3990162567a10e6af80\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 12.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313598,
+        "ReviewContent": "Definitely the spot to hangout and have fun!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"33002a9ef139dbe3898d79d294122257\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 88.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313602,
+        "ReviewContent": "Great place for a wonderful Time.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"f6c86964acd65814d4ba5516aad35949\", \"OwnerResponseText\": \"Thank you Josilyn!\", \"OwnerResponseDate\": \"2022-05-07 02:41:53.602300\", \"ReviewLikes\": 0, \"TotalReviews\": 34.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313605,
+        "ReviewContent": "Was an ok bar, chill vibes but this bar is definitely not for millennials",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"2e69eef774593b603667faa3cab30b3a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 57.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313608,
+        "ReviewContent": "I always love going here. Tony is cool and knows his music.  The owner is cool and super friendly.  My band used to play there all the time.  If I lived closer Id probably be there often",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"617a35bc7fd27618690b9a998bcb7437\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:53.608516\", \"ReviewLikes\": 1, \"TotalReviews\": 150.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313611,
+        "ReviewContent": "Cool lil joint",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"66481f68d65ae92a405ce8d76612dbc5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313613,
+        "ReviewContent": "Good place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"cf462d468222ac9679c86c2ad99dea56\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 33.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313615,
+        "ReviewContent": "Place was empty....",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"de3ae26e97101760ce3f4106a0371c59\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 173.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427313617,
+        "ReviewContent": "I do like this (pardon me) watering hole in the wall for a number of reasons. Firstly, theres a lot of art and desiderata over the majority of the interior, and secondly, the place is very intimate and hardly ever banging (i confess I dont go there at night too often, because why would I?), and Thirdly, its got a great customer area out back, with pretty cool/chill people, lots of succulents and, even though its not a huge space, it does offer nice spread out seating and plenty of elbow room for those of us in need of such stuff. Oh, I almost forgot: the barkeeps make good drinks, are no-nonsense, generally very chill, earnest and friendly, it all adds up to more than the sum of its parts. Id rate it higher but thats a tall order, probably an interior update, floors and all (including the stage, bathrooms and outside - maybe I missed it but a music on demand system and wifi thats accessible would be transformative and probably make it my goto for a simple place to go where everybody knows your name), and it honestly wouldnt take much. At any rate, Cheers!",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c31b17736edf63366db184b358101ebb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 9.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1683427314154,
+        "ReviewContent": "Nice and divey local sports bar with pretty decent fried food. Low key place, with a big back patio, and good drinks.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c3a8c93d78a9857d633de09b45c3aa32\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 359.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314161,
+        "ReviewContent": "Great bar just stepped in for a quick drink and it was good and strong. Great prices and service too.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"781f609cc7fe1bb9171f521d87779792\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 310.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314165,
+        "ReviewContent": "Red hat is such an awesome spot! The staff are fantastic, the patrons are friendly. When they have live music the sound is outstanding. 10/10 would recommend such a quaint little place.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"7198610ff15c9079284a08aac26e31a5\", \"OwnerResponseText\": \"Thank you\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.165567\", \"ReviewLikes\": 0, \"TotalReviews\": 17.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314167,
+        "ReviewContent": "Fair prices",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"6a92b28274ff38bfade0761db92678e4\", \"OwnerResponseText\": \"Thank you\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.167697\", \"ReviewLikes\": 0, \"TotalReviews\": 55.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314169,
+        "ReviewContent": "One of my favorite places. Need a chill place to grab a beer after having a case of the Mondays? This is the place. Plus you can hang out with Tony, who is pretty awesome.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"a5f7e0741fb714c6cee13accba85b5ab\", \"OwnerResponseText\": \"Thank you\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.169734\", \"ReviewLikes\": 0, \"TotalReviews\": 128.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314171,
+        "ReviewContent": "Not enough pool tables",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"ed33917ea134c7f19b7fb948459fd62d\", \"OwnerResponseText\": \"Coming soon, Thank you\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.171825\", \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314682,
+        "ReviewContent": "Fantastic bar, great ownership, and wonderful staff.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"453d8c3ef49269aaa893a11f7fe95676\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.682923\", \"ReviewLikes\": 1, \"TotalReviews\": 222.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314687,
+        "ReviewContent": "If ur from Concord u like red hat.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"a29b076b3d00d267edab2fde7b0ad0ef\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.687555\", \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314691,
+        "ReviewContent": "Great environment and great prices. Highly recommended",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"fd632fc39471ba4a1160be3c737dcffe\", \"OwnerResponseText\": \"Thank you dan!\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.691385\", \"ReviewLikes\": 0, \"TotalReviews\": 104.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1651891314693,
+        "ReviewContent": "I love this place. The owners are super friendly. The people who hang out here & the vibe is fantastic.. Its our own little Cheers atmosphere",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"707fd421fea85d7f02e8e30a865faf16\", \"OwnerResponseText\": \"Thank you, hope to see you soon.\", \"OwnerResponseDate\": \"2022-05-07 02:41:54.693415\", \"ReviewLikes\": 0, \"TotalReviews\": 92.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1620355315271,
+        "ReviewContent": "This is our favorite place to play!!! Ive been rhoadying for The Road Vikings off and on since 2008, and by far, this place has got it going on. Quaint venue, close to our studio, our most dedicated fans always show up here when we play. The owner Rocks the mixing board, giving us the creative freedom to get morbidly loud. Yes, with the happeneeen party atmosphere provided by the good people at The Red Hat, -we -are- a co-morbidity, (a shout out to the crazy times we live in). Hope to see you rocking at The Red Hat with us ...after we all get vaccinated : p Its a really, really great time!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"877f763f179cae7d41de479ce447e925\", \"OwnerResponseText\": \"Thank you , hope to see you soon.\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.271113\", \"ReviewLikes\": 0, \"TotalReviews\": 108.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315273,
+        "ReviewContent": "Fun spot. Met some good people there.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"1eafc1323c6792bfb85196aec9bc83f6\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.273143\", \"ReviewLikes\": 0, \"TotalReviews\": 18.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315274,
+        "ReviewContent": "Always dark and cold",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"882fa3bd235f11c3aa110198361b03d9\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.274181\", \"ReviewLikes\": 0, \"TotalReviews\": 12.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315275,
+        "ReviewContent": "Best bar in Concord. Great music. Great staff. Their owner is always super friendly and inviting.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"4729f3be7d6b47f76ebf772c6ded4561\", \"OwnerResponseText\": \"Thank you ! Rob.\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.275190\", \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315277,
+        "ReviewContent": "Lovely lil venue in the sticks. The bartendresses were witty and gorgeous. The place was dingy but welcoming. Will definitely come back for the variety of underground bands there. And on quiet nights, they have the best stray kitty ever!!!! OMMFG! Im in love(:",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"27e2f61715b9c4aafb569b76b0a8006b\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.277156\", \"ReviewLikes\": 0, \"TotalReviews\": 46.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315278,
+        "ReviewContent": "Peyton was excellent!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"19bdde84c781d5a3cc37514679787de2\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.278195\", \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315766,
+        "ReviewContent": "Its a great little sports/dive bar. Come on a night with music and see how it goes. Youll have a great time.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"b3095b72d33f7048f9f911dfafd47a58\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:55.766190\", \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315775,
+        "ReviewContent": "Friendly staff and good music!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"8022529d41a2f4937369e940823cfdf8\", \"OwnerResponseText\": \"thank you for your support.\", \"OwnerResponseDate\": \"2020-05-07 02:41:55.775521\", \"ReviewLikes\": 0, \"TotalReviews\": 121.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315779,
+        "ReviewContent": "This is becoming one of my semi-regular spots. The owner (Righty?) is quick, friendly, & pours great cocktails. Awesome bands if you want to hear great original music. I have found everyone there to be laid back but friendly. Great dive bar!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"e46f65db723741adbd718ce92330fbde\", \"OwnerResponseText\": \"Thank you.\", \"OwnerResponseDate\": \"2020-05-07 02:41:55.779662\", \"ReviewLikes\": 0, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819315781,
+        "ReviewContent": "This place was great",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"b1b92ad7a88a92ef0bb13045b25cf4e2\", \"OwnerResponseText\": \"Thank you.\", \"OwnerResponseDate\": \"2020-05-07 02:41:55.781665\", \"ReviewLikes\": 0, \"TotalReviews\": 255.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316266,
+        "ReviewContent": "Bad service from the bartender at least the one that was working when we when in personally im not going in there again",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"cc41534adc557700b05f4fa69c0c5dfe\", \"OwnerResponseText\": \"Please let us know the day & the time you were there. thank you.\", \"OwnerResponseDate\": \"2020-05-07 02:41:56.266228\", \"ReviewLikes\": 1, \"TotalReviews\": 60.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316267,
+        "ReviewContent": "Sam is a great bartender.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"ab297d673e18a26d462f1db8f9088ae7\", \"OwnerResponseText\": \"Thank you for your support.\", \"OwnerResponseDate\": \"2020-05-07 02:41:56.267766\", \"ReviewLikes\": 1, \"TotalReviews\": 26.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316270,
+        "ReviewContent": "Fun and relaxing bar",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"6284bda395f5e1bdd71b4bf88bafe903\", \"OwnerResponseText\": \"Thank you .\", \"OwnerResponseDate\": \"2020-05-07 02:41:56.270072\", \"ReviewLikes\": 0, \"TotalReviews\": 179.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316272,
+        "ReviewContent": "Cute place! Cozy, clean, has live music.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"581f1b3b26aded2aa576fa664042d2e8\", \"OwnerResponseText\": \"Thank you for your support.\", \"OwnerResponseDate\": \"2020-05-07 02:41:56.272041\", \"ReviewLikes\": 0, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316273,
+        "ReviewContent": "I went in for a beer whilst waiting for my car to be serviced nearby. I was greeted promptly by a friendly server who poured me a nice cold beer. The atmosphere was as I expected - very much the right level of dive. I really liked my time here",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"1fd3b8097e8c3cf5f48975048b75aa86\", \"OwnerResponseText\": \"hope to see you again soon. Thank you.\", \"OwnerResponseDate\": \"2020-05-07 02:41:56.273366\", \"ReviewLikes\": 0, \"TotalReviews\": 121.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316276,
+        "ReviewContent": "Great place for music or pool. Open mic tuesday nights.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"b94df07a644a9471fd897887b0cc703c\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:56.276441\", \"ReviewLikes\": 0, \"TotalReviews\": 41.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316280,
+        "ReviewContent": "Nice place to rock",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"2bc6032ba6df3dcf4fb47e04a9998e2b\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:56.280363\", \"ReviewLikes\": 0, \"TotalReviews\": 55.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819316813,
+        "ReviewContent": "Fun atmosphere",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"3adcb356b42a1f45605a502b520ffeb1\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:56.813533\", \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819317338,
+        "ReviewContent": "Creepy neighborhood, but the bar is pretty cool. They could have had more than one bartender but she did ok. Nice little place to see live music, parking in back, Mexican place next door for food. Bathroom could be redone and needs more than one toilet. I love the pinball machines. Hardly ever see them.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"7774ab4615f959c39a907bceff66ab4a\", \"OwnerResponseText\": \"thank you for the input\", \"OwnerResponseDate\": \"2020-05-07 02:41:57.338666\", \"ReviewLikes\": 0, \"TotalReviews\": 154.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819317341,
+        "ReviewContent": "Love it when its right great venue good peeps",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"166ee78e786ed9efac6da8fcfc412203\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.341286\", \"ReviewLikes\": 0, \"TotalReviews\": 92.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819317344,
+        "ReviewContent": "The owners are great, lots of fun",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"19008b1888981c47b6f03a052ff0e53b\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.344039\", \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1588819317348,
+        "ReviewContent": "Local rock bands featured",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"e75f0a5c2498ae9b124cb77091a9524f\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.348721\", \"ReviewLikes\": 0, \"TotalReviews\": 82.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917350,
+        "ReviewContent": "It was great but I did not see any food",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"f175ff9b4b5be4c1c6551386e96c264b\", \"OwnerResponseText\": \"We serve Pizza, Buffalo Wings, Fish and chips, hope to see you soon. Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.350880\", \"ReviewLikes\": 0, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917355,
+        "ReviewContent": "Live music every weekend. Bartender and customers are always friendly. Great place to have a drink and chill.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"8ce51fcee9ff98317615f9b1de30dfc9\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.355094\", \"ReviewLikes\": 0, \"TotalReviews\": 9.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917853,
+        "ReviewContent": "Cool club",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"539144f0c97e8f923f8caf0f2ba19ddb\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.853389\", \"ReviewLikes\": 0, \"TotalReviews\": 20.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917856,
+        "ReviewContent": "Hung out with the owner and had a great time. Live music, good people, good time.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"cb8a9758c7543b13fc80b96023593202\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.856117\", \"ReviewLikes\": 0, \"TotalReviews\": 91.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917858,
+        "ReviewContent": "Cheap drinks, nice patio area, live music. Whats not to love?",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"11b9e720524b84c25469a3b5ae360e8b\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.858584\", \"ReviewLikes\": 0, \"TotalReviews\": 43.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917861,
+        "ReviewContent": "My bf is the house drummer on Tuesday Nights for jam night its AWESOME!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"70e9359130ed832f1e2a9cf883cd171e\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.861126\", \"ReviewLikes\": 0, \"TotalReviews\": 18.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917863,
+        "ReviewContent": "Its pretty comfortable bar that also host live music in rock and roll. Theres a smoking patio out in the back and a good Mexican restaurant right next door. The drink specials are reasonable in the staff polite to a fault",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"eb9748c248806698b2cc9c8790ec6d55\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.863400\", \"ReviewLikes\": 0, \"TotalReviews\": 91.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917865,
+        "ReviewContent": "Great atmosphere,great people,great music,great drinks....Great times....",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"0c669c7e143e67f3c40df14a1a728187\", \"OwnerResponseText\": \"Thank You !\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.865545\", \"ReviewLikes\": 0, \"TotalReviews\": 55.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196917867,
+        "ReviewContent": "Great place for good local music..",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"a59c4a39107060ab71fa2f335fcdd553\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:57.867684\", \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918350,
+        "ReviewContent": "Love, Love, Love!  Especially when Soup Kitchen band performs there!  Love the personable owners as well!  Cool local place!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"5d8c8e0cf13dc58931886e4a2dd0cc0d\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.350922\", \"ReviewLikes\": 0, \"TotalReviews\": 44.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918359,
+        "ReviewContent": "The owner and bartender are off the hook. The selection of alcohol is unparalleled - I would estimate 200 varieties plus moonshine and scotch /Irish whiskies. Wow.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"9d4f9eeaef68c177f3f5d8562f18ecf4\", \"OwnerResponseText\": \"Thank you Wayne! hope to see you soon.\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.359315\", \"ReviewLikes\": 1, \"TotalReviews\": 458.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918364,
+        "ReviewContent": "If I am to be honest I wasnt sold on coming here.  It is not in the best part of town, but I have to say it is the best in this part of town! I was so impressed with not only the bartenders but their wonderful group of regulars. They were incredibly friendly and",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"37b49fc0cbd29c4901d01eb8a318bd8a\", \"OwnerResponseText\": \"Thank You! hope to see you soon.\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.364128\", \"ReviewLikes\": 0, \"TotalReviews\": 33.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918368,
+        "ReviewContent": "Quaint little sports bar with regular live music and a single pool table. The owner is friendly and present and the vibe is nice!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c9e155e30f34b2f558898764ad495eae\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.368490\", \"ReviewLikes\": 0, \"TotalReviews\": 84.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918370,
+        "ReviewContent": "Good prices, I like the live music",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"3f22ed5a4cd1e9f5448c45466f0663f3\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.370613\", \"ReviewLikes\": 0, \"TotalReviews\": 20.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918372,
+        "ReviewContent": "You know, talk to Tony Kroll if you want a show.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"9a03c7fd2ad343ee3923b67bdffa2954\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.372778\", \"ReviewLikes\": 0, \"TotalReviews\": 39.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918905,
+        "ReviewContent": "The local punk dive bar...although they need some cheap drink specials and the little Asian bartender is one of the worst Ive come across. But the rest of the staff is top notch",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"e6ad73ecb25f1650c78162c62c531116\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.905384\", \"ReviewLikes\": 1, \"TotalReviews\": 40.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918915,
+        "ReviewContent": "I think you should have done that to a great win and",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"38705d26bfe7efd1320aff155b997800\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.915318\", \"ReviewLikes\": 0, \"TotalReviews\": 16.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918917,
+        "ReviewContent": "Good place for anything",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"ef6134545d455b12a13b63d4e24f1b39\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.917510\", \"ReviewLikes\": 0, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196918921,
+        "ReviewContent": "Saw Box of Matches perform there!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c61f644c03819f3bd810265ce8941f7f\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:58.921427\", \"ReviewLikes\": 0, \"TotalReviews\": 31.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196919439,
+        "ReviewContent": "Small,but a great place to see some local bands!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"d09df095af6e97cd64826dd6eca4b637\", \"OwnerResponseText\": \"Thank you!\", \"OwnerResponseDate\": \"2022-05-07 02:41:59.439034\", \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196919441,
+        "ReviewContent": "Great little bar",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"88b737350b36629134a02e10a3106e0e\", \"OwnerResponseText\": \"Thank You!\", \"OwnerResponseDate\": \"2022-05-07 02:41:59.441448\", \"ReviewLikes\": 0, \"TotalReviews\": 47.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196919961,
+        "ReviewContent": "Great moon shine",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"561fd84a3a9c5d898e45093941b6f026\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196919969,
+        "ReviewContent": "Ill definitely miss walking into the bar and seeing Jen after so many years of her working at Red Hat, and Ill miss Katies friendly face behind the bar as well, but I love coming to the Red Hat and kicking it with the other nice patrons and bartenders. Sam is great. Stephanie is awesome. Their whole team is really nice and do a great job. Theres live music some nights of the week. A band with a couple of female vocalists covering Heart and other bands songs was in there last night.  Theres a couple of pool tables. And the best feature is the back patio, with misters, shade, and plenty of table seating. Because sometimes its just too beautiful of a day to sit around indoors!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"ae22442a41767e5592d1d789f2ab6d1c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 958.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196919973,
+        "ReviewContent": "The live music is great (great bands!), but their sound system is kinda crappy and the sound engineer doesnt really seem to know what hes doing, which is a shame..",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"8911e1667c7d6c56310a5dafaed4d744\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196920480,
+        "ReviewContent": "Kind of a diamond in the rough! Good beer, clean and good music",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"f579b578fdbce334ce840c9544562826\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 145.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196920485,
+        "ReviewContent": "Met the owner. Had couple of free drinks on the house. Awesome time Ive had;)))",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"bc8bf16a78074f9b34c977a462413f5a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 25.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196920489,
+        "ReviewContent": "Love. It. Live music",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"01848ad1085a8f5d3f343105f62e847a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 58.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1557196920492,
+        "ReviewContent": "Great place for live music",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"fde32d044646626add4ff2ba3ba15004\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 93.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660920494,
+        "ReviewContent": "Chill local watering hole in the wall. Great for Sharks hockey and friendly conversation with regulars. Even if its your first time, yoully feel right at home!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"7e09f36e3939c1021d52ee72a9d4e0d7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660920496,
+        "ReviewContent": "Great bar wonderful selection of alcohol & pool table was great to play on.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"5855b50e9c269a882cbb6981e0bcc8b8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660920499,
+        "ReviewContent": "Great place to see local bands, friendly atmosphere, great service, all around cool experience.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"fbd038e22b1361904788240b89b69057\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 61.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660920994,
+        "ReviewContent": "Bad ass bar and occasionally some badass music. Cheap drinks and loose women",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"99ebc02f54f0cf8a93d9e928565bd74e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 225.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660920995,
+        "ReviewContent": "Great bands/live music... Good prices on drinks.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"181e94c2d4048d7d01091148b0395c0b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921001,
+        "ReviewContent": "Good music and nice staff",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"8c096c50db4f25410eb35f00670b5502\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 121.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921468,
+        "ReviewContent": "Great place to kick back , no judgement, great drinks..and always killer bands on Friday and Saturday.. really awesome place in our own backyard!! 5stars seams like not enough.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c6ef36214270b6460c5093f98449c9e5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921469,
+        "ReviewContent": "Great rock n roll artist and the sound is acoustics are great. Local artist perform here.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"36610b99f8faecec6cf2accfa1d23e29\", \"OwnerResponseText\": \"Thank you so much for your encouragement!\", \"OwnerResponseDate\": \"2018-05-07 02:42:01.469819\", \"ReviewLikes\": 0, \"TotalReviews\": 40.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921472,
+        "ReviewContent": "This place is awesome. The owners are amazing! They have great live music Friday and Saturday. The owners are always throwing birthday partys and putting on fun events. The whiskey selection is VERY GOOD! Pool table, and darts! Try it out sometime!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"d231090f90d3175985ac54b010c9736a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 70.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921473,
+        "ReviewContent": "It was comfortAble n cleAn",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"434fd9606c215261c32a9d363011d53d\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 66.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921479,
+        "ReviewContent": "Cash only bar, friendly bartenders. Mixed crowd. Couple pool tables. Karoake some nights.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"e19ae7efb1554655f46e0b26d0dbfaa1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 9.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921942,
+        "ReviewContent": "Slow service and expensive pitchers",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"78d0dd7970e1dae4318f6bdd54385b24\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 135.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921949,
+        "ReviewContent": "Awesome! Great family, great friends!  Couldnt ask for anything more!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"a0b63bf1c588614ced5df3d7a14e3669\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 19.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921955,
+        "ReviewContent": "He was like we dont accept Mexicans IDs  wow like so no tourist at all??? Wow dont go there only for neighbors  am Irish and I had my Mexican traveling friends",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"66a970748131149552ad744eaac25e79\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921956,
+        "ReviewContent": "My favorite little dive/punk bar",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"29c458cc1d001c89f491f6506ebeb8e9\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660921958,
+        "ReviewContent": "Great stage and drinks!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"d8a97b7bbb72c1ce47847cb9e1a855ab\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 77.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1525660922476,
+        "ReviewContent": "Lovely, cordial employees, great place to wind down after a long day at work. Great crowd, not rowdy.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"37aebbf1b1aa2fa05b576265e94e8f0a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124922480,
+        "ReviewContent": "Always great people, good music, and lots of fun times!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"18bd95453a37bd3f207638430f7e46a9\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124922482,
+        "ReviewContent": "Great dive bar with live music!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"f7f554b7f0701fbce29159aedbe1ebc5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 38.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124922484,
+        "ReviewContent": "Best staff in town, the owners are very welcoming and they serve Tryserahops on draft!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"f5919e6a4d1afadb8d8b7d703cc0bf62\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 52.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124922488,
+        "ReviewContent": "Not just a great bar, but an amazing venue for shows! There is always something fun happening at the Red Hat. And the bartender is the best Ive ever seen, shes like award winning quality. You will never wait long for your drink and you will always be impressed.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"30908d62ebf8071a245816a9611dd524\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 410.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124922491,
+        "ReviewContent": "Great vibe, with an excellent selection of all kinds of live music. Possibly the coolest spot in Concord besides my house... jk.  If you ever want a drink, play some pool, and listen to some punk rock, this is the spot. (Depending on the Dj)",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"4870e66926be6a250a25f9a1bd84694b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 238.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923040,
+        "ReviewContent": "Freaking straight up good to go",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"4eb3e77c5cd4b3e48150553c2cd3307c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 204.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923046,
+        "ReviewContent": "Great place for live rock band performances",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"0f3e187defc5ed8f1cb5941ecdcad98b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 22.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923050,
+        "ReviewContent": "This place is four minutes from my door to the hat I know  most of the  people that come here regular the atmosphere is relaxed  , pool, darts, and my favorite night,  karaoke Tues night!",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"369ae6312eb06bcaf90e6f86df04adcd\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923052,
+        "ReviewContent": "didnt know this bar was here.  this is my spot now.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"028953cd9d94fd5214739bd0465f5555\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 41.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923054,
+        "ReviewContent": "Great music venue and bar! The owners are really nice and the bartenders and security are also awesome. Love coming here on the weekends to catch local bands.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"6bc4b426575fdb216cb2f4a50dcff2b5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 74.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923056,
+        "ReviewContent": "Laid back people, good drink prices and cool bands. One of the places that the world famous Fleet Street band performs!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"813db33ea3ab920becae826001c54237\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 183.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1494124923057,
+        "ReviewContent": "great place to watch the sharks games, and some great bartenders, like Jen, great person, knows her drinks.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"8475f6710473227822922a8ebecdc149\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 21.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1462588923538,
+        "ReviewContent": "Staff is the best. Very personable. Bands are great, even when they suck theyre still not that bad. A good place to meet up with friends and to meet new friends. Pool table, darts and beer pong table for endless fun. Big back patio to smoke and hang out. Owner is a cool dude",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"5b1b983c705ae5807dd6cab7cb248387\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1462588923541,
+        "ReviewContent": "Great place 4 live music as they have an excellent open mic on Tuesdays and Thursdays hosting both acoustic and electric Cats. Good place to meet fellow artists if you are a musician. Make  friends with the bartender owner and you might find yourself at the center of an exclusive tasting session involving a mysterious and often experimental but always delicious concoction of top shelf  liquor",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"c47a3673a699d04c73ca4cc157d6342e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1430966523548,
+        "ReviewContent": "Awesome place for live music!!  The staff and management are the best....",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"40b1546493a44ab7bc8e81f1af5fbc89\", \"OwnerResponseText\": \"Thanks!!! red hat sports bar\", \"OwnerResponseDate\": \"2015-05-07 02:42:03.548554\", \"ReviewLikes\": 0, \"TotalReviews\": 82.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 14,
+        "VenueName": "Red Hat Sports Bar",
+        "ReviewDate": 1430966523551,
+        "ReviewContent": "A good dive bar for local music. The drinks are reasonable, I dont think theyre overpriced. The music can be hit or miss, so its good to check out the lineup and see if the bands have a website with music. The staff was friendly and the service was decent. A little bit of sound absorption on the ceiling and walls would be a huge help at this venue. Some of the bands can be too loud, so bring ear plugs just in case. Parking is a bit tough to find, so carpool with your friends. Got a chill patio in the back that is a nice place to chill between bands and get a bit of fresh air. Overall, Id say this is a great spot that needs to get a little bit more support. Music venues seem to be disappearing and this one tends to have some decent shows, so go out and listen to some music.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"Red Hat Sports Bar\", \"PlaceID\": \"ChIJ4eczaShhhYAREHJAyu5plAQ\", \"ReviewIDHash\": \"fe1cc9b3dd3910476a0aec709aa0614a\", \"OwnerResponseText\": \"Thanks !!! red hat sports bar\", \"OwnerResponseDate\": \"2015-05-07 02:42:03.551092\", \"ReviewLikes\": 0, \"TotalReviews\": 35.0, \"LocalGuide\": 1.0}"
+    }
+]

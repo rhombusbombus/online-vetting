@@ -1,0 +1,740 @@
+[
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1713235041614,
+        "ReviewContent": "Everything was a vibe here. The location was great. The atmosphere was great. Service was superb.  Kava was yummy. We visited on a Sunday, and there was happy hour! Saved $2 per kava. Great deal. 3 kavas plus tip was $24. Highly recommend.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"2322f46a41ea7f522c566d15b8b01c48\", \"OwnerResponseText\": \"Thanks so much for the glowing review, Mercedes! Were thrilled to hear that you had an amazing experience. Providing top-notch service and creating a welcoming atmosphere for our guests is what were all about. And were delighted that you enjoyed our delicious kava and took advantage of our happy hour specials! Your recommendation means the world to us. Cant wait to welcome you back for more good vibes and tasty kava! Hope you have a beautiful day! - Bula!\", \"OwnerResponseDate\": \"2024-04-30 02:37:21.614627\", \"ReviewLikes\": 0, \"TotalReviews\": 440.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1712457441617,
+        "ReviewContent": "very chill",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"3a756cfbf77f6174d01fda2734f5bf21\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 26.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1707273441623,
+        "ReviewContent": "The current staff is very judgemental of the customers appearance. I used to visit this place when it opened and it was very warm and welcoming. Something happened and the staff was extremely rude.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"cac8170842e94ec5445954b85eebc3f8\", \"OwnerResponseText\": \"Hi Travis, Im so sorry to hear you didnt find our bar welcoming. We really try to create a comfortable environment for regulars and newcomers alike, and hope people find MeloMelo to be a non-alcoholic lounge that provides an alternative to alcohol bars to hangout and relax. Im sorry to hear that experience didnt land for you, and hope youll come back and give it another try sometime.\", \"OwnerResponseDate\": \"2024-02-07 02:37:21.623412\", \"ReviewLikes\": 0, \"TotalReviews\": 189.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1707273441625,
+        "ReviewContent": "My first Kava experience didn t disappoint! Upon learning this was my first time trying Kava, the barista offered us a ceremony to try it first and explained the origin and types of Kava to me. Tried the Colada and warm special Kava. Def a fun experience that s quintessential Berkeley / Oakland. Check them out if you are in the area.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"85914cc54edfd9fa0d7b84cd080ffff0\", \"OwnerResponseText\": \"Thank you Billy! We also love the Colada. Glad you enjoyed the experience.\", \"OwnerResponseDate\": \"2024-02-07 02:37:21.625779\", \"ReviewLikes\": 1, \"TotalReviews\": 247.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1707273441627,
+        "ReviewContent": "They need to hire more people.",
+        "StarRating": 2,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f1f72643dbc1fdc11d5d3c659ab42d1c\", \"OwnerResponseText\": \"Thanks for that feedback Gabriel. We have recently brought on more staff so hope youll come back and give us another try.\", \"OwnerResponseDate\": \"2024-02-07 02:37:21.627852\", \"ReviewLikes\": 0, \"TotalReviews\": 228.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1707273441629,
+        "ReviewContent": "I had never been to a Kava Bar before, and I was pleasantly surprised!!! Friendly service! Mello atmosphere. I will go back!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"a9a6368af9c11c8a54f6f2f0136eb18b\", \"OwnerResponseText\": \"So glad you liked it JoAnn!\", \"OwnerResponseDate\": \"2024-02-07 02:37:21.629982\", \"ReviewLikes\": 0, \"TotalReviews\": 239.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1707273441631,
+        "ReviewContent": "Love this place, they were so informative and helpful for my first kava experience.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"5ae31a4bdfed630a34c5a6ccec42444a\", \"OwnerResponseText\": \"We love introducing people to Kava, glad you enjoyed it Aimee!\", \"OwnerResponseDate\": \"2024-02-07 02:37:21.631929\", \"ReviewLikes\": 0, \"TotalReviews\": 104.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1704595042151,
+        "ReviewContent": "What a great addition to the neighborhood. I stopped by here with a friend. We were surprised the place was packed, and everyone (including the servers), were so sweet and kind. The atmosphere was lush. Full of beautiful decor, a huge thriving plant wall, large windows, and numerous matching couches to sit soft on. They also have traditional bar seating. Their menu is great! Lots of options. You can order bucha on tap, or a flight to sample. They have a variety of kava strains, in which you can order it plain or choose a variety of kava mocktails. You can also order a variety of teas (green, black, yerba). I would 10/10 recommend this place! :)",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"d6f1a0de170c5152fcd52765363b5d6f\", \"OwnerResponseText\": \"Thank you WB! Im so glad you had a good time.\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.151835\", \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1704595042153,
+        "ReviewContent": "The people who work here are mad weird and selective about who they wanna be chill with. Bad vibes.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"bb1c99c9c4e8ced2f42d93c9d14dc027\", \"OwnerResponseText\": \"Hi F, Im so sorry to hear you didnt enjoy the vibes at our bar. We really try to create a welcoming environment for everyone, and hope youll come back and give it another try sometime.\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.153475\", \"ReviewLikes\": 1, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1704595042155,
+        "ReviewContent": "Super friendly cute and quirky spot. I had a kombucha flight which was so fun & yummy! All nonalcoholic drinks! A neat experience with a plant wall. Great ambience.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"c6d251af719614751a145f379d82027a\", \"OwnerResponseText\": \"So happy you had a good time Schuyler!\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.155407\", \"ReviewLikes\": 1, \"TotalReviews\": 202.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1701916642160,
+        "ReviewContent": "Such a fun community! Super fun to go for a sober date, or read a book, or hang out with a friend. Or go solo and just enjoy the vibes!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f5b77f8817c25cf916e962e2063c5cbe\", \"OwnerResponseText\": \"Thanks Marley! We love offering an alternative to alcohol bars, and are glad you enjoyed it.\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.160586\", \"ReviewLikes\": 0, \"TotalReviews\": 50.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1699324642162,
+        "ReviewContent": "Friendly staff, mello atmosphere, new experience. Enjoyable. Will return.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"5f0ab5ac79513bdc724aad6f0fe93bb1\", \"OwnerResponseText\": \"Thanks David! Glad you enjoyed it.\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.162582\", \"ReviewLikes\": 0, \"TotalReviews\": 60.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1699324642164,
+        "ReviewContent": "Great experience! I love the lighting, music, living wall, and the Kava was an interesting experience. Ill come here again!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"185ed0f7b14948952ec91846804f6f73\", \"OwnerResponseText\": \"Thanks Jessie, we hope youll come try Kava again!\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.164899\", \"ReviewLikes\": 1, \"TotalReviews\": 84.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1699324642167,
+        "ReviewContent": "Great vibes",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"b7d9da459f0d41b984af9b2be79e4f04\", \"OwnerResponseText\": \"Thanks John, were glad you had a good time!\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.167339\", \"ReviewLikes\": 0, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1696646242656,
+        "ReviewContent": "Reading, hanging, talking vibes... Cool people and bartenders.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"d8e340717f3046ce69936b69912ba798\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 76.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1694054242661,
+        "ReviewContent": "Usually it s this one young lady and she s great , the other two is just as pleasant as she was , I haven t hung out there but it seems to be cool everybody there chillen , relaxed and totally good vibes , if this fits you I highly suggest you visit this place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"c608898461f52a2ffbdcbf386e1ff094\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 8.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1694054242664,
+        "ReviewContent": "I was drawn in by a live music performance. Never heard kava before, it was great.    Friendly staff, great service, great vibes.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"4c881b4fb523a1e6caa419dbe69aeae6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 38.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1691375842666,
+        "ReviewContent": "Best vibes ever",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"ee5bb58dcc3d5e7b2c40c414a05787d3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1691375842668,
+        "ReviewContent": "I appreciate that the employees take pride in protecting their intended atmosphere. It can be hard when strangers come into your place of work blasting unsolicited music to your patrons. I think the employees did just the right amount of intervention and they have a right to ask anyone who is disturbing their place of business to leave.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"31304215be4bce9540d60142b8eb5f3b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 72.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1688697442671,
+        "ReviewContent": "Great first time Kava experience. Tina was helpful and very sweet :)",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"664e86464a64df3054a573f6354de53f\", \"OwnerResponseText\": \"We love introducing people to kava, glad you had a good time!\", \"OwnerResponseDate\": \"2024-02-07 02:37:22.671962\", \"ReviewLikes\": 2, \"TotalReviews\": 29.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1688697443273,
+        "ReviewContent": "Kid-friendliness: Although this has a very Oakland adult vibe, theyre welcoming when we come in with our 1 year old and I saw a father bring his 9 year old. Its a pretty, sunny space and my baby loves crawling up and down on the soft seating. There arent really any menu items for a child but I appreciate that I can come in for an hour to a space I enjoy with a few Cheerios for my baby.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"d3beb10731c2cbac78fe388f0c60c6d5\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 11.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1688697443276,
+        "ReviewContent": "Grateful for Andrew who helped me out with tonight s kava. For those of you who don t know, kava is a sacred plant to many people, used in ceremonies with the chiefs to dispel arguments. I enjoy kava because it connects me to the root of my existence, of all of our existences  it connects me to the ocean. I miss swimming in the ocean, kava running through my blood. If I could advise anything, go to Hawaii, get kava drunk, and swim in the biggest waves you can brave. It s a life changing experience. I hope everyone who comes here can learn a little bit about the people of the ocean. Along those lines, it s best practice among many to dip your finger into the kava 3 times, and each time flick the kava droplet over each shoulder, and then in front of you. As far as I ve been told it s a way of honoring of those by your side, seen and unseen, and those in front of you, seen and unseen. Then, drink the whole shell (if it s not too cold). Maururu roa melo melo.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"1035f11475d09fa1924a6fbadfbadf95\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 69.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1688697443280,
+        "ReviewContent": "Saw roaches under the table",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"580a364cd09ac6c3dbeb5882ea4d51cb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443284,
+        "ReviewContent": "this bar is super cool w an awesome vibe!! kava is super strong as well, andrew was so knowledgeable and welcoming!!!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"3a9cad1035157e4bb1ca81c4ab2c8202\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443286,
+        "ReviewContent": "Quickly became a favorite venue of ours. If youve never had Kava before itll be an odd  earthy almost dirt-like taste. Its best consumed flavored - the Colada version is likely preferred by the first-time taster. The numbing of the palate is perfectly normal. Bula!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"5ad9e4654a3e3be36475fa30f4017cbb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 213.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443288,
+        "ReviewContent": "ANDREW IS THE MAN!! Today was my first time and I will be back. I was only planning on stopping in quickly, but with how helpful and funny Andrew was I ended up staying super long.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"77f34e7841d2974cf319050e63127ee7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443290,
+        "ReviewContent": "The kava tender was so nice she gave us our drinks for free",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"210a194d960f7bc25f57cfcf013e8fb2\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443291,
+        "ReviewContent": "Very good",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"bfe1cf6a54482a4320035b60f70a9cf6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 549.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443829,
+        "ReviewContent": "The Melo Chai is amazing. Especially for post gym work out relaxation",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"440b6d2bc4aae5ad193d67d41a86412f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 48.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443832,
+        "ReviewContent": "I have been here a couple of times now and have consistently had a great impression. This last time, no sooner am I walking in the front door, Im welcomed by both the bartender as well as a couple of patrons sitting up at the bar. They were just getting ready to do a kava shot and invited me to join them. The atmosphere in this place is warm and the lighting is both beautiful and soft. Theres ample space to lounge and chill and at night the music can get pretty bumpin.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"576389b288eb6a7465d6534f3420e136\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 338.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1686105443834,
+        "ReviewContent": "Lovely service. A nice alternative to the alcohol scene. Food",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"308e3448c08f14d6ee22959de060edd3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 646.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427043837,
+        "ReviewContent": "Cool place, good vibes and a DJ on Fridays. Enjoyed my first time trying kava and will definitely be back",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"3827e595f240fb287003adafa4491304\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427043841,
+        "ReviewContent": "The menu offers a variety of Kava drinks, made from the root of the Kava plant, which is known for its stress-reducing and mood-enhancing properties. The drinks are served in coconut shells and come in different flavors, such as pineapple and ginger. They have a subtle earthy taste and a slightly numbing effect on the mouth, which adds to the experience. The staff is friendly and knowledgeable, and theyll guide you through the menu and explain the effects of Kava. The customers seem like regulars. Very friendly Overall, this Kava Bar is a great place to unwind and socialize in a laid-back atmosphere. Whether youre looking for a new way to relax or a unique social experience Also they have quite the happy hour Deals",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"8d9e44ca09d8c7079763c094f8af060e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 391.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044387,
+        "ReviewContent": "Great place to chill out and meet cool people.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"7b579d8adb53a05480f43dc18451a527\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044392,
+        "ReviewContent": "Chill kava bar with great beverage options.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"70df1bfb329e81f6b8eb4ff104a02318\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 100.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044394,
+        "ReviewContent": "I found this place while looking for coffee shops open in the area on a Sunday evening. I ve heard of Kava but did not actually know what it was. I looked up what it was and decided to give it a try. The kavatender (I m guessing that he would be called) guided us through our first ceremonial bula. He was friendly, knowledgeable and had an all around warm personality. Kava has a distinct and bitter taste but you drink it for its effects and definitely not it s taste. It s cool drinking this root out of a coconut shell. it out of the My tongue was numb and I started to feel relaxed, happy, social and wanted to be nicer to people. It was a light and refreshing high. The ambience was lovely as we were surrounded by beautiful plants. I look forward to trying their various kava cocktails, Yerba mate, hemp and kombucha.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"783235a5a53e7aeb9c4410e8f8a5f297\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 14.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044398,
+        "ReviewContent": "I have never been to such a nice, relaxed atmosphere. Our bartender or the employee there was so nice explaining Kava and even gave us our first drink on the house for being new. I can t wait to come back. We even went on Monday night which was music and open mic night. Honestly highly recommend and I had an awesome time!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"8c37c8cec6a2a43a9e0b3aae27ba3098\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 67.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044406,
+        "ReviewContent": "This was a wonderous place! I absolutely loved my time here! Great vibes, great service, and just all around peaceful Loved trying everything and looking forward to coming back to try more!! Food",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"275264b77585d6d1df8bd92ed9d58222\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 434.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044939,
+        "ReviewContent": "Staff at MeloMelo were welcoming to my first experience with Kava, and I found the place welcoming and comfortable. Nuvo vibes, bright, airy spaces, and quiet, well-curated music all came together to make a comfortable Kava cafe open and welcome to newcomers, but comfy and cozy to regulars. I know that Ill return when I can.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"b2082169550c4c69ee68ba845459e38b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 19.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044946,
+        "ReviewContent": "No food but a great great place.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"ec2aaec16d8b31cab90c257ce97f944f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 21.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044949,
+        "ReviewContent": "Very sentimental about this place. The kava is good too.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"60f67d2eb9fdde8417e4235ea1319e2e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 31.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044953,
+        "ReviewContent": "This is a great lounge place with bar that serves kava and elixirs. It also has projected video and cool.lighting for mood and entertainment. I have been to the berkeley  melo melo a lot over rhe last several years, but this was my first time at oakland. Great place to  hang if you want a social atmosphere without the alcohol. Great also for connecting to a date.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"2a393ecb7e9fea2f5f60dfe1540d7248\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427044958,
+        "ReviewContent": "Chill vibes, creative drinks and good people!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"0e43462b21d6316f37bf73c3a9e5b9fb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 89.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427045483,
+        "ReviewContent": "Cute date spot, open until midnight on weeknights",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"d96a5f29326a1656f791ab4a077d567a\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 174.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427045492,
+        "ReviewContent": "Love this place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f824a0a7b3f7fa09ec835f3256631d41\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 13.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427045498,
+        "ReviewContent": "Stopped by on a whim on a Saturday afternoon. Very chill vibes with good music. Tina was at the bar, gave me and some others an intro to kava, and was very friendly. A good place to chat and also get some work done. Decent lounge seating.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"03fa0d83fed473af5d866fff664d47f0\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 234.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427045503,
+        "ReviewContent": "Great location and friendly staff. I finally found my favorite kava drink... Its the Melo Colada. I wont have any other. I definitely recommend it. Sweet and delicious, gives you a natural light kava buzz.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"dd0df8b0c01eea0cfb5519621ccb75e2\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 277.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046248,
+        "ReviewContent": "Kava isn t my thing, but my sibling loves it so we come here a lot. The vibe of this place is worth it AND there are plenty of other beverages to imbibe like this beautiful flight of kombucha, ALL of which they make in house!  It s dog friendly and full of natural light. The living wall with its own irrigation is lush and green. Highly recommend, whatever your beverage of choice may be.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"0a367cb2e872dcf1712d0f968a72eb5e\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 3.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046251,
+        "ReviewContent": "Nice coffee bar",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"87a75ce3d2cbf17d235566783c1fb984\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 77.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046254,
+        "ReviewContent": "They have really delicious kava cocktails. I probably tried all of their cocktails and I never had any that I don t like. Music is great and staffs are courteous and friendly.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"439b0a4ace089065b2e563145cb04667\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 23.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046256,
+        "ReviewContent": "One of my favorite spots to hang in Oakland. It s host to a very nice ambiance inside with a wall of greenery and plenty of couches. Come here for the buy two get one happy hour before 6pm.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"a841dc4a794a115741f7e2360e30210f\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 16.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046258,
+        "ReviewContent": "I loved that I could bring in my dog. Friendly bartenders and cool vibes.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"ebe704149e70291116687390d1cba1de\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 4, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046260,
+        "ReviewContent": "Dave (owner) is great and introduced our first experience to Kava. Had his own playlist of music he curated playing that set the vibes and really was fun.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"cafeffc6afcc552e158c4ea98c977f49\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 6.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1683427046264,
+        "ReviewContent": "wow",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"b30f2e52e3563f3d17fc67695d8011b4\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 56.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046266,
+        "ReviewContent": "Always a great crowd I stop in daily Features: Will need vacc card Dine in: Yes Outdoor seating: Yes Takeout: Yes",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"23907bfd3055944e0a10ba97dfc077bd\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 40.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046798,
+        "ReviewContent": "If you have SIBO, you can safely drink the extract cocktail.  Its tasty and got us looped.  Fun place and Mondays they have an open mic.  Great Burner lounge vibe.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"c3ed8f42095a975dbd5fba40a82eb459\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 27.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046803,
+        "ReviewContent": "Such a warm & welcoming environment. If you re thinking about sobriety or just trying to drink less but you still crave a social atmosphere I highly recommend this place. The kava bar is just a healthier and happier alternative to a typical bar.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"c46cedb40d6b6db7f402a1cd7dc1e274\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 22.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046807,
+        "ReviewContent": "Amazing first-time kava experience thanks to Chris the bartender! Super friendly vibe from those working and the regulars. Plenty of options for drinks. We will definitely be back. -Tori and James Dine in: Yes Outdoor seating: Yes Takeout: Yes",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"2e3ad79ef878934b55c3b1b19fc257cd\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 4.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046811,
+        "ReviewContent": "Great place to go to relax. The regulars are friendly You can go with friends or just go alone, many people come with their laptop. They have many games available to play, video game on the big screen and tons of board games Dine in: Yes Outdoor seating: Yes Takeout: Yes",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"14d1d4ed288111f1f57be3da7bb5f4d1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 10.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891046813,
+        "ReviewContent": "Great vibe! The bartender was super nice. I really enjoyed the  pineapple coconut cocktail. Cant wait to go back",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"a6ef7f657e393f2dc4a7ddc94f376c50\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 7.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047346,
+        "ReviewContent": "Chill atmosphere and nice staff. Remembered me after two years away!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"9bbb5929bae3486202fc448060271cc7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 32.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047349,
+        "ReviewContent": "This is the spot, if youre trying to drink some tea or hot cocoa; and chill. I like the vibe of this place, anytime you come here is a good time. The space feels intimate, the employees are kind and helpful. The drinks will excite you. I bet I have never had anything like this.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"5f5bc698d1c73d39820ee54976837d07\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 24.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047359,
+        "ReviewContent": "We love this place. So chill for a moment of peace and connection",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"a68705de90c0b6b3768c1c3119a9c0d0\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 23.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047361,
+        "ReviewContent": "Kava kava. The best places to visit and take friends. Looking forward to the return of the open mic. Love the ginger syrup in the strongest kava drink, the knock out. Grateful for happy hours w discount prices and for the dj who plays house and instrumental music. Vibe.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f3c71ea8a4f4a063fa87373be107b3ca\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047875,
+        "ReviewContent": "Nice area great service. I came at the right time and got a free shot thanks",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"a352bc5f50820d32caab6ced4e3ee551\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 310.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047877,
+        "ReviewContent": "MeloMelo is an amazing spot to escape from our culture of hitting the booze bar. Head over, get a shell of lava, boolah, and enjoy the excitement of being part of a new culture and communities. Very friendly and inviting spot to stop for a drink, wether it s Kava, Komboocha, or water, MeloMelo has a seat for all",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"43526ad0d03d2936f2723e37f10fa9b7\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 7.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047882,
+        "ReviewContent": "Cool atmosphere.  Staff rocks!  Kava drink great.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"97f1032488181c84dfe8e826f73f60a2\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 48.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047886,
+        "ReviewContent": "Fantastic spot. Real mellow. Chill community of folks. Friendly staff Interesting blend of Kava cocktails and chocolates. Definitely a new chill spot.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"64e64966cf9c9f8f80e23ebf440da17b\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 174.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891047891,
+        "ReviewContent": "I have never seen such an immaculate collection of hollowed out coconut shells carefully consolidated  in an well organized manner than anywhere else in my life. 5 stars",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"7c9cc0a3aea749078bc7392282b6e5f1\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 4, \"TotalReviews\": 2.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891048405,
+        "ReviewContent": "Bar staff are super friendly!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f798b7184a011b9ce2d750498edad3cd\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 16.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891048408,
+        "ReviewContent": "Great service, great vibes!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"0075697b83dca3ede66c210aa43ffc5c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 120.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891048410,
+        "ReviewContent": "Do not visit.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"1d105405b61606e2f4bcbe06bec03650\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 11.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1651891048412,
+        "ReviewContent": "Super friendly and I love the drinks!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"4e6244694940fb1245e84d9c90abbef6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 75.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1620355048415,
+        "ReviewContent": "Excellent service with good food.",
+        "StarRating": 4,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"4cea5137a3a9cf720fb38afd600fbd13\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 86.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1620355048418,
+        "ReviewContent": "First time at this location and its every bit as lovely as their Berkeley location",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"96d4232b61b7dbada2cc5c1db6e01b81\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 50.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1620355048420,
+        "ReviewContent": "Tina is super friendly and explains kava so well...great experience",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"c04986416b5f65e9c52d26699a446d8c\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 40.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819048934,
+        "ReviewContent": "Great selection. Perfect setting. Relaxing videos on a projector. CBD infusions. Awesome place",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"06c57b18390cd4a146ca9503fdda81c6\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 0, \"TotalReviews\": 5.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819048936,
+        "ReviewContent": "Very expensive and bad service",
+        "StarRating": 2,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"9c8611a90e9af94f1ea81069ebd074a4\", \"OwnerResponseText\": \"Heya Jonah, sorry about that! We re still in our soft opening phase so this is good for us to know. Could you tell us a little more about what happened? What time and who was behind the bar? Any feedback would be appreciated to make our service better! Thank you!\", \"OwnerResponseDate\": \"2020-05-07 02:37:28.936506\", \"ReviewLikes\": 3, \"TotalReviews\": 8.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819048938,
+        "ReviewContent": "Chill, but kinda where art and tech come together to annoy everyone.",
+        "StarRating": 3,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"bf1fb059fc585c5c0d7a17d155065acb\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 3, \"TotalReviews\": 49.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819048940,
+        "ReviewContent": "Great experience run by great people. Bula!",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"b740301626c8e7ec7a7220ea524ddd54\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 129.0, \"LocalGuide\": 1.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819048943,
+        "ReviewContent": "Walked in tonight wearing a bright red sweater , no one greeted.   im hard to miss ......Went to the bathroom, came out and sat on the couch , no one said a word, My friend arrived and she sat on the couch and we were just looking at the employees , no one said a word or even acknowledged our presence. BERKELEY location is 10 times better,  been going there since 2018. BERKELEY location is much more friendlier and open to customers.. You know; the type that spends money and make it even possible to expand to different locations, creating more jobs... Im not blaming melo for this experience, Im blaming the employees working tonight behind the bar.",
+        "StarRating": 1,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"eef5fdadd89c7ef9c76ee15783f9e6d8\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 2, \"TotalReviews\": 1.0, \"LocalGuide\": 0.0}"
+    },
+    {
+        "venue_id": 10,
+        "VenueName": "MeloMelo Kava Bar",
+        "ReviewDate": 1588819049407,
+        "ReviewContent": "So happy this is in the neighborhood.",
+        "StarRating": 5,
+        "ReviewType": "Google",
+        "Metadata": "{\"GoogleName\": \"MeloMelo Kava Bar\", \"PlaceID\": \"ChIJX7UIUBGHj4AR-QL_pKkGE1w\", \"ReviewIDHash\": \"f12b94294fc1cb540f80d33e528c8fa3\", \"OwnerResponseText\": \"\", \"OwnerResponseDate\": null, \"ReviewLikes\": 1, \"TotalReviews\": 50.0, \"LocalGuide\": 1.0}"
+    }
+]

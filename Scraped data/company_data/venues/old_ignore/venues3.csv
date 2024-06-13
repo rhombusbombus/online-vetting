@@ -1,0 +1,17 @@
+venue_id,VenueName,Filename,VenueCity,VenueWebsite,VenueYelpPage,TotalYelpReviews,TotalGoogleReviews
+22,Berkeley Alembic,berkeley_alembic,Berkeley,https://berkeleyalembic.org/,,0,38
+23,SoulFlow Oakland,soulflow_oakland,Oakland,https://www.soulflowoakland.com/,https://www.yelp.com/biz/soulflow-oakland-oakland-2?hrid=NyLhTh9fmRLUzYnbrud2-g&osq=Meditation+Retreat,20,0
+24,East Bay Meditation Center,east_bay_meditation_center,Oakland,https://eastbaymeditation.org/,https://www.yelp.com/biz/east-bay-meditation-center-oakland,40,52
+25,Inner Sounds Meditation,inner_sounds_meditation,,https://www.innersoundsmeditation.com/soundbath-event-calendar,,0,0
+26,Sound and Soul SF,sound_and_soul,San Francisco,https://www.soundandsoulsf.com/,,0,4
+27,Spirit Rock,spirit_rock,Woodacre,https://www.spiritrock.org/,https://www.yelp.com/biz/spirit-rock-meditation-center-woodacre?osq=spirit+rock,79,139
+28,Esalen,esalen,Big Sur,https://www.esalen.org/,https://www.yelp.com/biz/esalen-institute-big-sur,0,222
+29,Berkeley Buddhist Monastery,berkeley_buddhist_monastery,Berkeley,https://www.berkeleymonastery.org/,https://www.yelp.com/biz/berkeley-buddhist-monastery-berkeley,13,43
+30,Mount Madonna Center,mount_madonna_center,Watsonville,https://www.mountmadonna.org/,https://www.yelp.com/biz/mount-madonna-center-watsonville,86,61
+31,1440 Multiversity,1440_multiversity,Scotts Valley,https://www.1440.org/,https://www.yelp.com/biz/1440-multiversity-scotts-valley,85,391=
+32,Venture Retreat Center,venture_retreat_center,Pescadero,https://www.ventureretreat.org/,https://www.yelp.com/biz/venture-retreat-center-pescadero,14,13
+33,Costanoa,costanoa,Pescadero,https://costanoa.com/,https://www.yelp.com/biz/costanoa-pescadero-3,628,432
+34,The Coast Ridge,the_coast_ridge,San Francisco,https://www.thecoastridge.com/philosophy,https://www.yelp.com/biz/the-coast-ridge-san-francisco,3,0
+35,Kurorte Retreats,kurorte_retreats,San Francisco,https://www.kurorteretreats.com/,,0,0
+36,Cavallo Point Spa,cavallo_point_spa,Sausalito,https://www.cavallopoint.com/spa/,https://www.yelp.com/biz/cavallo-point-healing-arts-center-and-spa-sausalito,206,99
+37,Eros Monastery,eros_monastery,Philo,https://the-land.us/monastery-welcome,https://www.yelp.com/biz/the-land-philo,42,26

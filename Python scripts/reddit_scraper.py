@@ -45,6 +45,7 @@ class Config:
         submissions_output_folder (str): Directory path for saving scraped post data.
         fetch_newest (bool): Indicate which direction in time to start scraping.
         n_stop (int): Max number of comments/posts to scrape per site.
+        choice (int): 0 - Comments only, 1 - Posts only, 2 - Both comments and posts
     """
     def __init__(self, config_path):
         with open(config_path, 'r') as file:
@@ -156,13 +157,14 @@ def main(config_file):
 
 if __name__ == "__main__":
     # Default configuration file path
-    default_config_path = os.path.join(parent_dir, "python_scripts", "reddit_scraper_config.json")
+    default_config_path = os.path.join(parent_dir, "Python scripts", "reddit_scraper_config.json")
     
     # Check if the user has provided a custom config file
     if len(sys.argv) >= 2:
         config_file_path = sys.argv[1]
     else:
         print(f"No configuration file provided. Using default configuration: {default_config_path}")
+        print()
         config_file_path = default_config_path
     
     main(config_file_path)

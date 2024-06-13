@@ -1,0 +1,6 @@
+VenueName,Filename,VenueCity,VenueWebsite,VenueYelpPage
+Rickshaw Stop, 'rickshaw_stop', 'San Francisco', 'https://rickshawstop.com/', 'https://www.yelp.com/biz/rickshaw-stop-san-francisco?sort_by=date_desc'
+Bottom of the Hill, 'bottom_of_the_hill', 'San Francisco', 'http://www.bottomofthehill.com/', 'https://www.yelp.com/biz/bottom-of-the-hill-san-francisco?sort_by=date_desc'
+The Sound Room, 'the_sound_room', 'Oakland', 'https://www.soundroom.org/', 'https://www.yelp.com/biz/the-sound-room-oakland?sort_by=date_desc'
+The Starry Plough, 'the_starry_plough', 'Berkeley', 'https://www.thestarryplough.com/', 'https://www.yelp.com/biz/the-starry-plough-berkeley?sort_by=date_desc'
+The Art Boutiki, 'the_art_boutiki', 'San Jose', 'https://artboutiki.com/', 'https://www.yelp.com/biz/slg-art-boutiki-and-gallery-san-jose-2?sort_by=date_desc'

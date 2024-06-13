@@ -1,6 +1,6 @@
 {
-    "names_path": "scraped_data/company_data/music_services.csv",
+    "names_path": "Scraped data/company_data/music_services3.csv",
     "column_name": "music_services",
-    "output_folder": "scraped_data/trustpilot_data/reviews",
+    "output_folder": "Scraped data/trustpilot_data/reviews",
     "n_pages": 1000
 }

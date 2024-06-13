@@ -1,0 +1,830 @@
+[
+    {
+        "ReviewDate": 1713571200000,
+        "ReviewContent": "What a wonderful venue! The facilities are beautiful! We had the best time using a room for private karaoke for 10 people. We all loved the QR code for the karaoke app linked to the big screen and the QR code to order drinks and food delivered to the room. The karaoke app had so many songs and it was all easy to navigate and add songs to the queue. The food and drinks were good to boot! Highly recommend for a private karaoke party!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Christine H.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1713571200000,
+        "ReviewContent": "What an incredible venue. Great for listening to live music or for grabbing some friends for a private karaoke party. Good is delish too. Recommend the tater tots, tacos and wings. I will be back!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"CE R.\", \"AuthorLocation\": \"Sacramento, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1708300800000,
+        "ReviewContent": "I wasn't holding out much hope for food and beverage at a rehearsal space but boy was I wrong. This place has amazing and inspired food and drink specials. Thank you Music City for creating a brand new place for creatives!  I look forward to all the exciting events you have coming up! IG @mcentsf",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Mike R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1708300800000,
+        "ReviewContent": "Music City is just what we need in San Francisco! I love the rehearsal rooms - they are unique using the building's original architecture to inspire design and set up to plug and play making it easy to get to rehearsing instead of spending valuable time setting up! The performance areas are great and set up to host several small events at once, even potential to go from room to room!I can't wait to see live gigs on the main stage here! If you love music, play music or even want to learn about San Francisco's music history, you should check this place out! You won't be disappointed!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Marcy M.\", \"AuthorLocation\": \"Tiburon, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1655424000000,
+        "ReviewContent": "Music City Rehearsal is a solid rehearsal spot in San Francisco. Their prices are reasonable. The staff was nice. And the rooms are adequately equipped.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Greg M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1570752000000,
+        "ReviewContent": "nice place for bands with no rehearsal space. been here once as of now. could use some ventilation though. the room we used (room 4) has no airflow. so hot i think we almost suffocated, we didnt get to finish our time slot",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"KC C.\", \"AuthorLocation\": \"Daly City, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1566864000000,
+        "ReviewContent": "Affordable, especially the 11 a.m. to 1 p.m. weekday slot. The gear is great to OK. There might be a few rattles. I've been looking for an inexpensive studio to practice guitar riffs at moderate to loud levels, & this seems to be the place. Amps are provided.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jon R.\", \"AuthorLocation\": \"Albuquerque, NM\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1544486400000,
+        "ReviewContent": "We have been practicing here for years.  They have upgraded some of the equipment with more to come.  Make sure to pre-book the rooms because if you try to walk in most of the time they sell out.  Room 5 is the room for us now.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jason L.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1524873600000,
+        "ReviewContent": "I've been playing at Music City for a couple of years now. You can't beat the prices and the staff is knowledgeable, helpful and very attractive. AND free coffee, what???",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Kathy K.\", \"AuthorLocation\": \"Callahan, FL\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1518566400000,
+        "ReviewContent": "So clean and spaciousGlad this exists in SFWill come back again",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Haiku Revue X.\", \"AuthorLocation\": \"San Mateo, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1506729600000,
+        "ReviewContent": "The best!!! I've been going here for a couple months. Awesome location, the staff is rad, super friendly, very helpful. My drummer and I come in early and the prices are phenomenal. Just being your gear and plug in. I found this place as it was highly recommended by a lot of my musicians friends.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Kait A.\", \"AuthorLocation\": \"Arcata, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1496793600000,
+        "ReviewContent": "I surprised my boyfriend with a drum session because it's been such a long time since he played the drums and mentioned how he missed it. The guy who checked us in was sooo nice and patient with me when it was my first time here! He told us where the restroom was located, where we can find him if we needed anything, and he also took the time to talk to my boyfriend about all the different drum stick sizes and preferences! And to make our first experience even better, he upgraded our small studio 15 reservation to a medium studio 4 reservation at no extra cost! Definitely coming back next month :) had such a pleasant time! Their prices are reasonable, service was awesome, and the rooms are clean and beautiful! thank you!!!!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Emi N.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1483920000000,
+        "ReviewContent": "Good, clean and CHEAP room... alas you get what you pay for (walls were made too thin and audio leaks in from all directions).  Considering people like to come down her to wonk out, best leave your sensitive ZOOM recorders at home and simply do the same.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Dee D.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1482969600000,
+        "ReviewContent": "Good Spot in the City to practice.  Signing up for a room is easy online.  Rooms are cool and the equipment is varied.  I have played in three rooms and sometimes the amps are really good and drum set is OK and other rooms the amp is not so good but drum set rules.  Definitely will be booking here for smaller songwriting jams.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Donovan C.\", \"AuthorLocation\": \"San Mateo, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1481414400000,
+        "ReviewContent": "Really cool place to practice for your band. Stopped by hear some friends jam, and was very impressed. The neighborhood is a little dicey, but there are some cool spots to eat nearby as well.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Mike G.\", \"AuthorLocation\": \"Tiburon, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1479686400000,
+        "ReviewContent": "Solid place if you dgaf about playing quietly, your eardrums, or the temperature of your surroundings.  People at the desk are chill af and sometimes space cadets.Will frequent for another three years.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Andrea H.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1473724800000,
+        "ReviewContent": "I thought Lennon Studios was fine... but then we moved to Music City and the difference is night and day.  I like the parking situation and the equipment better.  But, my god, the walls are even painted, the outlets work, and the rooms we've tried have all had fans in them.  There are even fewer strange smells.  This is like shangri-la!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Laurence W.\", \"AuthorLocation\": \"Piedmont, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1472428800000,
+        "ReviewContent": "We used to go to Lennon in SOMA to practice and rock out, but this rehearsal studio beats it hands down. The in-room equipment is better, the facilities are cleaner and the parking situation is ideal (paid garage is next door). You can even book online... truly living in the future! Room 18 is the best, it's huge and costs around $80 for 3 hrs.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jeremy S.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1463270400000,
+        "ReviewContent": "I have been going to Music City over the last 2 years (now that I moved out of SF, frequency has gone down but nevertheless ...). I am a drummer and I found the space to be well maintained and stocked with all you need to practice by yourself or with your band.I have taken lessons from the in-house drum instructor Lance Harrington. Lance is an awesome teacher. He is very good at bringing well organized lessons and structure to a session while making it interesting at the same time. He explains theory very clearly and shows how to apply it to songs. He also brings along a guitar sometimes so that you can jam. Above all he is a great guy and fun to learn from.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Rohan V.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1460419200000,
+        "ReviewContent": "I have been coming here on a weekly basis for over a year now and I love this damn place.  They are great about fixing or swapping out equipment as needed, and have consistently shown A+ customer service (special shout-out to Moses - the man who goes above and beyond!).I am a drummer and the kits range from ample to excellent, but I have never lacked hardware or experienced a broken kit.  The rates are GREAT, the bathroom is clean (enough) and the atmosphere is always entertaining.  They have really stepped up their cleanliness, repair, and overall look since I started visiting, and I'm sure it's only going to get better.  Dudes and dudettes, this is the place for your naive melody. ;)",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Patrick M.\", \"AuthorLocation\": \"Richmond, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1455753600000,
+        "ReviewContent": "Very reasonable prices and cool practice spaces! I really enjoyed my time here and will certainly be back.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Christian S.\", \"AuthorLocation\": \"West Covina, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1454976000000,
+        "ReviewContent": "The people who work are hella easy going.Great rates, rooms, and equipment.Definitely a great spot in the city to work out ideas or just get loud with old friends (musically.)",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Miles M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1448323200000,
+        "ReviewContent": "very reasonable rates. the whole facility and the rooms are clean, as are the bathrooms. the drumkit provided was excellent. the little Marshall mini-stack in my room (#8) was good, but had no input for a footswitch (channel selector). the vocals mic and room PA worked fine. note that the volume control on the wall was broken, but, the mini-mix board which actually controls it works fine. they'll probably raise the rates once they finish properly insulating the rooms, but it'll be worth it. anyway, once you're playing, you don't really hear anything outside your room. this isn't meant to be a recording studio.there are some larger rooms which are decorated in a tasteful, minimalist style with plenty of furniture for your friends to hang out and watch.they do need to fix the vending machine. I was jonesing for a snack - a Twinkie and a Coke would have been the ultimate rock and roll break - but the Coke machine refused to vend my drink. at least it didn't steal my money.the main drawback is there is no parking. not an issue for me, but probably an issue to lots of bands.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Michael E.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1447891200000,
+        "ReviewContent": "I love this place! Awesome people, great idea and the people who need a place to make sounds are very thankful it's here! What a deal too! Keep on rocking!!!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Mike A.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1447459200000,
+        "ReviewContent": "I've gotten drum lessons from Lance Harrington. He was so polite, self sacrifing. He has high responsibility about his job. He encouraged me everytime. If you want to play drum, Lance is absolutely right person",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Sema A.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1445731200000,
+        "ReviewContent": "Super affordable, a good amount of room, and amps/drumsets/mics/PA all provided for.  Book a room, and just show up with your guitars and drumsticks and you're set.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Alex C.\", \"AuthorLocation\": \"Berkeley, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1440547200000,
+        "ReviewContent": "It's cool but I don't like the the new rules you shouldn't have to wait until 11 sharp to go in the room I like to come in like a half hour early to get set up before 11 but it's a drag happen to set they cuz it takes me a little while to get ready to play go back to the old rules please.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Ken M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1433894400000,
+        "ReviewContent": "This place has made a dramatic improvement since we were last here (when it was known as Plug-n-Play). The rooms have been repainted, recarpeted and equipped with decent amps and PAs. The guys working there were also on the spot about setting up the room and were very accommodating (even offering us water, as the room got quite hot). Hopefully they keep up the good work. The only real drawback here is that parking in the area can be tough, so plan accordingly with your time. It still has that underground, basement feel that almost all rehearsal spaces do, but the renovations make up for it. It's nice to have another good option for rehearsal space in the city.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Kaveh H.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1433635200000,
+        "ReviewContent": "This place is awesome!!  They were very friendly and professional in setting up my reservation.  The prices are GREAT and there is legit back line equipment (drums, amps, multi-channel mixer) in every room.  Great vibes and great employees.  Will be going back.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Matthew D.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1432512000000,
+        "ReviewContent": "Compared to the streets of San Francisco, it smells like root beer and lavender and feels like a cool summer breeze. A lot of the sounds I made here were painful and unpleasant, but some made those in adjacent rooms weep with joy.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Sean F.\", \"AuthorLocation\": \"San Bruno, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1432425600000,
+        "ReviewContent": "There are few times when I need to go beat on drums in so expertly crafted a place. Also the dude was chill.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Sean M.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1431388800000,
+        "ReviewContent": "This is the place I've been looking for for a while. I went to their website after receiving a flyer in the mail. It looked like a great price for some studio time. I wanted to learn how to play the drums, and they had a list of instructors on their website. After emailing several of the instructors, I found Lance Harrington's price package for 4 lessions to be the most reasonable. I have been learning from him for the last two months and already I've seen a huge improvement in my playing. Lance is very well-versed in drumming since he's been doing it since he was six years old. He is also very generous with the studio time. Even after our hour sessions, he has stayed longer to make sure I'm understanding the drum methods and techniques. The facilities are funky but well maintained and provide plenty of equipment for musicians to play on.  I give three stars for some of the drum sets that I played on, not all of them have been too great, but I wanted this review to also reflect how pleased I am with the instruction I received from Lance.  Overall if you are a musician or band who doesn't have anywhere to practice, this is a good place for you.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Izzy Z.\", \"AuthorLocation\": \"CA, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1431043200000,
+        "ReviewContent": "This is my go-to place for band rehearsal!If you are looking for an inexpensive place to record, have band practice, or just jam, then this the place for you! $20 gets you 3 hours in their smallest rooms which come with drums, amps, and a PA with speakers and decent mics. Since i am a drummer with no space of my own i come here all the time to jam with my band. There are always rooms available upon short notice which is really nice. I usually book the rooms i use one or two days in advance which is not always possible with other places.The staff is always helpful as well. When i was there with my band one sunday evening, they let us switch to a different room just because i was being picky about the drum kit set up in one of the rooms.Overall this place is great and i recommend it to all my musician friends who are looking for a practice space.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Mike K.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1430956800000,
+        "ReviewContent": "I was surprised to hear there was a rehearsal studio down the street from my apartment, as it's a pretty dense area with a lot of apartments 'n' such. But after practicing there a few times, I've had a great experience. You can't beat the price of $45 for 3 hours and the equipment is pretty good. There's been a decent drum set in every room we've practiced in and while the amps aren't as big as some other rehearsal studios, they've all had pretty good sound. The rooms are clean and each has a different look, which is cool.My only complaint is that they're pretty strict on getting you out of there when your session ends, at least for a late session. Other places we practice in in the city are a little more laid-back and don't mind if you go over by 5 or 10 minutes. At Music City, they pop their head in the door 15 minutes before your supposed to be out to tell you to finish up. But they are still nice about it and there's a hotel upstairs, so it's totally understandable, just different than other places.Also there's a flight of stairs at the entrance and the hallways are pretty narrow, so if you're bringing a bunch of gear, it might be a little tight. Also, being downtown, parking isn't super easy. There's a garage next door but it closes at 10 pm on weeknights. My bandmates have found parking within a couple blocks each time though. Overall, great spot!",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Nic H.\", \"AuthorLocation\": \"Denver, CO\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1430179200000,
+        "ReviewContent": "Refreshingly great and crucial spot for musicians.I play with a somewhat regular cast of characters here and it's like a sanctuary. It's like going to church here. For such an affordable price in such a high-demand location, they could easily skimp on so many things and people would have to grit their teeth and deal with it because studio space is hard to find otherwise. But they don't. Every room is well-equipped, accurately detailing the equipment down to the music stands, and nothing is ever broken. I even now have a new must-have keyboard from the Yamaha P-105 that's in Medium Deluxe 7. Don't you go changing.What's more, they regularly and willingly move your reservation if you've already paid and need to shift it to another night. Just great. Keep being a haven of good in a city going bad.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Preston R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1430092800000,
+        "ReviewContent": "This is my favorite spot in the City!I get to rock as hard and as much as I want for a great price.  When I work my band into things, we never spend more than 10-20 bucks per person for a session.   That's as affordable as it gets in the city, unless you have a glorious garage and super nice neighbors (which litterally no one in SF has...) (and which costs a fortune in rent if you do have it).And they have all the essentials: quality drums, amps, and PAs.  This makes a HUGE difference because it makes things so easy, especially when it comes to practicing several times a week (and ESPECIALLY if you're a drummer).  Sure, if you're picky or just have a really distinct sound, you have to haul your additional gear back and forth, but I never do because they have everything I need at PNP.The staff is also really chill and helpful.  Jamie has helped me book a room on short notice so many times, its ridiculous.  He and the rest of the staff are always available if I need a drum key or guitar cable, or anything else.  And they're friendly as hell!  It's nice to go outside for a smoke break and talk to Jamie or Brian.Overall Plug n Play rules as a practice space because the ambiance is perfect for keeping SF based rock alive.  There's art and pictures of famous rockers all over the walls... the fuckin Beatles greet you as you walk in!  It's not dull space at all - Jamie has really pulled the place together since my first visit two years ago, when the rooms were practically empty, the equipment was shit, and the management was basically non existent.  And the parties he's been throwing are great too.. everyone gets to play, and everyone gets to support each other.  Plug n play is really fostering a underground, SF rock community, and it's exciting to be a part of it.Much love for PNP!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Alex L.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1429228800000,
+        "ReviewContent": "This place was great! The people were nice, the place was clean and we had plenty of room. defiantly will be back",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"TRafael R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1429228800000,
+        "ReviewContent": "I come here every week.  The people who work here are great.  Enjoying Lance's drum lessons.  And the facilities themselves are all that you need.  Also a great price for what you get.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Greg S.\", \"AuthorLocation\": \"Long Beach, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1421539200000,
+        "ReviewContent": "This place rules. Even on the weekend their small rooms are only $7 an hour. I don't know anything in SF that you can do for seven bucks an hour. It is priceless, however, to be able to play loud and not have to worry about pissing off the neighbors. PRICELESS!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Tyler L.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1421539200000,
+        "ReviewContent": "If your looking for worship space or simply somewhere to practice this is an amazing venue. Moses was a gentlemen and scholar treated us like first class. Not only was Moses attentive but most importantly concern about our experience which led to excellence in the entire journey. I recommend for anyone to take a look at the venue very affordable for a great experience.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Adonai T.\", \"AuthorLocation\": \"Frisco, TX\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1419206400000,
+        "ReviewContent": "Excellent venue for musicians for a number of reasons: 1) Totally affordable. You won't have to spend more than $10-15 for 3 hours of quality jamming time. 2) Good equipment. The room comes with amps (that have effects), mics, a drumkit AND a fan so you're comfortable while playing 3) Helpful staffCheck it out!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Sid R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1418860800000,
+        "ReviewContent": "I highly recommend this place if you are a musician and looking for a place to practice. i have gone here multiple times now and it doesn't get much better then this. This place is affordable, good location and very spacious.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Danny P.\", \"AuthorLocation\": \"Pacifica, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1417910400000,
+        "ReviewContent": "Music city is a life saver. The rooms are very reasonable for what you get. Small to mid size rooms with decently maintained drum kits, amps, mics etc. Would be great for bands, I use it to get a drum practice session in whenever I get the chance.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Pranav N.\", \"AuthorLocation\": \"Santa Cruz, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1416700800000,
+        "ReviewContent": "Hands down best bang for your buck. Totally legit spaces, plenty of practice studios, most economic price I've paid for such good service. Highly recommended for all musicians in or around SF",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Robert T.\", \"AuthorLocation\": \"San Jose, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1416528000000,
+        "ReviewContent": "Music City Rehearsal (or Plug n Play) near Bush and Polk st. is an exceptional space for playing and recording music!  As I can tell, it is literally the best in San Francisco for the working musician. Like other reviewers, I find it difficult to find a good recording/play space in the city at an affordable price.  This is the solution!I have been coming to this studio space for over two years and it is getting better and better everyday.  It has always been a good space, but they were seemingly understaffed a couple years back.  Now, they have a full staff, easy to use online studio reservations, and on site equipment.  It couldn't be easier (and the price ranges can't be beat!). If you don't have all the equipment or you left something at home, the staff is there to help.Each studio comes with amplifiers, microphones, a mixer, and full drum set.  The studios are always clean and maintained.  The staff is friendly and extremely helpful.  Never once have I had a problem with that.  In fact, today myself and a friend went in because the night before we had left some things behind (actually a pretty funny story that should probably not be publicly posted).  The gentleman at the desk was more than understanding given a pretty awkward situation, and he had all of our belongings in tact (my friend's wallet with all his money!).  This is just one example of how helpful and positive the environment is at Music City Rehearsal.  I'm not usually an active reviewer or very publicly active online for that matter, but Music City Rehearsal is a legitimately well run business with an unbeatable service, so good that, here I am reviewing!I recommend this place to any musician in SF.  Great place and great community.  I'll be back next week!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Ian M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1416441600000,
+        "ReviewContent": "This place absolutely rocks!! The rooms are HUGE and cheap. They all come decorated in different colors and artwork which is pretty conducive to getting all creative with your band. They are extremely flexible too. If you need an extra mic or a different keyboard, the staff is on top of it. They all know their stuff and are very helpful. As a drummer, I'm very satisfied with their kits which isn't something I say often. The sound in the rooms is great. The other bands that play there are surprisingly good!! I'm used to horrible punk vomit coming from rooms in other jam spaces so actual good music is a nice change of pace. I couldn't recommend this place more!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Tommy D.\", \"AuthorLocation\": \"San Rafael, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1415750400000,
+        "ReviewContent": "The ultimate best in service and cool cats working there.  I don't know where to go from here.  This place rules planet practice Earth.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Cameron T.\", \"AuthorLocation\": \"Rancho Palos Verdes, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1415232000000,
+        "ReviewContent": "Great rates. $20 gets you a small room, which can accommodate 3 or 4 people easily, for nearly 3 hours. Friendly staff, pleasant atmosphere with total privacy, and -- more recently -- free ear plugs. Score. If you're looking for a practice room, Plug N Play studios is the best.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jackson G.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1415145600000,
+        "ReviewContent": "Love this place - they're building a music community here.  Feels like home, only louder.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Steve J.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1413331200000,
+        "ReviewContent": "Music City Rehearsal Studios (formerly \"Plug N Play SF\") is a great music recording/rehearsal studio in the heart of SF. Its on Bush right near Polk Street which is convenient as I like to rehearse and then go out to dinner/bars on Polk St. afterwards. My band and I have been using it for the last year or so and always have a good time. It can be difficult to find a place to play music in the city with such a premium on space and the likelihood of noise complaints from neighbors. Music City has about a dozen or so rooms that can be rented out for a few hours. The small rooms are perfect for 4 person groups and cost effective at only $20 for night slots and discounted afternoon and morning prices. The bigger rooms are obviously more expensive, but definitely worth looking into.Music City is currently renovating one of their rooms to turn it into a live music venue, which I am really excited about. It should be a great opportunity for beginning and veteran groups to practice and play together in front of live audiences. I highly recommend using Music City Rehearsal Studios and am excited to continue playing music here.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Matthew G.\", \"AuthorLocation\": \"Los Angeles, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1411689600000,
+        "ReviewContent": "YES. This place literally ROCKS! If you are in a band and need a place to get started, this is the place. The staff are all musicians themselves, they know gear, they know music, and they know the scene. The community at this rehearsal studio is one of the reasons I keep coming back. They host events and parties and most of all, give you a great place to jam! Every so often they hold battle of the bands, and they give away food and prizes! In addition to all that, you don't have to worry about bringing gear down to this studio, because they have everything and they are generous and helpful in explaining how things work. I LOVE MUSIC CITY!! It's definitely one of my favorite places in the city. There's really nothing else like it.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Trixie R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1410998400000,
+        "ReviewContent": "This is a great place to practice! After we moved from our church office, we didn't have a space to rehearse anymore, but found this place and its great! I used to co-own and manage a studio and had bands come in and it def has that \"recording studio\" underground band venue feel to it! It's great! : )",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Shanequa W.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1405036800000,
+        "ReviewContent": "I have been a full time working musician in San Francisco for ten plus years. I write this review to express my gratitude for the existence of Plug N Play Studios. It is so refreshing to have a business that is supplying a very much needed service to the musician community without any of the hassles that we run into so often in the Bay Area. First, it is located near many major bus lines. Parking is fairly easy too. Second, it is in a well populated area, so you don't have to worry as much about walking with your expensive instrument as you might at some other studios in the Bay Area. There are places to eat and drink nearby, which makes planning stuff and keeping the band happy a little easier.Third, they have  lots of rooms of different sizes, including cheap ones for those who are really on a tight budget. The gear works for what I need it to do, and the convenience of knowing there will be a backline for me and my mates without having to pay anything extra really reduces stress and hassle.Lastly, all the staff that I have ever dealt with have been attitude free and helpful. When I needed an extra boom stand, they found one. When i wanted a Fender amp instead of a Line6 they helped me out. I can't say that they will always be able to accommodate you, but they do seem to want to help when they can.Seriously, this place is a godsend.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Misisipi M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1402963200000,
+        "ReviewContent": "I hesitate to write this review because I worry more working musicians will start showing up here. But I want to say a big thanks to Jaemi, the ownership, and entire staff here for giving us a place to practice our craft. The emphasis here is really on the working musician and I so appreciate everything they do here to make practices more enjoyable in a city that's really not cut out for working musicians.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Vivien Lou C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1400889600000,
+        "ReviewContent": "Love Plug N Play! We've been using them for almost 2 years and Jaime and rest of the staff are really supportive. Been enjoying their occasional promo parties, which gives bands a chance to get up on the stage. Been a real pleasure come and play there.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"David H.\", \"AuthorLocation\": \"CA, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1395792000000,
+        "ReviewContent": "This place is great. It's owned and managed by musicians. Jaemi- who helps run it- is super helpful. Always makes sure we have a good room, and everything works well. They have different sized rooms, w/ fender and Marshall amps. The drum sets are all pretty good too. Super chill vibe.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Ryan Z.\", \"AuthorLocation\": \"Los Altos, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1392681600000,
+        "ReviewContent": "Equipment is decent and compared the other rehearsal spaces which are far and few between, this is the most affordable. Use the yelp deal and get a space for $20! If you're on their email list they're always doing specials as well.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"John G.\", \"AuthorLocation\": \"San Mateo, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1390348800000,
+        "ReviewContent": "It's a good spot for a quick meet and jam. The gear is generally good, and in good repair. Avoid the room with the acoustic piano if you're going to play with any real volume. You won't be able to hear it, and it's out of tune anyway. Their website could use some work, too. The booking page is a weird format that makes it difficult to sort through what you need. If they updated that, it would be much easier to book with them.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Vincent C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1389484800000,
+        "ReviewContent": "Good value for money, just a really poorly ventilated facility, and really crappy equipment. Though, when you need a place to rehearse, it works.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Zack I.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1385683200000,
+        "ReviewContent": "Not only Plug N Play offers excellent practice space at very low prices, but also the guys that run the place are truly awesome! Both Jaemi and Brian have been very friendly and are always willing to go out of their way to accommodate any special requests you might have. I have been practicing there for a year now, and my experience has been superb!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Tasos N.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1380499200000,
+        "ReviewContent": "Easy and convenient in so many ways.  the studios are all equipped.  bring your guitars and any particular or specific gear you work with like pedals but everything else is provided.  No dragging amps and drum kits and PA's and microphones and... you get the idea.Book online or by phone.  Book early the rooms can fill up.My only criticism, and it's a nit to pick, because I book once a week I really would like them to set up the ability for me to have an account.  It would make signing up so much easier.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Rob C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1379635200000,
+        "ReviewContent": "This place is perfect for musicians who don't want to haul around a bunch of gear. The rooms are all equipped with amps, PA, and drum sets. For a drummer just wanting to pop in a play, it's great. Just bring your sticks and any other preferred pieces (pedal, cymbals) and you're ready to go. The equipment is all pretty decent, especially in the larger rooms. Daytime is a really good time to go, as you have more options for rooms to rent, and there's no crowd.Jaemi, the proprietor, is a really great guy who will go the extra mile to help you with getting a good sound or other equipment if you're not happy with what is there. If you live in the downtown, Nob Hill, Tenderloin areas, this location is perfect. You can't beat the prices, either.Definitely check this place out!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Michael F.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1379462400000,
+        "ReviewContent": "These guys are awesome!  They are so nice and helpful! They throw great parties and support both visual art and music.  I highly recommend this space and am very curious to see what happens in the next year as they have so many projects going on.  They let me use their space for painting, put art on the walls and have great bands playing for their monthly showcase.  They are always down to collaborate or help out on artistic projects.  This is a group of very great souls!  I highly support this place, their projects, and staff!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Candace P.\", \"AuthorLocation\": \"Lower Pacific Heights, San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1379376000000,
+        "ReviewContent": "It's tough being an amateur music in San Francisco. Unless you are rich or extremely lucky, chances are you will never jam with your friends in the comfort of your own home. Plug N Play saved my musical life. To have a place where all I need to bring is friends, guitars and drumsticks is truly amazing. For the most part, the gear functions just fine and for $20 jam sessions I'd almost be willing to play with first act gear. Jamey is a super rad dude and does what he can to make sure everything is working and that your experience is pleasant. The best part of it all is on weekdays before 5 its free. I can get off work and go play a drum set for free. If your in a band or just want to play drums go here. There is no better deal anywhere.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Matt W.\", \"AuthorLocation\": \"San Jose, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1378425600000,
+        "ReviewContent": "In my 10 years of being a musician I've played in all sorts of crappy rooms with the crappiest equipment but that all changed when 2 years ago,my friend discovered plug and play.i instantly fell in love with the great vibe there.Over the years I've seen Jaemi completely transform the place into this great almost magical place that puts you in the mood for playing as soon as you open those doors.He has established what is now a great community of musicians who hear and jam on each others's songs.I spend more time at the plug and play more than I do anywhere else and that's only because it is the right place to be for any musician!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Moise S.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1377993600000,
+        "ReviewContent": "Great place to practice, amps and drums are provided. Affordable rates.Bad place to park. Last time I was here, 2 cars were broken into and I was parked near the entrance! Had to pay $450 for a new car window. And driving along 101 without a window in very cold night sucks. lol",
+        "StarRating": 2,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Chikinini G.\", \"AuthorLocation\": \"Blue Ball, PA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1377388800000,
+        "ReviewContent": "Big rooms, some equipment already in room. Prices are reasonable. This is a great place to practice in the city without committing to the high prices of having a full-time studio.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Kathleen A.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1376352000000,
+        "ReviewContent": "Five stars for my experience here.  I came on a weekday afternoon when there weren't many people here.  The medium room I got was pretty decent.  I was by myself so it was spacious enough for one person on drums.  I'd say this room size would fit a five-piece band just fine.  The equipment there was ok but I saw better equipment in another room.  There was a Line 6 solid state amp in my room, a few monitors, a drum kit, and I think another amp.  Jaemi, the coordinator who showed me around, really made my experience welcoming and I appreciated his friendliness and helpfulness.  Ten stars for him for accommodating me.  You're in good hands with this guy!I saw a handful of metered parking spots within a few blocks of this place.  There's free two-hour street parking if you're willing to walk just a little more.  Definitely check this place out.  Rates are very reasonable (low in my opinion) and service is top notch.  I love the location too except for the lack of free parking closeby.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Orangen B.\", \"AuthorLocation\": \"Palo Alto, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1376092800000,
+        "ReviewContent": "This place has gotten way, way better in the last year. My old band came here for a while in early 2012 and things weren't always ideal. There were substantial equipment problems and there was a real lack of service.But I started coming here again in early-mid 2013 and it's so much better. I think a lot of the credit goes to Jamie -- he's awesome, really friendly, really helpful, and very available. After working with various studio places and music places generally, you start to get used to this snobby, curt attitude that seems to be sadly pervasive. Jamie is a total breath of fresh air, he's not like that at all, he's just helping you have a good experience with a positive attitude. It makes the whole experience so much better.There are still sometimes equipment problems, particularly with drums. It's not really management's fault, it's the fault of selfish musicians who don't care about others. But for the price, I honestly believe it's a great deal. And it's an absolutely invaluable resource for fledgling bands and casual musicians - I've found nothing that compares. Other places I've rented studio space are nicer, no doubt, but they're too expensive and too nice for what I need in those situations, and/or they're really inconvenient (if you live in SF). Plug N Play fits the bill!",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Steve H.\", \"AuthorLocation\": \"Berkeley, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1373414400000,
+        "ReviewContent": "Great resource. The largest room is totally bomb, and can house several spectators, though its pricy. The small rooms are great for a 3 piece, medium is needed for anything more.Only complaint is that the gear seems to get shifted from room to room alot, and so there isn't always everything there's supposed to be when you show up, and you have to chase someone down to then go poach it from another room, thus repeating the cycle.All in all though, have been very thankful for plug and play when working on projects without a dedicated rehearsal space.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Chris C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1364515200000,
+        "ReviewContent": "This place is very cheap for a practice space, and available on short notice, which are both big pluses. On the downside, the price shows in their equipment, which is occasionally unusable. Also, their customer service is pretty bad.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Alicia C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1363478400000,
+        "ReviewContent": "Jaemi is awesome. He's always available when needed for help and hooks our band Cloning Dolly up with whatever we need. Love the new lighting and decals at the entrance...tons of great rehearsal rooms to choose from depending on your band size and budget.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Alex D.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1356825600000,
+        "ReviewContent": "This place is great! Prices are cheap and rooms are almost always available, even up to the day before. Nice customer service as well...accidentally booked the wrong date and they had no problems with rescheduling my practice space.While their drum kits are decent, their guitar and bass amps aren't exactly up to par, so if you have a particular tone I recommend bringing ur own. However, they get the job done.Also, it is relatively easy to hear other bands that practice in the other rooms, but I don't consider that a problem since i play music that drowns it out...but for those bands that are on the more acoustic side, u might want to look else whereI myself think this place works out very nicely! I highly recommend it if your band needs a place to jam it out before a gig.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"William C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1345420800000,
+        "ReviewContent": "Great spot - it's so hard being a drummer and living in the city - jamming is almost always out of the question. This place is a great outlet and has decent sets where you can let loose or play with friends. I am really satisfied.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Rob E.\", \"AuthorLocation\": \"Berkeley, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1343865600000,
+        "ReviewContent": "We waited a half hour outside before somebody answered the intercom. The entry code given to us was incorrect. Once we got inside the entry code to the \"rehearsal room\" was incorrect as well, waiting another half hour for them to fumble around. Once we got in the \"rehearsal room\" it was apparent that it was once a one-toilet bathroom with everything stripped out. No room at all. Terrible equipment, terrible service, huge waste of time. These are not rehearsal studios, they are noise making spaces for those who don't care about sound quality.",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Darin D.\", \"AuthorLocation\": \"Gilbert, AZ\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1343088000000,
+        "ReviewContent": "I'm a drummer who is used to using shared studios both in the states and in Japan (where I currently live). I was passing through SF and needed a rehearsal space and this seemed like a good spot.  My review is from the perspective of a drummer (or individual musician) looking to rent a small space for practice.I rented the smallest size studio which came with a 4 piece Tama kit, 1 ride cymbal, hi-hats and kick pedal (Pearl). There was also a very small PA + 1 mic and I think a very small amp (likely not very useful given its size). Pros: The price is really hard to beat - $20 for just under 3 hours is a really good deal. Cons: Soundproofing was not very good - I was practicing in the morning slot (11am-2pm) and I could hear the only nearby band very clearly.  Equipment in these types of studios is almost always entry level and pretty well beat up, so while that isn't surprising it is unfortunate. I was prepared to just practice a few specific things, so only having a ride cymbal and hi-hats didn't bother me but for anyone practicing with a band a crash cymbal will likely be necessary as well.  I'm unsure if the other larger studios tend to have more.  Also when I arrived no one was answering the front door - I had to wait for someone to exit in order to get into the building, and even then I really wasn't sure where to go. So for the price, definitely not a bad deal, but a little bit more attention to detail and this could be a solid studio I think.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Derek L.\", \"AuthorLocation\": \"Arlington, VA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1338336000000,
+        "ReviewContent": "Place is great, but the front desk girl sucks.  Getting in the place is very difficult. For having to prepay, there should be better connection with the front desk and the intercom system. The girl would not come down to open the door when we repeatedly said the intercom is not working!!!!  We had to wait for someone to come out to get in.We were already 20 min into our session that we PREPAID for.   Why is there not just a simple way to get in without trial and error at the hotel front door?  The Jammer",
+        "StarRating": 2,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Adam C.\", \"AuthorLocation\": \"Alameda, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1333756800000,
+        "ReviewContent": "Not sure why more places like this don't exist. I would have killed for something like this in other cities I've lived in. At Plug n Play, you rent out a room fully equipped with amps, pa's, and drum kits. If you pay more, you get even more stuff. All you need to do is bring your instruments (and beer, of course.) My friend's and I rented out a room for a few hours the other night and it only cost $45 total. This probably wouldn't be the best solution for a band that needed a regular practice space. But to mess around, and not have to provide all the heavy, expensive equipment, it's a great deal.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jon T.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1319500800000,
+        "ReviewContent": "This place is great, I wish they would open one up in San Mateo though. I been here about 12 times  now so I feel comfortable saying that Plug N play is a great place to jam or have band practice on a budget. One time I left one of my cymbal stands there ,and the guy who runs the place put it aside so i could pick it up later, Thanks again for doing that.P.s. Don't bother with the small room, go for one of the medium rooms you'll be much happier.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Nick J.\", \"AuthorLocation\": \"Burlingame, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1317686400000,
+        "ReviewContent": "Best place to ever rehearse. Privacy and nicely decorated rooms to let the creativity flow.And the upgrades are the perks. Excellent Customer Service. Great location to grab pizza and beer with your band!  Maya Songbird and the Canaries love you Plug n Play! xoxoWe shot this rehearsal footage there..check it out. http://www.youtube.com/watch?v=RN6KPKiXR7U",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Maya S.\", \"AuthorLocation\": \"Emeryville, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1315440000000,
+        "ReviewContent": "So this place is located in the basement of the Encore hotel, which is basically a hostel. Though they've recently raised their rates, they are still the cheapest rehearsal studios, that i know of, in the city. They have a lot of rooms all equipped with their own gear, which i personally wouldn't use, except for the PA system. All medium rooms are not created equal, and for some reason their medium deluxe rooms are somewhat of a downgrade - one of them doesn't even have a mixer. I would suggest going there a few times to figure out what room you like. The management used to be super awesome and they would even let you stay after your time if there was nobody scheduled after you. Now they have this little asian girl at the front desk who never answers the intercom and continually fucks up with the payment (I've had to use their computers a number of times to show them my receipt and prove I've paid online). She is also completely clueless about equipment. One time we went in and our drummer needed a new snare, which wasn't provided in the room for some reason, so we asked her if we could get one from another room, but she didn't even know what a snare was....... Other than that, the place is pretty cool. Cheap rates, and the overall talent level i hear coming from the other rooms is relatively good compared to other places. I don't know how that is a selling point, but I enjoy listening to the stuff in the hall when i take a break...",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jon B.\", \"AuthorLocation\": \"Sacramento, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1314316800000,
+        "ReviewContent": "cool place, cheap prices and clean restrooms",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"pablo e.\", \"AuthorLocation\": \"Fremont, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1313020800000,
+        "ReviewContent": "This place is pretty cool, I've been here with my buddy a few times now as we're trying to start a new band. It's nice to not have to lug our gear around and the equipment they have is pretty good. My only complaint is that it's a pain in the ass to get in. They are suuuuuuuper shitty at responding to the intercom system they have set up for the rehearsal space and hotel. Yeah, it's also in the basement of a hotel that's one small step above your average hostel. I would love that if I were travelling, spend an extra $20-30 and get to jam a bit.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Ian M.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1302825600000,
+        "ReviewContent": "Visited this place again last weekend.  This time it was two fewer people, so we got the small room.  It was hilariously small, compared to most of the medium rooms I've seen there, though it was only a little bit smaller than the medium one we'd had the first time.  This room in particular used to be a bathroom.  It had a few little practice amps and one mic.  It still sounded/felt alright for the size/condition.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Blake C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1299369600000,
+        "ReviewContent": "Plug n play is a mixed bag, but I think overall it's a worthwhile spot.If you're just showing up to plug in, jam out, and move on at the end of your slot, its great, but if you're using it as a regular rehearsal spot, it leaves somethings to be desired.   I'm a drummer, and I prefer to bring my own cymbals rather than deal with the cracked discs of brass I usually find adorning the kits. Problem is that most of the stands lack nylon sleeves (that explains the cracks), and some of the stands are in such poor condition that the wingnuts are stuck on, making the cymbals impossible to remove. They change the heads often enough, though the drums could use more frequent tuning. It usually takes me about 15 minutes to tune the drums to an acceptable range, eating up time that I'm paying for. It is frequently difficult or impossible to find someone who works there if any issues arise, and I have shown up twice to find that no one is there to let me in to the room.   Ok, it sounds like I hate the place but there are good things about it as well. It's cheap! The midday special is $20 for three hours in a medium sized room. Even if you aren't free from 2-5, the evening rates aren't bad. They have one large performance-style room with a drum riser and some bigger amps so you can shoot some video footage or bring some friends for an intimate show.   I'm giving three stars because it's so cheap, and though the equipment leaves something to be desired, I suppose you get what you pay for. The staff are friendly enough (when they're around), but I think they could put some more effort into maintaining the equipment, and making sure their clients were satisfied with the facility.",
+        "StarRating": 3,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Evan R.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1295827200000,
+        "ReviewContent": "Written from the perspective of a drummer in a 2 man band and always playing in the 8 PM time slot on various days.Pros:- Price. $20 for a 3hrs in small room, $30 for a medium room. If there aren't many people there, the manager will usually upgrade you to a medium room for free.- Location- Decent entry level 5 piece kits in most rooms. Ranges from Tama rockstar, Yamaha stage custom, Pearl vision and a Sonor set. Lower end Paiste cymbals (crash, ride, hihat).- The manager is a really friendly, laid back and helpful guy :) Got me sticks when I forgot mine.Cons:- On the odd occasion, we and other bands have shown up and nobody was there to answer the phone to let us in or show us to our room once we got inside.- Management usually leaves after the 8 PM slot starts, so it's difficult to get help after that timeSummary:- Solid place to go overall! Great price but be prepared to occasionally be frustrated with management",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Steffan C.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1288742400000,
+        "ReviewContent": "we are lucky to have Jeff. He has given non-pro bands a place to play without commitment.  thank you, thank you, thank you.  great space for practicing.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"a k.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1288483200000,
+        "ReviewContent": "This place has gotten very popular and the service and attention to detail has suffered.  On more than one occasion there has been a mix up in the reservation.  Got there once after making an on-line reservation and they had no record of it.  Management is on site at the beginning of the rental period to let people in the rooms but not during the session, if problems arise.  Have encountered broken equipment, missing equipment, missing key to rest room with no intention of replacing it.  Also watch out for which medium room you get.  One is actually really small and not worth the $30 rental fee.  I've had some good rehearsal sessions there, but there's a lot of room for improvement.  I know it would help if some of the customers weren't stealing or breaking equipment.",
+        "StarRating": 2,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Judy G.\", \"AuthorLocation\": \"Oakland, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1285200000000,
+        "ReviewContent": "This is definitely a great place to jam. I've been to enough jamspaces that charge twice as much, provide beat up equipment, and are in a remote car-only location not to give this place 5 stars. Did I mention that you can book online? _Finally some 21st century shit up in this biz_We got a medium room and it was perfect for 3 people, maybe 4. More ventilation would have been nice, but when was the last time you've seen a non-sweaty rockstar. Hmm?  There are about 16 different rooms there, and tonight they were all booked. Good business. Some very talented bands were overheard in the hall.  Jeff (the owner, I suppose) explained everything I needed to know, and was very responsive whenever I gave him a call with questions.Equipment:In room #15 I appreciated the well kept Sonor Special Edition 5-piece. The lower end Paiste cymbals were decent, nothing special, but I didnt have to beg for them and pay extra unlike some other places. There was a nice VOX amp in there, a decent Ampeg for the bass, and one more guitar amp I didnt pay attention to. No half-stacks, but who needs those in a 'medium room' anyway? There is a mixing board, a PA, and a few mics. Also a headphone jack to hook up your iPod to the PA, good for learning covers. The couch and rainbow coloured door-beads added a nice touch.Will definitely become a regular at this place and bring others.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Artem A.\", \"AuthorLocation\": \"San Francisco, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1277856000000,
+        "ReviewContent": "Great deal for rehearsal space.  Jeff was very nice and courteous and let my band use the larger room since another group no showed, very cool.  Small rooms are aptly named, will probably go with the medium in the future when available.  The equipment is good and the prices are reasonable.  I'll be going back.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Rob S.\", \"AuthorLocation\": \"Berkeley, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1277424000000,
+        "ReviewContent": "This is a great place to get together with some friends and jam. It's not too pricey, the provided gear is good quality. The people we met there were very friendly, and it just seems like a nice community overall. We'll definitely be coming back.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Jason L.\", \"AuthorLocation\": \"Seattle, WA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    },
+    {
+        "ReviewDate": 1274227200000,
+        "ReviewContent": "Plugnplayclub is a fun place to jam. Trick Central and I rented the small room for the evening. $20 for three hours! I don't know much about studio rates but twenty bucks for anything these days seems like a good deal. The room was tiny and lacked any kind of ventilation. At the end of the evening there was a dank fog of man sweat and mass shredage floating in the room. Bring a fan, maybe? They provide all rock-related materials; drums, amps, mics, etc. Parking seems like it could be a bitch, even though we found a spot right in front. It's in an alley off Van Ness, so maybe you're allowed to park there? We did and didn't get towed or receive any tickets. Staff were all professional and courteous. Jeff, the owner, was awesome. I left my cell and wallet and he was gracious enough to hold on to it and meet me the next day.  Nothing missing!Had a great time and hope to go back soon! Check it out!",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": "{\"YelpName\": \"Music City San Francisco\", \"AuthorName\": \"Andrew A.\", \"AuthorLocation\": \"San Leandro, CA\"}",
+        "VenueName": "Music City SF",
+        "venue_id": 8
+    }
+]

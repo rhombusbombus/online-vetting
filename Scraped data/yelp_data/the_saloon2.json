@@ -1,0 +1,522 @@
+[
+    {
+        "ReviewDate": 1708214400000,
+        "ReviewContent": "Great no nonsense bar in San Francisco North Beach neighborhood.  Cash only and live music. Rule #1 minimum. 1 drink per person! And...if you have seen Reese Witherspoon in Just Like Heavan, they filled a scene here. Stop by for a drink and some fun!",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Michelle V.",
+            "AuthorLocation": "San Jose, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1707782400000,
+        "ReviewContent": "Amazing our bartender was great and very personable. The coolest thing is they serve easy drinks at an affordable prices. If you want to feel like you're in the heart of the city with some cool regulars definitely check this place out.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Mary A.",
+            "AuthorLocation": "Torrance, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1706745600000,
+        "ReviewContent": "The Saloon has cool vibes, a friendly bartender, and music daily. It's an SF tradition since 1861 and definitely worth the visit.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "L H.",
+            "AuthorLocation": "Alameda, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1706486400000,
+        "ReviewContent": "Great place for live music and well drinks. Cash only, with a $5 cover per person on the Friday I was there, and the staff are super friendly. Can be hard to get a drink at the bar, so have your order ready when they come to you.Something to be aware of, there are pickpockets that hang out in the back, where the band is playing. Guy put his whole hand into my purse while using a jacket over his arm to hide it.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Stacy L.",
+            "AuthorLocation": "Miami, FL"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1706054400000,
+        "ReviewContent": "My favorite bar in San Francisco  I lived there for 20 years. If I had a chance to go back I would go to The Saloon, Buena Vista, Scoma's, House of Prime Rib. It been 20 years but I would bet on them. Those kind of places are rare everywhere.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "David F.",
+            "AuthorLocation": "Tucson, AZ"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1703462400000,
+        "ReviewContent": "Very cool spot to grab a drink and hang out with friends.  The bartenders were very knowledgeable and on-to-it.  Great service.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Patrick F.",
+            "AuthorLocation": "Stockton, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1701129600000,
+        "ReviewContent": "Sharon was the most amazing bartender in the whole city! I hardly write reviews but this woman deserves it all. 12/10 service, representation, went above and beyond for us !!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Andrea M.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1700784000000,
+        "ReviewContent": "I love this place. I love the quality of the bands. The bar and people are friendly. You can't beat the history it is small but things were like that in 1861.  I like the crowd mostly older locals, but then there are tourists. It's a must go to spot while in  San  Francisco..",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Susan J.",
+            "AuthorLocation": "Bakersfield, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1697932800000,
+        "ReviewContent": "Ok, this place is kind of a dive, but it's REAL San Francisco! I've lived in northern CA for ever and I've never been to a more SF bar. Sure, it's a tourist trap. People come and go constantly. They come in for one or two drinks and split, but this is true SF. A bunch of old hippies and trust funds hanging out having fun. The music is awesome, as you would expect in SF. You probably can't play on stage if you don't have a masters in music. The band I saw was a technically good as anyone, but really fun too. Also, the drinks are pretty cheap. But, they only take cash, so plan ahead. Which I didn't, but there's an ATM across the street. If",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Robert E.",
+            "AuthorLocation": "Lodi, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1697846400000,
+        "ReviewContent": "Okay. So I like a dive bar as much as anyone else but there's a point where it gets too much. The music was perfection. The atmosphere great. It just needs a renovation and cleaning. Also beer was not cold. Probably would not return.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Paco P.",
+            "AuthorLocation": "CA, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1694304000000,
+        "ReviewContent": "This place is the best thing since sliced bread great Sunday blues lineup I've been going there for over 50 years and enjoyed every single time I went I'll give it 10 Stars if you could",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Brad A.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1690761600000,
+        "ReviewContent": "It is one of the oldest drinking establishments in San Francisco and it feels like the day it was built. The staff is magnificent. The crowd is always interesting and the music is always fabulous. Go now.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Michael B.",
+            "AuthorLocation": "Cleveland, OH"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1688428800000,
+        "ReviewContent": "Got told I'd get cops called and would get arrested instantly \"if I tried something funny\" by security as he was ID checking my group of 4. This was my first time at a bar and it couldn't have been a less welcoming environment. Too bad 1 bad employee lost y'all more than $300+ in drinks. Also got called a thug while taking pictures on the alleyway next door. Definitely not the most welcoming place so heads up if you're young and on the darker side, plus security came out with his taser to intimidate us which is hilarious considering he is 250+ pounds. Thanks for the fun memory though",
+        "StarRating": 2,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Alex V.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1687564800000,
+        "ReviewContent": "This is a great local dive bar, the blues band was great, the drinks are reasonable and the atmosphere is fun and easy going",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Scott S.",
+            "AuthorLocation": "Westlake Village, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1686441600000,
+        "ReviewContent": "Live music at The Saloon never disappoints!! It's not for everyone, but it's a San Francisco gem if you're going for real blues music.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Dee J.",
+            "AuthorLocation": "Alameda, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1683590400000,
+        "ReviewContent": "Love this place! The people are very friendly. The music is fantastic. And the drinks are inexpensive. Great spot!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Stefano P.",
+            "AuthorLocation": "Rohnert Park, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1682812800000,
+        "ReviewContent": "This is the ONLY blues club in the entire Bay Area worth a darn for real blues music. They have a 40 + history. The owner is the rarest of human beings, a most generous club owner with a good ear for musicianship. The bartenders are fabulous. You can be yourself and dance the night away.  The Saloon is beloved to musicians. I have played there once a month for 34 years straight. It's my favorite place to play and I have been to 46 states in the U.S.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Cathy L.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1681776000000,
+        "ReviewContent": "The best blues bar in SF with great music 7 days a week.  If you're coming from out of town or live in SF but have never been to The Saloon - you have to stop in for a drink and some rocking' music!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Flo L.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1681257600000,
+        "ReviewContent": "An iconic dive bar in San Francisco, live music every day starting at 4:00pm. Circa 1861.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Markelle P.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1680998400000,
+        "ReviewContent": "I came here last night with 3 of my friends. They just wanted to grab one drink and then we were heading home. I am sober and don't drink, I ordered a soda water and found a stool to sit on and enjoy the music. My friend wanted to take a photo of us and their was a flash on her camera. After the second photo was taken I was still smiling and laughing and out of no where a huge ice cube is thrown directly at my eye from the bar tender and I immediately started crying from the pain. I was confused as to what had just happened I thought it must have been an accident and then I thought it was a shot glass she threw from how hard it was. My friend who took the photo realized she was trying to throw the ice cube at her to get her attention because she didn't like the flash of the camera. So the ice cube was thrown on purpose to hit my friend and hit me instead. I was embarrassed and people around had seen what had happened, when I looked up the bartender knew she had hit me and she was just shaking her head saying things under her breath. I was still so confused as to what happened and my friend walked me outside. She asked to look at my eye and told me it was bleeding. The bar tender cut my skin open under my eye with the ice she had thrown. My two other friends stayed in the bar and quickly told her what she had hurt me & how horrible it was and then they left. I drove home and I still am just in shock. I've debated filing a report to the police or just calling the owner but I have a feeling she might be an owner. I am just so disturbed this happened and I hope this woman doesn't go around assaulting patrons on the regular. Regardless.. if there is no flash allowed at the bar (we didn't see any signs) then the correct way to tell someone that is not to assault them. This woman was maybe in her 60s with blonde hair. This is a photo of my eye when it happened and when I got home and took off my makeup. Today I have a black eye. On Easter, which is also the death anniversary of my father and I had to spend time with family today with a black eye and share the wonderful story. Which everyone told me to press charges.",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Desiree L.",
+            "AuthorLocation": "Castro Valley, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1680220800000,
+        "ReviewContent": "Some of these bartenders r so strange. I walked in today and he asks what I'm having. I said tequila. Moments later he puts a generous shot infront of me. It's water. I mention it right away and he gets crazy and says it's not for me it's for his chihuahua to the left of me. I was very confused because he put it infront of me. Then he avoided me and went to the other end of bar. I get it I was a woman and he was refusing to serve me. I left but it was again an example that these bartenders r on crack or drunk on the job. Last time the old lady was so drunk full house and only serving a drink if she was having a shot per person she served. I want to like the place but their business logic is mental",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Jane D.",
+            "AuthorLocation": "NV, NV"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1679356800000,
+        "ReviewContent": "Dive bar. So important to the underside of our culture. Not the polished pressed wood and Marshall's art of modern America corporate bar. The Applewood esthetic you see in every conformed American town. The Saloon is none of that. I went there on a chilly San Francisco night. I went to same place all the poets and singers and writers went, because this place hasn't changed. Ever. I ordered a Budweiser because that's what you order in a place like this. Or a whiskey. Neat. No ice.I'm looking up at the stage, to mics, SM-58s, a drum kit. Janis Joplin sang up there. Everybody sang up there. It's Tuesday night. Plenty of seats. The bartender mostly ignores me. It's cold. The door is open. I keep my wool cap pulled down over my ears. Dive bar perfect. Nothing special. That's the whole point. Except the ghosts. They're painted on the walls. They're scrubbed into the floor. I place my hands on the bar and feel them.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Christopher M.",
+            "AuthorLocation": "Manhattan, NY"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1678233600000,
+        "ReviewContent": "to the bartender at the saloon tonightyou took a $300 cash tip from the very women I had to call emergency services for yea I am military guy who did call you then charged me $3 per cup of coffee after it i had a couple of matkers mark and you charged me more for my coffee tan my drinksyou probably walked out with a handful of money i hope the lady in the hospital is okcause you did more than a couple folks dirtyyou called your boss rather the EMTsi will not return EVErRi have been coming to listen to music for years the band even played a thank you song tp me for what didthen you charge me a stuoid amount for coffee after the EMTs arrived you were/are drunk behind the bar over services to others and then disrespect me by asking for what you did for just coffeei even said something to the coffee as I leftputting money before others safert will come back on you young lady",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Steven P.",
+            "AuthorLocation": "SoMa, San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1676505600000,
+        "ReviewContent": "Cool little bar one of the oldest in San Francisco . Live music . It is cash only so keep that in mind but it's a cool place to spend a couple of hours",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Danny P.",
+            "AuthorLocation": "Downey, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1676332800000,
+        "ReviewContent": "I had some out-of-town friends, who wanted to hear some blues, so we went to this bar, what a mistake!The bartender Shane is so rude and the worst, we have ever seen!The place is still extremely dirty! extremely",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Jimmy W.",
+            "AuthorLocation": "Menlo Park, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1670284800000,
+        "ReviewContent": "Stumbled upon this hidden gem on my last trip to the city. This is a fantastic Dive Bar. Comfortable, beautiful but very old bar. Cash only, don't expect a super fancy mixed drink. This is a dive bar, and it does what it does well. Fantastic bartender who was very friendly and welcoming. Live music twice a day, everyday but Christmas. What else do you want from a dive bar? Cheers.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Cory B.",
+            "AuthorLocation": "Fresno, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1666310400000,
+        "ReviewContent": "Fun time, comfortable vibe and live music - what else can you ask for. If you're into blues, this is the place for you. Fair warning, it is an older crowd but any age would feel welcome.",
+        "StarRating": 4,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Allanah H.",
+            "AuthorLocation": "South Los Angeles, Los Angeles, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1664841600000,
+        "ReviewContent": "This place is the real deal. Stiff drinks, incredible music, fun staff. Our bartender even took a twirl with a patron on the dance floor! If you like live music, this is the place to go.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Aimie B.",
+            "AuthorLocation": "Los Angeles, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1664582400000,
+        "ReviewContent": "Ok let me preface this by saying I absolutely love Sam Francisco nostalgic architecture and culture. I came here on a recommendation from a conversation with an uber driver about old buildings in the city. He was quick to let me know how it was \"The Oldest Bar in the area\". Well I am a sucker for a good dive bar and some history so I had him drop me off there. Based upon appearance this was everything I was hoping for. Old building. Some faded paint on the single paned windows door open which seemed really inviting. I walked in to find a middle aged bartender with a biker vest and orthopedic senior citizen shoes on with his face buried in his cell phone. I greeted him with a \"Hello\" and promontory got ignored as I went to find a seat. Upon finding my seat the odor of musty, moldy wood overtook me and I checked under the bar where I was sitting due to the strong smell of something rotting. But no big deal, I was here for the experience. Expecting a bit more hospitality from the bartender in orthopedic shoes I noticed he had a lap dog sitting on the bar which he was feeding water to at this point. Hoping to make eye contact or get his attention he started a conversation with two guys who were already at the bar. This went on for a few more minutes. He eventually looked in my direction, placed his hand on a large buck knife he had in a leather sheath on his belt and began to glare at me and walked toward my end of the bar. I said hello and asked what beers he had in a bottle. He didn't utter a word and pointed at a piece of cardboard which had beer box labels glued to it that was affixed to the bar and immediately looked at the ceiling in disgust. Thinking this may be part of the schtick of this place I ordered a beer, which finally got my first verbal response from this guy. He rudely just told me the price as he stared at the ceiling. Thinking this was a pay first place I got my wallet out and his second verbal berating came which was to rudely inform me that it was cash only. I paid for my beer and was hoping to take in the place, again this place came recommended. What I found was nothing short of disgusting. There was musical equipment (microphone stands, amplifiers etc.) sitting on the floor leading me to believe that this place must play live music. I could imagine how entertaining of a venue this place has the potential to be. Living in the 21st century I had already checked this place out online and noticed a unique bathroom which was half basement half washroom. It was about time for me to make a nature call when I entered the mens room. I was greeted by a set of stairs going under the foundation which I had to lower my head to make full entry. I found the single toiled which was full of human feces, toilet paper which was covered in fecal matter laying over the side of the toilet and floor. It looked like something from a 3rd world refugee camp. Completely disgusting. By this point I was about to leave but knew I had a drink waiting to be finished at the bar. I returned to my seat only to finally hear the bartender speak to a couple who walked in. They said \"Hello Shane\" which he replied with a grumble. They seemed to know of him or be regulars. He was about a half a tick less rude to them. But they seemed to accept it. I would imagine good service is hard to come by in that area if he's the norm. To sum this place up, it's a disgustingly dusty, musty wood smelling, rude service by a middle aged man who's a mix between a bootleg Sons Of Anarchy character and half cripple in orthopedic shoes fully equipped with an open carry fixed blade knife. The fecal matter covered toiled was just icing on the cake to the experience. I'm looking for the thumbs down button or -10 stars. I would never return to this place. Don't let the nostalgia fool you. It's a real dump.",
+        "StarRating": 1,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Harry C.",
+            "AuthorLocation": "Henderson, NV"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1662595200000,
+        "ReviewContent": "This is a dive bar.  But it isn't. It's a cool, local, eclectic dive bar! Cash only so prepare for that- in addition to incredible live music, helpful bartenders, and immaculate vibes. Put it on your SF list!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Lauren M.",
+            "AuthorLocation": "Washington, DC"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1661904000000,
+        "ReviewContent": "A real dive bar!Fabulous music!Great drinks!Welcoming bar staff!Great place to spend an evening meeting new friends!",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Una D.",
+            "AuthorLocation": "Santa Barbara, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1659830400000,
+        "ReviewContent": "This is the go-to place in SF for live music! It's very famous, but in the end it's just a dive bar. I wanted to see blues but the night I was there it was country - but country played very, very fast! Wow! Despite being very well known they don't scalp you for drinks. I definitely plan on going again the next time I'm in the area.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Gary C.",
+            "AuthorLocation": "San Diego, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1653177600000,
+        "ReviewContent": "Love this place. I'll be back next time I'm in SF. Great drinks reasonable prices. Nice vibes",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Dusty S.",
+            "AuthorLocation": "Norwalk, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1651363200000,
+        "ReviewContent": "Cool vibe. Nice place to check out. Cool bands. All age groups all kinds of people. A fun stop as you make your way through north Beaxh",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Linda K.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1643068800000,
+        "ReviewContent": "One night in san Fran found this gem. Great fucking time music was great I was Vibing there the whole night.  Place is out of control loved it.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Kevin A.",
+            "AuthorLocation": "Tujunga, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1640563200000,
+        "ReviewContent": "Excellent bar with a cool vibe. Very classic. A wide variety of drinks with reasonable prices. A must visit when you're in town.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Germund S.",
+            "AuthorLocation": "Torrance, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1629158400000,
+        "ReviewContent": "I have been going here for years... Not sure where the bad reviews come from but it must have been from someone to drunk to hang out any longer and was told to see the door! The bartender Shane is hilarious and never makes you wait for a drink. Has always been friendly enough to sit and chat with all day long (even if I am boring him to death!) The place has a funky old school vibe with a ton of regulars. The daily live music is the frosting on the cake. I highly recommend it! Get in early though.. seating is limited and it seems to pack out once the music starts.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Deah D.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1626393600000,
+        "ReviewContent": "This is a down home comfy saloon.  Not glamorous but absolutely genuine with great bands and strong drinks. You know this place has history. Love it.",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Kirsten F.",
+            "AuthorLocation": "San Francisco, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1625529600000,
+        "ReviewContent": "Please don't you tell anyone about this place, because it's friggin' amazing;)! and fyi a blazing hot Rockabilly band plays there on Monday nights",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Jonah R.",
+            "AuthorLocation": "Reno, NV"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    },
+    {
+        "ReviewDate": 1624579200000,
+        "ReviewContent": "Latest news, now open! Praise be! Noon - 2am everyday, with live music again. Visit their FB page for band updates. Normalcy is feeling better and better.https://www.facebook.com/saloonsf",
+        "StarRating": 5,
+        "ReviewType": "Yelp",
+        "Metadata": {
+            "YelpName": "The Saloon",
+            "AuthorName": "Dan H.",
+            "AuthorLocation": "Huntington Beach, CA"
+        },
+        "VenueName": "The Saloon",
+        "venue_id": 20
+    }
+]
